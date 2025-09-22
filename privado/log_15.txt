@@ -1,0 +1,13 @@
+
+[Registro de sesión: 22/9/2025, 18:16:23]
+  - ID de Sesión: 15
+  - Apodo: manol
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [22/9/2025, 18:16:23] Sesión iniciada. ID: 15
+--------------------------------------------------
