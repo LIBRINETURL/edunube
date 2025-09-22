@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 22/9/2025, 19:08:15]
+[Registro de sesiÃÂ³n: 22/9/2025, 19:08:15]
+  - ID de SesiÃÂ³n: 33
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [22/9/2025, 19:08:15] SesiÃÂ³n iniciada. ID: 33
+--------------------------------------------------
+[Registro de sesiÃ³n: 22/9/2025, 19:08:23]
   - ID de SesiÃ³n: 33
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [22/9/2025, 19:08:15] SesiÃ³n iniciada. ID: 33
+    - [22/9/2025, 19:08:23] Copiar enlace de archivo: "imagen pensamiento profundo.jpg"
 --------------------------------------------------
-[Registro de sesión: 22/9/2025, 19:08:23]
+[Registro de sesión: 22/9/2025, 19:08:37]
   - ID de Sesión: 33
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [22/9/2025, 19:08:23] Copiar enlace de archivo: "imagen pensamiento profundo.jpg"
+    - [22/9/2025, 19:08:37] Crear carpeta: "Libros ingles"
 --------------------------------------------------
