@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lector de Libro Digital</title>
+    <!-- Tailwind CSS para un estilo rápido y responsivo -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-indigo-50 to-purple-100 min-h-screen flex flex-col items-center justify-start p-4">
+
+    <!-- Contenedor inicial para la selección -->
+    <div id="initial-selection-container" class="flex flex-col items-center justify-center space-y-6 md:space-y-8 p-8 rounded-3xl shadow-xl bg-white">
+        <h1 class="text-3xl font-bold text-gray-800 text-center">Selecciona el tipo de libro:</h1>
+        <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
+            <button id="workbook-btn"
+                    class="bg-blue-600 text-white px-8 py-4 rounded-full font-bold text-lg shadow-lg transform transition-transform duration-200 hover:scale-105 hover:bg-blue-700">
+                WORKBOOK
+            </button>
+            <button id="students-btn"
+                    class="bg-purple-600 text-white px-8 py-4 rounded-full font-bold text-lg shadow-lg transform transition-transform duration-200 hover:scale-105 hover:bg-purple-700">
+                STUDENTS
+            </button>
+        </div>
+    </div>
+
+    <!-- Contenedor del libro, oculto inicialmente -->
+    <div id="book-container" class="bg-white p-6 md:p-10 rounded-3xl shadow-2xl max-w-4xl w-full flex-col items-center hidden">
+        <!-- Controles de navegación -->
+        <div class="mb-4 w-full flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
+            <!-- Botón para ir al inicio -->
+            <button id="title-btn" 
+                    class="bg-purple-600 text-white px-6 py-3 rounded-full font-bold shadow-lg transform transition-transform duration-200 hover:scale-105 hover:bg-purple-700">
+                Inicio
+            </button>
+
+            <!-- Menú desplegable para opciones predefinidas -->
+            <div class="flex space-x-2 items-center">
+                <select id="page-select"
+                       class="w-48 px-4 py-2 text-center border-2 border-gray-300 rounded-full focus:outline-none focus:border-purple-500 transition-colors duration-200">
+                    <!-- Las opciones se cargarán dinámicamente con JavaScript -->
+                </select>
+                <button id="go-select-btn"
+                        class="bg-green-600 text-white px-6 py-3 rounded-full font-bold shadow-lg transform transition-transform duration-200 hover:scale-105 hover:bg-green-700">
+                    Ir
+                </button>
+            </div>
+
+            <!-- Cuadro de número para ir a cualquier página -->
+            <div class="flex space-x-2 items-center">
+                <input type="number" id="page-input" placeholder="Página #" min="1"
+                       class="w-32 px-4 py-2 text-center border-2 border-gray-300 rounded-full focus:outline-none focus:border-purple-500 transition-colors duration-200"
+                />
+                <button id="go-input-btn"
+                        class="bg-green-600 text-white px-6 py-3 rounded-full font-bold shadow-lg transform transition-transform duration-200 hover:scale-105 hover:bg-green-700">
+                    Ir
+                </button>
+            </div>
+        </div>
+
+        <!-- Contenedor para el desplazamiento de las páginas -->
+        <div id="pages-container" class="w-full flex flex-col items-center space-y-4 overflow-y-scroll max-h-[80vh]">
+            <p id="loading-message" class="text-xl font-semibold text-gray-500 text-center">Libros de Ingles<br>Impulsado por Librillaia y Nube de limones</p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const initialSelectionContainer = document.getElementById('initial-selection-container');
+            const workbookBtn = document.getElementById('workbook-btn');
+            const studentsBtn = document.getElementById('students-btn');
+            const bookContainer = document.getElementById('book-container');
+
+            const pagesContainer = document.getElementById('pages-container');
+            const titleBtn = document.getElementById('title-btn');
+            const pageSelect = document.getElementById('page-select');
+            const goSelectBtn = document.getElementById('go-select-btn');
+            const pageInput = document.getElementById('page-input');
+            const goInputBtn = document.getElementById('go-input-btn');
+            
+            let totalPageCount = 0;
+            let imageBaseUrl = '';
+
+            // Opciones de navegación para STUDENTS
+            const studentsOptions = [
+                { value: "1", text: "Título (Página 1)" },
+                { value: "2", text: "Contenidos (Página 2)" },
+                { value: "4", text: "Unidad 0 (Página 4)" },
+                { value: "8", text: "Unidad 1 (Página 8)" },
+                { value: "20", text: "Tema 2 (Página 20)" },
+                { value: "32", text: "Tema 3 (Página 32)" },
+                { value: "44", text: "Tema 4 (Página 44)" },
+                { value: "56", text: "Tema 5 (Página 56)" },
+                { value: "66", text: "Tema 6 (Página 66)" },
+                { value: "80", text: "Tema 7 (Página 80)" },
+                { value: "92", text: "Vocabulario (Página 92)" },
+                { value: "106", text: "Writing (Página 106)" },
+                { value: "114", text: "Examen (Página 114)" },
+                { value: "128", text: "GRAMMAR (Página 128)" },
+                { value: "131", text: "PRONUNCIACION (PAG 131)" },
+                { value: "132", text: "PHRASAL (PAG 132)" },
+                { value: "134", text: "IRREGULAR VEBS (PAG 134)" },
+                { value: "136", text: "FIN (136)" }
+            ];
+
+            // Opciones de navegación para WORKBOOK
+            const workbookOptions = [
+                { value: "1", text: "TITULO (PAG 1)" },
+                { value: "3", text: "CONTENIDOS (PAG 3)" },
+                { value: "4", text: "UNIT 0 (PAG 4)" },
+                { value: "8", text: "UNIT 1 (PAG 8)" },
+                { value: "18", text: "UNIT 2 (PAG 18)" },
+                { value: "28", text: "UNIT 3 (PAG 28)" },
+                { value: "38", text: "UNIT 4 (PAG 38)" },
+                { value: "48", text: "UNIT 5 (PAG 48)" },
+                { value: "58", text: "UNIT 6 (PAG 58)" },
+                { value: "68", text: "UNIT 7 (PAG 68)" },
+                { value: "78", text: "GRAMMAR (PAG 78)" },
+                { value: "98", text: "EXAM (PAG 98)" },
+                { value: "115", text: "READING (PAG 115)" },
+                { value: "117", text: "LISTENING (PAG 117)" },
+                { value: "119", text: "SPEAKING (PAG 119)" },
+                { value: "127", text: "PHARSAL VERBS (PAG 127)" },
+                { value: "129", text: "WORD BUILDING (PAG 129)" },
+                { value: "131", text: "IRREGULAR VERBS (PAG 131)" },
+                { value: "133", text: "FALSE FRIENDS (PAG 133)" },
+                { value: "143", text: "IDIOMS (PAG 143)" },
+                { value: "135", text: "FIN (135)" }
+            ];
+
+            // Función para poblar el menú desplegable
+            const populateDropdown = (options) => {
+                // Limpia las opciones existentes
+                pageSelect.innerHTML = '';
+                // Añade las nuevas opciones
+                options.forEach(option => {
+                    const newOption = document.createElement('option');
+                    newOption.value = option.value;
+                    newOption.textContent = option.text;
+                    pageSelect.appendChild(newOption);
+                });
+            };
+
+            // Función para cargar una imagen de forma asíncrona y devolver una promesa
+            const loadImage = (pageNumber) => {
+                return new Promise((resolve, reject) => {
+                    const img = new Image();
+                    img.onload = () => resolve(img);
+                    img.onerror = () => reject();
+                    img.src = `${imageBaseUrl}${pageNumber}.png`;
+                });
+            };
+
+            // Función para encontrar el número total de páginas y cargarlas todas
+            const loadAllPages = async () => {
+                let pageCount = 1;
+                let loading = true;
+                
+                // Crea y muestra el mensaje de carga
+                const loadingMessage = document.createElement('p');
+                loadingMessage.id = 'loading-message';
+                loadingMessage.className = 'text-xl font-semibold text-gray-500 text-center';
+                loadingMessage.innerHTML = 'Libros de Ingles<br>Impulsado por Librillaia y Nube de limones';
+                pagesContainer.appendChild(loadingMessage);
+
+                while (loading) {
+                    try {
+                        const img = await loadImage(pageCount);
+                        // Añade la imagen al contenedor
+                        img.className = 'w-full h-auto object-contain rounded-xl shadow-md';
+                        img.id = `page-${pageCount}`; // Asigna un ID para facilitar el scroll
+                        pagesContainer.appendChild(img);
+                        pageCount++;
+                    } catch (error) {
+                        loading = false;
+                    }
+                }
+                
+                totalPageCount = pageCount - 1;
+
+                // Si se encontraron páginas, elimina el mensaje de carga
+                const currentLoadingMessage = document.getElementById('loading-message');
+                if (totalPageCount > 0 && currentLoadingMessage) {
+                    currentLoadingMessage.remove();
+                } else if (currentLoadingMessage) {
+                    currentLoadingMessage.textContent = 'No se encontraron páginas.';
+                }
+            };
+
+            // Función para desplazar a una página
+            const goToPage = (pageNumber) => {
+                const targetImage = document.getElementById(`page-${pageNumber}`);
+                if (targetImage) {
+                    targetImage.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            };
+
+            // Manejador del botón "Inicio"
+            titleBtn.addEventListener('click', () => {
+                pagesContainer.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            });
+
+            // Manejador del botón "Ir" del menú desplegable
+            goSelectBtn.addEventListener('click', () => {
+                const pageNumber = pageSelect.value;
+                goToPage(pageNumber);
+            });
+
+            // Manejador del botón "Ir" del cuadro de número
+            goInputBtn.addEventListener('click', () => {
+                const pageNumber = parseInt(pageInput.value, 10);
+                
+                if (isNaN(pageNumber) || pageNumber < 1) {
+                    pageInput.value = ''; // Limpia el input
+                    pageInput.placeholder = `Inválido`;
+                    setTimeout(() => {
+                        pageInput.placeholder = `Página #`;
+                    }, 2000); // Restaura el placeholder
+                    return;
+                }
+                
+                goToPage(pageNumber);
+            });
+
+            // Manejadores para los nuevos botones de selección
+            workbookBtn.addEventListener('click', () => {
+                initialSelectionContainer.classList.add('hidden');
+                bookContainer.classList.remove('hidden');
+                pagesContainer.innerHTML = ''; // Limpia las páginas
+                populateDropdown(workbookOptions);
+                imageBaseUrl = 'https://limonero7743-design.github.io/TIERRA-DE-CABRAS/WORKBOOK/';
+                loadAllPages();
+            });
+
+            studentsBtn.addEventListener('click', () => {
+                initialSelectionContainer.classList.add('hidden');
+                bookContainer.classList.remove('hidden');
+                pagesContainer.innerHTML = ''; // Limpia las páginas
+                populateDropdown(studentsOptions);
+                imageBaseUrl = 'https://limonero7743-design.github.io/TIERRA-DE-CABRAS/STUDENTS/';
+                loadAllPages();
+            });
+        });
+    </script>
+</body>
+</html>
