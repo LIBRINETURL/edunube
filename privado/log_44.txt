@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 23/9/2025, 19:35:22]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 23/9/2025, 19:35:22]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 44
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [23/9/2025, 19:35:22] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 44
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 23/9/2025, 19:35:38]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 44
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [23/9/2025, 19:35:22] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 44
+    - [23/9/2025, 19:35:38] Subir archivo: "ejercicios repaso inorganica (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 23/9/2025, 19:35:38]
+[Registro de sesiÃÂÃÂ³n: 23/9/2025, 19:36:41]
   - ID de SesiÃÂÃÂ³n: 44
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [23/9/2025, 19:35:38] Subir archivo: "ejercicios repaso inorganica (1).pdf"
+    - [23/9/2025, 19:36:41] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 23/9/2025, 19:36:41]
+[Registro de sesiÃÂ³n: 23/9/2025, 19:40:26]
   - ID de SesiÃÂ³n: 44
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [23/9/2025, 19:36:41] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
+    - [23/9/2025, 19:40:26] Subir archivo: "ejercicios repaso inorganica (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 23/9/2025, 19:40:26]
+[Registro de sesiÃ³n: 23/9/2025, 19:40:44]
   - ID de SesiÃ³n: 44
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [23/9/2025, 19:40:26] Subir archivo: "ejercicios repaso inorganica (1).pdf"
+    - [23/9/2025, 19:40:44] Subir archivo: "ejercicios repaso inorganica (1s).pdf"
 --------------------------------------------------
-[Registro de sesión: 23/9/2025, 19:40:44]
+[Registro de sesión: 23/9/2025, 19:41:45]
   - ID de Sesión: 44
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/9/2025, 19:40:44] Subir archivo: "ejercicios repaso inorganica (1s).pdf"
+    - [23/9/2025, 19:41:45] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
 --------------------------------------------------
