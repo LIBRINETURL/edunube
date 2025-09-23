@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/9/2025, 23:06:06]
+[Registro de sesiÃ³n: 23/9/2025, 23:06:06]
+  - ID de SesiÃ³n: 46
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/9/2025, 23:06:06] SesiÃ³n iniciada. ID: 46
+--------------------------------------------------
+[Registro de sesión: 23/9/2025, 23:06:14]
   - ID de Sesión: 46
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/9/2025, 23:06:06] Sesión iniciada. ID: 46
+    - [23/9/2025, 23:06:14] Subir archivo: "01_Reales_Complejos_Con Soluciones.pdf"
 --------------------------------------------------
