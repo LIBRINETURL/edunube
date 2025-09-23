@@ -1,5 +1,18 @@
 
-[Registro de sesiÃÂÃÂ³n: 23/9/2025, 16:37:03]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 23/9/2025, 16:37:03]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 43
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [23/9/2025, 16:37:03] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 43
+    - [23/9/2025, 16:37:03] Copiar enlace de archivo: "Libros ingles/LIBROS PIRATA ONLINE APP .html"
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 23/9/2025, 16:37:21]
   - ID de SesiÃÂÃÂ³n: 43
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,10 +22,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [23/9/2025, 16:37:03] SesiÃÂÃÂ³n iniciada. ID: 43
-    - [23/9/2025, 16:37:03] Copiar enlace de archivo: "Libros ingles/LIBROS PIRATA ONLINE APP .html"
+    - [23/9/2025, 16:37:21] Copiar enlace de archivo: "Libros ingles/STUDENTS.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 23/9/2025, 16:37:21]
+[Registro de sesiÃÂ³n: 23/9/2025, 16:37:39]
   - ID de SesiÃÂ³n: 43
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -22,9 +34,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [23/9/2025, 16:37:21] Copiar enlace de archivo: "Libros ingles/STUDENTS.pdf"
+    - [23/9/2025, 16:37:39] Copiar enlace de archivo: "Libros ingles/WORKBOOK.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 23/9/2025, 16:37:39]
+[Registro de sesiÃ³n: 23/9/2025, 16:43:54]
   - ID de SesiÃ³n: 43
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -34,9 +46,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [23/9/2025, 16:37:39] Copiar enlace de archivo: "Libros ingles/WORKBOOK.pdf"
+    - [23/9/2025, 16:43:54] Subir archivo: "Libros ingles/APUNTES DE FORMULACIÃN INORGÃNICA-1Âº BT.pdf"
+    - [23/9/2025, 16:43:54] Subir archivo: "Libros ingles/4Âº ESO. UNIDAD 3. NOMENCLATURA INORGÃNICA.pdf"
 --------------------------------------------------
-[Registro de sesión: 23/9/2025, 16:43:54]
+[Registro de sesión: 23/9/2025, 16:44:05]
   - ID de Sesión: 43
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -46,6 +59,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/9/2025, 16:43:54] Subir archivo: "Libros ingles/APUNTES DE FORMULACIÓN INORGÁNICA-1º BT.pdf"
-    - [23/9/2025, 16:43:54] Subir archivo: "Libros ingles/4º ESO. UNIDAD 3. NOMENCLATURA INORGÁNICA.pdf"
+    - [23/9/2025, 16:44:05] Copiar enlace de archivo: "Libros ingles/4º ESO. UNIDAD 3. NOMENCLATURA INORGÁNICA.pdf"
 --------------------------------------------------
