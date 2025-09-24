@@ -1,0 +1,13 @@
+
+[Registro de sesión: 24/9/2025, 11:23:56]
+  - ID de Sesión: 49
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 100% (Cargando: No)
+  - Acciones Realizadas:
+    - [24/9/2025, 11:23:56] Sesión iniciada. ID: 49
+--------------------------------------------------
