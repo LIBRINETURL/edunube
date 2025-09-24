@@ -1,5 +1,17 @@
 
-[Registro de sesión: 24/9/2025, 14:03:19]
+[Registro de sesiÃ³n: 24/9/2025, 14:03:19]
+  - ID de SesiÃ³n: 50
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 76% (Cargando: No)
+  - Acciones Realizadas:
+    - [24/9/2025, 14:03:19] SesiÃ³n iniciada. ID: 50
+--------------------------------------------------
+[Registro de sesión: 24/9/2025, 14:03:35]
   - ID de Sesión: 50
   - Apodo: antonio
   - IP: 80.73.146.215
@@ -9,5 +21,9 @@
     - Dimensiones de Pantalla: 1536x864
     - Batería: 76% (Cargando: No)
   - Acciones Realizadas:
-    - [24/9/2025, 14:03:19] Sesión iniciada. ID: 50
+    - [24/9/2025, 14:03:35] Subir archivo: "Captura de pantalla 2025-09-24 140050.png"
+    - [24/9/2025, 14:03:35] Subir archivo: "Captura de pantalla 2025-09-24 140131.png"
+    - [24/9/2025, 14:03:35] Subir archivo: "Captura de pantalla 2025-09-24 140138.png"
+    - [24/9/2025, 14:03:35] Subir archivo: "Captura de pantalla 2025-09-24 140149.png"
+    - [24/9/2025, 14:03:35] Subir archivo: "Captura de pantalla 2025-09-24 140152.png"
 --------------------------------------------------
