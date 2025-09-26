@@ -1,5 +1,18 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:58:17]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:58:17]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 67
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [26/9/2025, 23:58:17] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 67
+    - [26/9/2025, 23:58:17] Copiar enlace de archivo: "ejercicios Q.inorgÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡nica-1ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºBT.pdf"
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:58:29]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,10 +22,11 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/9/2025, 23:58:17] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 67
-    - [26/9/2025, 23:58:17] Copiar enlace de archivo: "ejercicios Q.inorgÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡nica-1ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºBT.pdf"
+    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "ejercicios repaso inorganica (1) (1).pdf"
+    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
+    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "index_delayed_ui.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:58:29]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:59:05]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -22,11 +36,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "ejercicios repaso inorganica (1) (1).pdf"
-    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
-    - [26/9/2025, 23:58:29] Copiar enlace de archivo: "index_delayed_ui.pdf"
+    - [26/9/2025, 23:59:05] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/9/2025, 23:59:05]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 27/9/2025, 0:02:00]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -36,9 +48,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/9/2025, 23:59:05] Copiar enlace de archivo: "ejercicios repaso inorganica (1).pdf"
+    - [27/9/2025, 0:02:00] Crear carpeta: "NOMENCLATURA INORGANICA"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 27/9/2025, 0:02:00]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 27/9/2025, 0:02:49]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -48,9 +60,13 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [27/9/2025, 0:02:00] Crear carpeta: "NOMENCLATURA INORGANICA"
+    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios Q.inorgÃÂÃÂÃÂÃÂ¡nica-1ÃÂÃÂÃÂÃÂºBT.pdf"
+    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios repaso inorganica (1) (1).pdf"
+    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios repaso inorganica (1).pdf"
+    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ESQUEMA-RESUMEN-NOMENCLATURA Y FORMULACIÃÂÃÂÃÂÃÂN DE QUÃÂÃÂÃÂÃÂMICA INORGÃÂÃÂÃÂÃÂNICA.pdf"
+    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/index_delayed_ui.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 27/9/2025, 0:02:49]
+[Registro de sesiÃÂÃÂ³n: 27/9/2025, 0:03:06]
   - ID de SesiÃÂÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -60,13 +76,11 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios Q.inorgÃÂÃÂ¡nica-1ÃÂÃÂºBT.pdf"
-    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios repaso inorganica (1) (1).pdf"
-    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ejercicios repaso inorganica (1).pdf"
-    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/ESQUEMA-RESUMEN-NOMENCLATURA Y FORMULACIÃÂÃÂN DE QUÃÂÃÂMICA INORGÃÂÃÂNICA.pdf"
-    - [27/9/2025, 0:02:49] Subir archivo: "NOMENCLATURA INORGANICA/index_delayed_ui.pdf"
+    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/resumen RSEQ formulaciÃÂÃÂ³n.pdf"
+    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/soluciones ejercicios Q.inirgÃÂÃÂ¡nica-1ÃÂÃÂºBT.pdf"
+    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/TABLA PERIÃÂÃÂDICA DE LOS ELEMENTOS.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 27/9/2025, 0:03:06]
+[Registro de sesiÃÂ³n: 27/9/2025, 0:03:17]
   - ID de SesiÃÂ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -76,11 +90,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/resumen RSEQ formulaciÃÂ³n.pdf"
-    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/soluciones ejercicios Q.inirgÃÂ¡nica-1ÃÂºBT.pdf"
-    - [27/9/2025, 0:03:06] Subir archivo: "NOMENCLATURA INORGANICA/TABLA PERIÃÂDICA DE LOS ELEMENTOS.pdf"
+    - [27/9/2025, 0:03:17] Copiar enlace de archivo: "NOMENCLATURA INORGANICA/ESQUEMA-RESUMEN-NOMENCLATURA Y FORMULACIÃÂN DE QUÃÂMICA INORGÃÂNICA.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 27/9/2025, 0:03:17]
+[Registro de sesiÃ³n: 27/9/2025, 0:03:47]
   - ID de SesiÃ³n: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -90,9 +102,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [27/9/2025, 0:03:17] Copiar enlace de archivo: "NOMENCLATURA INORGANICA/ESQUEMA-RESUMEN-NOMENCLATURA Y FORMULACIÃN DE QUÃMICA INORGÃNICA.pdf"
+    - [27/9/2025, 0:03:47] Copiar enlace de archivo: "NOMENCLATURA INORGANICA/TABLA PERIÃDICA DE LOS ELEMENTOS.pdf"
 --------------------------------------------------
-[Registro de sesión: 27/9/2025, 0:03:47]
+[Registro de sesión: 27/9/2025, 0:04:06]
   - ID de Sesión: 67
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -102,5 +114,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/9/2025, 0:03:47] Copiar enlace de archivo: "NOMENCLATURA INORGANICA/TABLA PERIÓDICA DE LOS ELEMENTOS.pdf"
+    - [27/9/2025, 0:04:06] Copiar enlace de archivo: "NOMENCLATURA INORGANICA/ejercicios Q.inorgánica-1ºBT.pdf"
 --------------------------------------------------
