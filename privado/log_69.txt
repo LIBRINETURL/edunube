@@ -1,5 +1,17 @@
 
-[Registro de sesión: 27/9/2025, 0:13:34]
+[Registro de sesiÃ³n: 27/9/2025, 0:13:34]
+  - ID de SesiÃ³n: 69
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [27/9/2025, 0:13:34] SesiÃ³n iniciada. ID: 69
+--------------------------------------------------
+[Registro de sesión: 27/9/2025, 0:14:33]
   - ID de Sesión: 69
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/9/2025, 0:13:34] Sesión iniciada. ID: 69
+    - [27/9/2025, 0:14:33] Subir archivo: "NUMEROS REALES/01_Reales_Complejos_Con Soluciones.pdf"
+    - [27/9/2025, 0:14:33] Subir archivo: "NUMEROS REALES/01_Reales_Complejos_libro.pdf"
+    - [27/9/2025, 0:14:33] Subir archivo: "NUMEROS REALES/Matematicas 1º Bachillerato Ciencias _ La Flota.pdf"
+    - [27/9/2025, 0:14:33] Subir archivo: "NUMEROS REALES/UD01_Ejercicios_Repaso.pdf"
+    - [27/9/2025, 0:14:33] Subir archivo: "NUMEROS REALES/UD01_Repaso_Soluciones.pdf"
 --------------------------------------------------
