@@ -1,5 +1,17 @@
 
-[Registro de sesión: 28/9/2025, 5:47:56]
+[Registro de sesiÃ³n: 28/9/2025, 5:47:56]
+  - ID de SesiÃ³n: 74
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [28/9/2025, 5:47:56] Copiar enlace de archivo: "pharasel verbs/PHRASAL VERBS2.png"
+--------------------------------------------------
+[Registro de sesión: 28/9/2025, 5:48:21]
   - ID de Sesión: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [28/9/2025, 5:47:56] Copiar enlace de archivo: "pharasel verbs/PHRASAL VERBS2.png"
+    - [28/9/2025, 5:48:21] Subir archivo: "pharasel verbs/IMG_8090.jpg"
 --------------------------------------------------
