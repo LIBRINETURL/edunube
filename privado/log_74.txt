@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:37:29]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:37:29]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 74
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [28/9/2025, 5:37:29] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 74
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:37:50]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [28/9/2025, 5:37:29] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 74
+    - [28/9/2025, 5:37:50] Copiar enlace de archivo: "evakuation criteria/MY GRADE CHART IN ENGLISH LOMLOE - Otros.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:37:50]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:38:23]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [28/9/2025, 5:37:50] Copiar enlace de archivo: "evakuation criteria/MY GRADE CHART IN ENGLISH LOMLOE - Otros.pdf"
+    - [28/9/2025, 5:38:23] Copiar enlace de archivo: "evakuation criteria/RUBRICA SPK.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:38:23]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 28/9/2025, 5:38:34]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [28/9/2025, 5:38:23] Copiar enlace de archivo: "evakuation criteria/RUBRICA SPK.pdf"
+    - [28/9/2025, 5:38:34] Copiar enlace de archivo: "evakuation criteria/RUÃÂÃÂÃÂÃÂBRICA WRT.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 28/9/2025, 5:38:34]
+[Registro de sesiÃÂÃÂ³n: 28/9/2025, 5:40:42]
   - ID de SesiÃÂÃÂ³n: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [28/9/2025, 5:38:34] Copiar enlace de archivo: "evakuation criteria/RUÃÂÃÂBRICA WRT.pdf"
+    - [28/9/2025, 5:40:42] Crear carpeta: "pharasel verbs"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 28/9/2025, 5:40:42]
+[Registro de sesiÃÂ³n: 28/9/2025, 5:41:51]
   - ID de SesiÃÂ³n: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -56,18 +68,6 @@
     - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
-  - Acciones Realizadas:
-    - [28/9/2025, 5:40:42] Crear carpeta: "pharasel verbs"
---------------------------------------------------
-[Registro de sesiÃ³n: 28/9/2025, 5:41:51]
-  - ID de SesiÃ³n: 74
-  - Apodo: antonio
-  - IP: 85.86.58.132
-  - Dispositivo:
-    - Sistema Operativo: Windows
-    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
-    - Dimensiones de Pantalla: 1280x720
-    - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
     - [28/9/2025, 5:41:51] Subir archivo: "INGLES 0/STARTER U-1.png"
     - [28/9/2025, 5:41:51] Subir archivo: "INGLES 0/STARTER U-2.png"
@@ -79,7 +79,19 @@
     - [28/9/2025, 5:41:51] Subir archivo: "INGLES 0/U1-3.png"
     - [28/9/2025, 5:41:51] Subir archivo: "INGLES 0/U1-4.png"
 --------------------------------------------------
-[Registro de sesión: 28/9/2025, 5:41:58]
+[Registro de sesiÃ³n: 28/9/2025, 5:41:58]
+  - ID de SesiÃ³n: 74
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [28/9/2025, 5:41:58] Copiar enlace de archivo: "INGLES 0/STARTER U-1.png"
+--------------------------------------------------
+[Registro de sesión: 28/9/2025, 5:42:22]
   - ID de Sesión: 74
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -89,5 +101,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [28/9/2025, 5:41:58] Copiar enlace de archivo: "INGLES 0/STARTER U-1.png"
+    - [28/9/2025, 5:42:22] Copiar enlace de archivo: "INGLES 0/STARTER U-2.png"
 --------------------------------------------------
