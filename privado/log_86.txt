@@ -1,5 +1,17 @@
 
-[Registro de sesión: 1/10/2025, 19:54:14]
+[Registro de sesiÃ³n: 1/10/2025, 19:54:14]
+  - ID de SesiÃ³n: 86
+  - Apodo: A
+  - IP: 46.234.149.0
+  - Dispositivo:
+    - Sistema Operativo: Android
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 412x915
+    - BaterÃ­a: 7% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [1/10/2025, 19:54:14] SesiÃ³n iniciada. ID: 86
+--------------------------------------------------
+[Registro de sesión: 1/10/2025, 19:55:57]
   - ID de Sesión: 86
   - Apodo: A
   - IP: 46.234.149.0
@@ -9,5 +21,24 @@
     - Dimensiones de Pantalla: 412x915
     - Batería: 7% (Cargando: Sí)
   - Acciones Realizadas:
-    - [1/10/2025, 19:54:14] Sesión iniciada. ID: 86
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195307.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195301.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195257.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195250.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195246.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195239.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195151.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195142.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195131.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195124.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195110.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195101.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195051.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195043.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195022.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195015.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_195006.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_194959.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG_20251001_194938.jpg"
+    - [1/10/2025, 19:55:57] Subir archivo: "textos expositivos/IMG-20251001-WA0064.jpg"
 --------------------------------------------------
