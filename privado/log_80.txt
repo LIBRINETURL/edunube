@@ -1,0 +1,13 @@
+
+[Registro de sesión: 1/10/2025, 19:27:18]
+  - ID de Sesión: 80
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1600x900
+    - Batería: 100% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [1/10/2025, 19:27:18] Sesión iniciada. ID: 80
+--------------------------------------------------
