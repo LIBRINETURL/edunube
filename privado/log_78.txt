@@ -1,0 +1,13 @@
+
+[Registro de sesión: 1/10/2025, 13:44:26]
+  - ID de Sesión: 78
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 74% (Cargando: No)
+  - Acciones Realizadas:
+    - [1/10/2025, 13:44:26] Sesión iniciada. ID: 78
+--------------------------------------------------
