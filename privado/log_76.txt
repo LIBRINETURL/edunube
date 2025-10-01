@@ -1,0 +1,13 @@
+
+[Registro de sesión: 1/10/2025, 13:40:47]
+  - ID de Sesión: 76
+  - Apodo: Textos expositivos
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 75% (Cargando: No)
+  - Acciones Realizadas:
+    - [1/10/2025, 13:40:47] Sesión iniciada. ID: 76
+--------------------------------------------------
