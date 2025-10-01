@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 2/10/2025, 0:49:26]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 2/10/2025, 0:49:26]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 89
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [2/10/2025, 0:49:26] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 89
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 2/10/2025, 0:49:57]
   - ID de SesiÃÂÃÂ³n: 89
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [2/10/2025, 0:49:26] SesiÃÂÃÂ³n iniciada. ID: 89
+    - [2/10/2025, 0:49:57] Subir archivo: "2/ACTIVIDAD PODCAST.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 2/10/2025, 0:49:57]
+[Registro de sesiÃÂ³n: 2/10/2025, 0:52:52]
   - ID de SesiÃÂ³n: 89
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [2/10/2025, 0:49:57] Subir archivo: "2/ACTIVIDAD PODCAST.pdf"
+    - [2/10/2025, 0:52:52] Copiar enlace de archivo: "2/ACTIVIDAD PODCAST.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 2/10/2025, 0:52:52]
+[Registro de sesiÃ³n: 2/10/2025, 0:54:10]
   - ID de SesiÃ³n: 89
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [2/10/2025, 0:52:52] Copiar enlace de archivo: "2/ACTIVIDAD PODCAST.pdf"
+    - [2/10/2025, 0:54:10] Copiar enlace de archivo: "Libros ingles/Actividad 1. Bachillerato (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 2/10/2025, 0:54:10]
+[Registro de sesión: 2/10/2025, 0:54:38]
   - ID de Sesión: 89
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -45,5 +57,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [2/10/2025, 0:54:10] Copiar enlace de archivo: "Libros ingles/Actividad 1. Bachillerato (1).pdf"
+    - [2/10/2025, 0:54:38] Copiar enlace de archivo: "Libros ingles/Modelo comentario PAU alumno.pdf"
 --------------------------------------------------
