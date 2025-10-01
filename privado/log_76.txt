@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 1/10/2025, 13:40:47]
+[Registro de sesiÃÂ³n: 1/10/2025, 13:40:47]
+  - ID de SesiÃÂ³n: 76
+  - Apodo: Textos expositivos
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃÂ­a: 75% (Cargando: No)
+  - Acciones Realizadas:
+    - [1/10/2025, 13:40:47] SesiÃÂ³n iniciada. ID: 76
+--------------------------------------------------
+[Registro de sesiÃ³n: 1/10/2025, 13:40:56]
   - ID de SesiÃ³n: 76
   - Apodo: Textos expositivos
   - IP: 80.73.146.215
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1536x864
     - BaterÃ­a: 75% (Cargando: No)
   - Acciones Realizadas:
-    - [1/10/2025, 13:40:47] SesiÃ³n iniciada. ID: 76
+    - [1/10/2025, 13:40:56] Crear carpeta: "textos expositivos"
 --------------------------------------------------
-[Registro de sesión: 1/10/2025, 13:40:56]
+[Registro de sesión: 1/10/2025, 13:42:06]
   - ID de Sesión: 76
   - Apodo: Textos expositivos
   - IP: 80.73.146.215
@@ -19,7 +31,10 @@
     - Sistema Operativo: Windows
     - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
     - Dimensiones de Pantalla: 1536x864
-    - Batería: 75% (Cargando: No)
+    - Batería: 74% (Cargando: No)
   - Acciones Realizadas:
-    - [1/10/2025, 13:40:56] Crear carpeta: "textos expositivos"
+    - [1/10/2025, 13:42:06] Subir archivo: "Libros ingles/Modelo comentario PAU alumno.pdf"
+    - [1/10/2025, 13:42:06] Subir archivo: "Libros ingles/Textos sencillos para aprender a comentar (1) (3).pdf"
+    - [1/10/2025, 13:42:06] Subir archivo: "Libros ingles/Planificación 1 de Bachillerato.pdf"
+    - [1/10/2025, 13:42:06] Subir archivo: "Libros ingles/Actividad 1. Bachillerato (1).pdf"
 --------------------------------------------------
