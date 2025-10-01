@@ -1,5 +1,17 @@
 
-[Registro de sesión: 1/10/2025, 14:45:35]
+[Registro de sesiÃ³n: 1/10/2025, 14:45:35]
+  - ID de SesiÃ³n: 79
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 60% (Cargando: No)
+  - Acciones Realizadas:
+    - [1/10/2025, 14:45:35] SesiÃ³n iniciada. ID: 79
+--------------------------------------------------
+[Registro de sesión: 1/10/2025, 14:45:46]
   - ID de Sesión: 79
   - Apodo: antonio
   - IP: 80.73.146.215
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1536x864
     - Batería: 60% (Cargando: No)
   - Acciones Realizadas:
-    - [1/10/2025, 14:45:35] Sesión iniciada. ID: 79
+    - [1/10/2025, 14:45:46] Subir archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
+    - [1/10/2025, 14:45:46] Subir archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
 --------------------------------------------------
