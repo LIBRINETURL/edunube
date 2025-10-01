@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 1/10/2025, 19:46:56]
+[Registro de sesiÃÂÃÂ³n: 1/10/2025, 19:46:56]
+  - ID de SesiÃÂÃÂ³n: 85
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [1/10/2025, 19:46:56] SesiÃÂÃÂ³n iniciada. ID: 85
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 1/10/2025, 19:47:03]
   - ID de SesiÃÂ³n: 85
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [1/10/2025, 19:46:56] SesiÃÂ³n iniciada. ID: 85
+    - [1/10/2025, 19:47:03] Crear carpeta: "EF"
 --------------------------------------------------
-[Registro de sesiÃ³n: 1/10/2025, 19:47:03]
+[Registro de sesiÃ³n: 1/10/2025, 19:48:38]
   - ID de SesiÃ³n: 85
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [1/10/2025, 19:47:03] Crear carpeta: "EF"
+    - [1/10/2025, 19:48:38] Subir archivo: "EF/Captura de pantalla 2025-10-01 194411 (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 1/10/2025, 19:48:38]
+[Registro de sesión: 1/10/2025, 19:56:46]
   - ID de Sesión: 85
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [1/10/2025, 19:48:38] Subir archivo: "EF/Captura de pantalla 2025-10-01 194411 (1).pdf"
+    - [1/10/2025, 19:56:46] Copiar enlace de archivo: "EF/Captura de pantalla 2025-10-01 194411 (1).pdf"
 --------------------------------------------------
