@@ -1,0 +1,13 @@
+
+[Registro de sesión: 2/10/2025, 21:23:23]
+  - ID de Sesión: 97
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 80% (Cargando: No)
+  - Acciones Realizadas:
+    - [2/10/2025, 21:23:23] Sesión iniciada. ID: 97
+--------------------------------------------------
