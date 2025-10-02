@@ -1,0 +1,13 @@
+
+[Registro de sesión: 2/10/2025, 16:46:36]
+  - ID de Sesión: 94
+  - Apodo: josi
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [2/10/2025, 16:46:36] Sesión iniciada. ID: 94
+--------------------------------------------------
