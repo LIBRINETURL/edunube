@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 2/10/2025, 21:34:11]
+[Registro de sesiÃÂ³n: 2/10/2025, 21:34:11]
+  - ID de SesiÃÂ³n: 103
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [2/10/2025, 21:34:11] SesiÃÂ³n iniciada. ID: 103
+--------------------------------------------------
+[Registro de sesiÃ³n: 2/10/2025, 21:34:19]
   - ID de SesiÃ³n: 103
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [2/10/2025, 21:34:11] SesiÃ³n iniciada. ID: 103
+    - [2/10/2025, 21:34:19] Copiar enlace de archivo: "2/10/conjugacic3b3n-de-los-tiempos-verbales-del-castellano1 (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 2/10/2025, 21:34:19]
+[Registro de sesión: 2/10/2025, 21:34:28]
   - ID de Sesión: 103
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -21,5 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [2/10/2025, 21:34:19] Copiar enlace de archivo: "2/10/conjugacic3b3n-de-los-tiempos-verbales-del-castellano1 (1).pdf"
+    - [2/10/2025, 21:34:28] Copiar enlace de archivo: "2/10/ACTIVIDADES MORFOLOGÍA PAU.pdf"
+    - [2/10/2025, 21:34:28] Copiar enlace de archivo: "2/10/conjugacic3b3n-de-los-tiempos-verbales-del-castellano1 (1).pdf"
+    - [2/10/2025, 21:34:28] Copiar enlace de archivo: "2/10/conjugacic3b3n-de-los-tiempos-verbales-del-castellano1 (1).pdf"
+    - [2/10/2025, 21:34:28] Copiar enlace de archivo: "2/10/conjugacic3b3n-de-los-tiempos-verbales-del-castellano1 (1).pdf"
+    - [2/10/2025, 21:34:28] Copiar enlace de archivo: "2/10/ACTIVIDADES MORFOLOGÍA PAU.pdf"
 --------------------------------------------------
