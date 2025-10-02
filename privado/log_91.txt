@@ -1,5 +1,17 @@
 
-[Registro de sesión: 2/10/2025, 16:33:04]
+[Registro de sesiÃ³n: 2/10/2025, 16:33:04]
+  - ID de SesiÃ³n: 91
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [2/10/2025, 16:33:04] SesiÃ³n iniciada. ID: 91
+--------------------------------------------------
+[Registro de sesión: 2/10/2025, 16:33:12]
   - ID de Sesión: 91
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [2/10/2025, 16:33:04] Sesión iniciada. ID: 91
+    - [2/10/2025, 16:33:12] Crear carpeta: "examen formulacion"
 --------------------------------------------------
