@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 3/10/2025, 19:59:23]
+[Registro de sesiÃÂÃÂ³n: 3/10/2025, 19:59:23]
+  - ID de SesiÃÂÃÂ³n: 108
+  - Apodo: DS
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [3/10/2025, 19:59:23] SesiÃÂÃÂ³n iniciada. ID: 108
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 3/10/2025, 19:59:38]
   - ID de SesiÃÂ³n: 108
   - Apodo: DS
   - IP: 89.32.84.63
@@ -9,9 +21,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [3/10/2025, 19:59:23] SesiÃÂ³n iniciada. ID: 108
+    - [3/10/2025, 19:59:38] Subir archivo: "INGLES MEDIATION/Captura de pantalla 2025-10-01 a las 22.59.27.png"
+    - [3/10/2025, 19:59:38] Subir archivo: "INGLES MEDIATION/MEDIATION 2.docx"
 --------------------------------------------------
-[Registro de sesiÃ³n: 3/10/2025, 19:59:38]
+[Registro de sesiÃ³n: 3/10/2025, 20:01:05]
   - ID de SesiÃ³n: 108
   - Apodo: DS
   - IP: 89.32.84.63
@@ -21,10 +34,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [3/10/2025, 19:59:38] Subir archivo: "INGLES MEDIATION/Captura de pantalla 2025-10-01 a las 22.59.27.png"
-    - [3/10/2025, 19:59:38] Subir archivo: "INGLES MEDIATION/MEDIATION 2.docx"
+    - [3/10/2025, 20:01:05] Copiar enlace de archivo: "INGLES MEDIATION/Captura de pantalla 2025-10-01 a las 22.59.27.png"
 --------------------------------------------------
-[Registro de sesión: 3/10/2025, 20:01:05]
+[Registro de sesión: 3/10/2025, 20:01:26]
   - ID de Sesión: 108
   - Apodo: DS
   - IP: 89.32.84.63
@@ -34,5 +46,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [3/10/2025, 20:01:05] Copiar enlace de archivo: "INGLES MEDIATION/Captura de pantalla 2025-10-01 a las 22.59.27.png"
+    - [3/10/2025, 20:01:26] Copiar enlace de archivo: "INGLES MEDIATION/MEDIATION 2.docx"
 --------------------------------------------------
