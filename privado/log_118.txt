@@ -1,5 +1,17 @@
 
-[Registro de sesión: 5/10/2025, 0:29:56]
+[Registro de sesiÃ³n: 5/10/2025, 0:29:56]
+  - ID de SesiÃ³n: 118
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [5/10/2025, 0:29:56] SesiÃ³n iniciada. ID: 118
+--------------------------------------------------
+[Registro de sesión: 5/10/2025, 0:30:05]
   - ID de Sesión: 118
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [5/10/2025, 0:29:56] Sesión iniciada. ID: 118
+    - [5/10/2025, 0:30:05] Copiar enlace de archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
 --------------------------------------------------
