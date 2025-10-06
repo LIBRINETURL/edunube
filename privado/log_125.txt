@@ -1,0 +1,8 @@
+
+[Registro de sesión: 6/10/2025, 17:17:17]
+  - ID de Sesión: 125
+  - Apodo: UsuarioWeb
+  - IP: 172.253.192.241
+  - Acciones Realizadas:
+    - [6/10/2025, 17:17:17] Sesión iniciada. ID: 125
+--------------------------------------------------
