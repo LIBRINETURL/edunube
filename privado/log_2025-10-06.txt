@@ -1,8 +1,15 @@
 
-[Registro de sesión: 7/10/2025, 1:02:28]
-  - ID de Sesión: 1759791742914
+[Registro de sesiÃ³n: 7/10/2025, 1:02:28]
+  - ID de SesiÃ³n: 1759791742914
   - Apodo: UsuarioWeb
   - IP: 85.86.58.132
   - Acciones Realizadas:
-    - [7/10/2025, 1:02:28] Sesión iniciada. ID: 1759791742914
+    - [7/10/2025, 1:02:28] SesiÃ³n iniciada. ID: 1759791742914
+--------------------------------------------------
+[Registro de sesión: 7/10/2025, 1:04:02]
+  - ID de Sesión: 1759791836474
+  - Apodo: UsuarioWeb
+  - IP: 85.86.58.132
+  - Acciones Realizadas:
+    - [7/10/2025, 1:04:02] Sesión iniciada. ID: 1759791836474
 --------------------------------------------------
