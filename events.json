@@ -233,6 +233,15 @@
       "color": "#ff6600",
       "description": "",
       "timestamp": 1759831410655
+    },
+    {
+      "id": "1759831422327",
+      "title": "EXAMEN DE INGLES",
+      "startDate": "2025-12-09",
+      "endDate": "2025-12-09",
+      "color": "#d400ff",
+      "description": "",
+      "timestamp": 1759831422327
     }
   ],
   "recurring": [
