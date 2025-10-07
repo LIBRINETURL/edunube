@@ -46,5 +46,15 @@
       "timestamp": 1759829533964
     }
   ],
-  "recurring": []
+  "recurring": [
+    {
+      "id": "1759829596716",
+      "title": "NO IES",
+      "startDate": "2025-10-04",
+      "color": "#ff0000",
+      "description": "",
+      "timestamp": 1759829596716,
+      "recurrence": "weekly"
+    }
+  ]
 }
