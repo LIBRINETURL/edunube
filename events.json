@@ -71,6 +71,15 @@
       "color": "#bbf73b",
       "description": "",
       "timestamp": 1759829796028
+    },
+    {
+      "id": "1759829823044",
+      "title": "SEMANA CULTURAL",
+      "startDate": "2026-01-26",
+      "endDate": "2026-01-30",
+      "color": "#f77d3b",
+      "description": "",
+      "timestamp": 1759829823044
     }
   ],
   "recurring": [
