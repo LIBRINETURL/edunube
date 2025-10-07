@@ -242,6 +242,15 @@
       "color": "#d400ff",
       "description": "",
       "timestamp": 1759831422327
+    },
+    {
+      "id": "1759831613815",
+      "title": "Examen de Economia",
+      "startDate": "2025-12-04",
+      "endDate": "2025-12-04",
+      "color": "#e100ff",
+      "description": "",
+      "timestamp": 1759831613815
     }
   ],
   "recurring": [
