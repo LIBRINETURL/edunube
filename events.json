@@ -10,6 +10,15 @@
       "color": "#3b82f6",
       "description": "",
       "recurrence": "none"
+    },
+    {
+      "id": "1759828362489",
+      "title": "NO IESO",
+      "startDate": "2025-10-12",
+      "endDate": "2025-10-12",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1759828362489
     }
   ],
   "recurring": [
