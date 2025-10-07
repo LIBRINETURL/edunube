@@ -80,6 +80,15 @@
       "color": "#f77d3b",
       "description": "",
       "timestamp": 1759829823044
+    },
+    {
+      "id": "1759829838205",
+      "title": "NO IES",
+      "startDate": "2026-01-30",
+      "endDate": "2026-01-30",
+      "color": "#ff0000",
+      "description": "",
+      "timestamp": 1759829838205
     }
   ],
   "recurring": [
