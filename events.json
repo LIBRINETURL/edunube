@@ -26,6 +26,15 @@
       "color": "#ff00f7",
       "description": "",
       "timestamp": 1759829220907
+    },
+    {
+      "id": "1759829250379",
+      "title": "1º EVALUACION",
+      "startDate": "2025-12-16",
+      "endDate": "2025-12-18",
+      "color": "#1e00ff",
+      "description": "",
+      "timestamp": 1759829250379
     }
   ],
   "recurring": [
