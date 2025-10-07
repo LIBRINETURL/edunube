@@ -114,3 +114,11 @@
     - [7/10/2025, 11:17:21] Guardar eventos. SHA actualizado: a9dacfcdda341746b2e5efad3e34819a69f4a5d4
     - [7/10/2025, 11:17:21] Eliminado evento (ID: 1759828485282) de recurring.
 --------------------------------------------------
+[Registro de sesión: 7/10/2025, 11:17:31]
+  - ID de Sesión: 1759828630582
+  - Apodo: UsuarioWeb
+  - IP: 89.32.84.63
+  - Acciones Realizadas:
+    - [7/10/2025, 11:17:31] Eliminado evento (ID: 1759828460658) de recurring.
+    - [7/10/2025, 11:17:31] Guardar eventos. SHA actualizado: 3b4905c3e5722791763b0aa3842ff5ffb5436a64
+--------------------------------------------------
