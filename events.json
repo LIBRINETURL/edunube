@@ -179,6 +179,15 @@
       "color": "#ff0000",
       "description": "",
       "timestamp": 1759830544813
+    },
+    {
+      "id": "1759831165992",
+      "title": "EXAMEN DE DIBUJO TECNICO",
+      "startDate": "2025-10-10",
+      "endDate": "2025-10-10",
+      "color": "#818283",
+      "description": "",
+      "timestamp": 1759831165992
     }
   ],
   "recurring": [
