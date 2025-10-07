@@ -152,6 +152,15 @@
       "color": "#ff0000",
       "description": "",
       "timestamp": 1759830168557
+    },
+    {
+      "id": "1759830184190",
+      "title": "PAU",
+      "startDate": "2026-04-09",
+      "endDate": "2026-04-09",
+      "color": "#3bf7c8",
+      "description": "",
+      "timestamp": 1759830184190
     }
   ],
   "recurring": [
