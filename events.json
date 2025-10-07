@@ -197,6 +197,15 @@
       "color": "#ff0059",
       "description": "ANATOMIA APLICADA",
       "timestamp": 1759831204647
+    },
+    {
+      "id": "1759831279447",
+      "title": "EXAMEN",
+      "startDate": "2025-10-29",
+      "endDate": "2025-10-29",
+      "color": "#ff00d0",
+      "description": "ECONOMIA",
+      "timestamp": 1759831279447
     }
   ],
   "recurring": [
