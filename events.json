@@ -107,6 +107,15 @@
       "color": "#c5c828",
       "description": "",
       "timestamp": 1759829966556
+    },
+    {
+      "id": "1759830041316",
+      "title": "2ºEVALUACION",
+      "startDate": "2026-03-10",
+      "endDate": "2026-03-12",
+      "color": "#3700ff",
+      "description": "",
+      "timestamp": 1759830041316
     }
   ],
   "recurring": [
