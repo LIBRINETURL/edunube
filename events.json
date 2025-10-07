@@ -188,6 +188,15 @@
       "color": "#818283",
       "description": "",
       "timestamp": 1759831165992
+    },
+    {
+      "id": "1759831204647",
+      "title": "EXAMEN DE ANATOMIA APLICADA",
+      "startDate": "2025-10-15",
+      "endDate": "2025-10-15",
+      "color": "#ff0059",
+      "description": "",
+      "timestamp": 1759831204647
     }
   ],
   "recurring": [
