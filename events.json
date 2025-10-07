@@ -44,6 +44,15 @@
       "color": "#ff0000",
       "description": "VACACIONES DE NAVIDAD",
       "timestamp": 1759829533964
+    },
+    {
+      "id": "1759829732180",
+      "title": "SEMANA DE PENDIENTES",
+      "startDate": "2025-11-24",
+      "endDate": "2025-11-28",
+      "color": "#fbff00",
+      "description": "",
+      "timestamp": 1759829732180
     }
   ],
   "recurring": [
