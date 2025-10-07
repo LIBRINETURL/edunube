@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 7/10/2025, 22:03:47]
+[Registro de sesiÃÂ³n: 7/10/2025, 22:03:47]
+  - ID de SesiÃÂ³n: 153
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [7/10/2025, 22:03:47] SesiÃÂ³n iniciada. ID: 153
+--------------------------------------------------
+[Registro de sesiÃ³n: 7/10/2025, 22:04:01]
   - ID de SesiÃ³n: 153
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [7/10/2025, 22:03:47] SesiÃ³n iniciada. ID: 153
+    - [7/10/2025, 22:04:01] Subir archivo: "INGLES 0/U1 WORDLIST.pdf"
 --------------------------------------------------
-[Registro de sesión: 7/10/2025, 22:04:01]
+[Registro de sesión: 7/10/2025, 22:08:22]
   - ID de Sesión: 153
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [7/10/2025, 22:04:01] Subir archivo: "INGLES 0/U1 WORDLIST.pdf"
+    - [7/10/2025, 22:08:22] Copiar enlace de archivo: "INGLES 0/U1 WORDLIST.pdf"
 --------------------------------------------------
