@@ -138,3 +138,10 @@
     - [7/10/2025, 11:18:16] Añadido nuevo evento (ID: 1759828690330) en recurring.
     - [7/10/2025, 11:18:16] Guardar eventos. SHA actualizado: daab61a96175e09017798c5c9bfec04549ae818e
 --------------------------------------------------
+[Registro de sesión: 7/10/2025, 11:19:42]
+  - ID de Sesión: 1759828776611
+  - Apodo: UsuarioWeb
+  - IP: 89.32.84.63
+  - Acciones Realizadas:
+    - [7/10/2025, 11:19:42] Sesión iniciada. ID: 1759828776611
+--------------------------------------------------
