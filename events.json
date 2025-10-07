@@ -21,15 +21,6 @@
       "description": "",
       "timestamp": 1759828460658,
       "recurrence": "monthly"
-    },
-    {
-      "id": "1759828485282",
-      "title": "NO IESO",
-      "startDate": "2025-10-12",
-      "color": "#3b82f6",
-      "description": "",
-      "timestamp": 1759828485282,
-      "recurrence": "weekly"
     }
   ]
 }
