@@ -48,15 +48,6 @@
   ],
   "recurring": [
     {
-      "id": "1759828673010",
-      "title": "NO IES",
-      "startDate": "2025-10-11",
-      "color": "#fa0000",
-      "description": "",
-      "timestamp": 1759828673011,
-      "recurrence": "weekly"
-    },
-    {
       "id": "1759828690330",
       "title": "NO IES",
       "startDate": "2025-10-12",
