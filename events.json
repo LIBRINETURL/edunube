@@ -53,6 +53,15 @@
       "color": "#919235",
       "description": "",
       "timestamp": 1759829732180
+    },
+    {
+      "id": "1759829769764",
+      "title": "CLAUSTRO",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-08",
+      "color": "#f7a93b",
+      "description": "",
+      "timestamp": 1759829769764
     }
   ],
   "recurring": [
