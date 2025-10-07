@@ -116,6 +116,15 @@
       "color": "#3700ff",
       "description": "",
       "timestamp": 1759830041316
+    },
+    {
+      "id": "1759830064628",
+      "title": "NOTAS",
+      "startDate": "2026-03-13",
+      "endDate": "2026-03-13",
+      "color": "#ee00ff",
+      "description": "",
+      "timestamp": 1759830064628
     }
   ],
   "recurring": [
