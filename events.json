@@ -21,6 +21,15 @@
       "description": "",
       "timestamp": 1759828322434,
       "recurrence": "monthly"
+    },
+    {
+      "id": "1759828460658",
+      "title": "NO IES",
+      "startDate": "2025-10-19",
+      "color": "#f73b3b",
+      "description": "",
+      "timestamp": 1759828460658,
+      "recurrence": "monthly"
     }
   ]
 }
