@@ -1,5 +1,17 @@
 
-[Registro de sesión: 9/10/2025, 1:25:28]
+[Registro de sesiÃ³n: 9/10/2025, 1:25:28]
+  - ID de SesiÃ³n: 154
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [9/10/2025, 1:25:28] SesiÃ³n iniciada. ID: 154
+--------------------------------------------------
+[Registro de sesión: 9/10/2025, 1:25:44]
   - ID de Sesión: 154
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [9/10/2025, 1:25:28] Sesión iniciada. ID: 154
+    - [9/10/2025, 1:25:44] Subir archivo: "Presentación sin título.pdf"
 --------------------------------------------------
