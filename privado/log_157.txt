@@ -1,0 +1,13 @@
+
+[Registro de sesión: 12/10/2025, 10:12:06]
+  - ID de Sesión: 157
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [12/10/2025, 10:12:06] Sesión iniciada. ID: 157
+--------------------------------------------------
