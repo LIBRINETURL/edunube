@@ -1,7 +1,13 @@
 
-[Registro de sesión: 14/10/2025, 18:27:21]
+[Registro de sesiÃ³n: 14/10/2025, 18:27:21]
+  - ID de SesiÃ³n: 170
+  - Apodo: AnÃ³nimo
+  - Acciones Realizadas:
+    - [14/10/2025, 18:27:21] SesiÃ³n iniciada. ID: 170
+----------------------------------
+[Registro de sesión: 14/10/2025, 18:27:30]
   - ID de Sesión: 170
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [14/10/2025, 18:27:21] Sesión iniciada. ID: 170
+    - [14/10/2025, 18:27:30] Añadir nota: "ejerjicicios de lengua..."
 ----------------------------------
