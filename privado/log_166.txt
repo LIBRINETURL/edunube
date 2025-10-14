@@ -1,5 +1,17 @@
 
-[Registro de sesión: 14/10/2025, 11:30:16]
+[Registro de sesiÃ³n: 14/10/2025, 11:30:16]
+  - ID de SesiÃ³n: 166
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not?A_Brand v8, Chromium v141, Google Chrome v141
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 85% (Cargando: No)
+  - Acciones Realizadas:
+    - [14/10/2025, 11:30:16] SesiÃ³n iniciada. ID: 166
+--------------------------------------------------
+[Registro de sesión: 14/10/2025, 11:30:35]
   - ID de Sesión: 166
   - Apodo: antonio
   - IP: 80.73.146.215
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1536x864
     - Batería: 85% (Cargando: No)
   - Acciones Realizadas:
-    - [14/10/2025, 11:30:16] Sesión iniciada. ID: 166
+    - [14/10/2025, 11:30:35] Copiar enlace de archivo: "httpssites.google.comviewauliaedu3morfologia.jpg"
 --------------------------------------------------
