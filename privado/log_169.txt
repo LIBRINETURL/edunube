@@ -1,7 +1,13 @@
 
-[Registro de sesión: 14/10/2025, 18:26:11]
+[Registro de sesiÃ³n: 14/10/2025, 18:26:11]
+  - ID de SesiÃ³n: 169
+  - Apodo: AnÃ³nimo
+  - Acciones Realizadas:
+    - [14/10/2025, 18:26:11] SesiÃ³n iniciada. ID: 169
+----------------------------------
+[Registro de sesión: 14/10/2025, 18:26:23]
   - ID de Sesión: 169
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [14/10/2025, 18:26:11] Sesión iniciada. ID: 169
+    - [14/10/2025, 18:26:23] Añadir nota: "ejerjicicios de mates..."
 ----------------------------------
