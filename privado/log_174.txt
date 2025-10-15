@@ -1,0 +1,13 @@
+
+[Registro de sesión: 15/10/2025, 14:33:46]
+  - ID de Sesión: 174
+  - Apodo: asd
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not?A_Brand v8, Chromium v141, Google Chrome v141
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 78% (Cargando: No)
+  - Acciones Realizadas:
+    - [15/10/2025, 14:33:46] Sesión iniciada. ID: 174
+--------------------------------------------------
