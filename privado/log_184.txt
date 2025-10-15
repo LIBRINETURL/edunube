@@ -1,5 +1,17 @@
 
-[Registro de sesión: 16/10/2025, 0:18:43]
+[Registro de sesiÃ³n: 16/10/2025, 0:18:43]
+  - ID de SesiÃ³n: 184
+  - Apodo: antonio
+  - IP: 85.86.58.132
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [16/10/2025, 0:18:43] SesiÃ³n iniciada. ID: 184
+--------------------------------------------------
+[Registro de sesión: 16/10/2025, 0:18:51]
   - ID de Sesión: 184
   - Apodo: antonio
   - IP: 85.86.58.132
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/10/2025, 0:18:43] Sesión iniciada. ID: 184
+    - [16/10/2025, 0:18:51] Copiar enlace de archivo: "DASOMETRIA2.odt"
 --------------------------------------------------
