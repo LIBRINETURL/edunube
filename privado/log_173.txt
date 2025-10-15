@@ -1,5 +1,17 @@
 
-[Registro de sesión: 15/10/2025, 11:21:47]
+[Registro de sesiÃ³n: 15/10/2025, 11:21:47]
+  - ID de SesiÃ³n: 173
+  - Apodo: asd
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not?A_Brand v8, Chromium v141, Google Chrome v141
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 100% (Cargando: No)
+  - Acciones Realizadas:
+    - [15/10/2025, 11:21:47] SesiÃ³n iniciada. ID: 173
+--------------------------------------------------
+[Registro de sesión: 15/10/2025, 11:21:54]
   - ID de Sesión: 173
   - Apodo: asd
   - IP: 80.73.146.215
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1536x864
     - Batería: 100% (Cargando: No)
   - Acciones Realizadas:
-    - [15/10/2025, 11:21:47] Sesión iniciada. ID: 173
+    - [15/10/2025, 11:21:54] Copiar enlace de archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
 --------------------------------------------------
