@@ -1,5 +1,17 @@
 
-[Registro de sesión: 15/10/2025, 19:00:37]
+[Registro de sesiÃ³n: 15/10/2025, 19:00:37]
+  - ID de SesiÃ³n: 178
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [15/10/2025, 19:00:37] SesiÃ³n iniciada. ID: 178
+--------------------------------------------------
+[Registro de sesión: 15/10/2025, 19:05:55]
   - ID de Sesión: 178
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [15/10/2025, 19:00:37] Sesión iniciada. ID: 178
+    - [15/10/2025, 19:05:55] Subir archivo: "CCF_006802.pdf"
 --------------------------------------------------
