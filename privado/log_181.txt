@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 15/10/2025, 23:09:41]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 15/10/2025, 23:09:41]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 181
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v140, Not=A?Brand v24, Google Chrome v140
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃÂÃÂÃÂÃÂ­a: 100% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [15/10/2025, 23:09:41] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 181
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 15/10/2025, 23:12:49]
   - ID de SesiÃÂÃÂ³n: 181
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃÂÃÂ­a: 100% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [15/10/2025, 23:09:41] SesiÃÂÃÂ³n iniciada. ID: 181
+    - [15/10/2025, 23:12:49] Copiar enlace de archivo: "CCF_006748.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 15/10/2025, 23:12:49]
+[Registro de sesiÃÂ³n: 15/10/2025, 23:12:55]
   - ID de SesiÃÂ³n: 181
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃÂ­a: 100% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [15/10/2025, 23:12:49] Copiar enlace de archivo: "CCF_006748.pdf"
+    - [15/10/2025, 23:12:55] Copiar enlace de archivo: "CCF_006803.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 15/10/2025, 23:12:55]
+[Registro de sesiÃ³n: 15/10/2025, 23:13:05]
   - ID de SesiÃ³n: 181
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃ­a: 100% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [15/10/2025, 23:12:55] Copiar enlace de archivo: "CCF_006803.pdf"
+    - [15/10/2025, 23:13:05] Copiar enlace de archivo: "CCF_006803.pdf"
 --------------------------------------------------
-[Registro de sesión: 15/10/2025, 23:13:05]
+[Registro de sesión: 15/10/2025, 23:15:22]
   - ID de Sesión: 181
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -45,5 +57,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [15/10/2025, 23:13:05] Copiar enlace de archivo: "CCF_006803.pdf"
+    - [15/10/2025, 23:15:22] Subir archivo: "CCF_006808.pdf"
 --------------------------------------------------
