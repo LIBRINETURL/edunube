@@ -1,5 +1,17 @@
 
-[Registro de sesión: 16/10/2025, 17:44:17]
+[Registro de sesiÃ³n: 16/10/2025, 17:44:17]
+  - ID de SesiÃ³n: 187
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [16/10/2025, 17:44:17] SesiÃ³n iniciada. ID: 187
+--------------------------------------------------
+[Registro de sesión: 16/10/2025, 17:44:37]
   - ID de Sesión: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/10/2025, 17:44:17] Sesión iniciada. ID: 187
+    - [16/10/2025, 17:44:37] Crear carpeta: "ARCHIVO"
 --------------------------------------------------
