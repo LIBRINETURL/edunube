@@ -1,5 +1,17 @@
 
-[Registro de sesión: 16/10/2025, 18:12:06]
+[Registro de sesiÃ³n: 16/10/2025, 18:12:06]
+  - ID de SesiÃ³n: 189
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [16/10/2025, 18:12:06] SesiÃ³n iniciada. ID: 189
+--------------------------------------------------
+[Registro de sesión: 16/10/2025, 18:12:17]
   - ID de Sesión: 189
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/10/2025, 18:12:06] Sesión iniciada. ID: 189
+    - [16/10/2025, 18:12:17] Descargar archivo: "ARCHIVO/NOMENCLATURA INORGANICA.pdf"
 --------------------------------------------------
