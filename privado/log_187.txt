@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 16/10/2025, 17:44:17]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 16/10/2025, 17:44:17]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 187
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [16/10/2025, 17:44:17] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 187
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 16/10/2025, 17:44:37]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [16/10/2025, 17:44:17] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 187
+    - [16/10/2025, 17:44:37] Crear carpeta: "ARCHIVO"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 16/10/2025, 17:44:37]
+[Registro de sesiÃÂÃÂ³n: 16/10/2025, 17:47:00]
   - ID de SesiÃÂÃÂ³n: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [16/10/2025, 17:44:37] Crear carpeta: "ARCHIVO"
+    - [16/10/2025, 17:47:00] Copiar enlace de archivo: "CCF_006748.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 16/10/2025, 17:47:00]
+[Registro de sesiÃÂ³n: 16/10/2025, 17:47:09]
   - ID de SesiÃÂ³n: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [16/10/2025, 17:47:00] Copiar enlace de archivo: "CCF_006748.pdf"
+    - [16/10/2025, 17:47:09] Copiar enlace de archivo: "CCF_006802.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 16/10/2025, 17:47:09]
+[Registro de sesiÃ³n: 16/10/2025, 17:47:17]
   - ID de SesiÃ³n: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [16/10/2025, 17:47:09] Copiar enlace de archivo: "CCF_006802.pdf"
+    - [16/10/2025, 17:47:17] Copiar enlace de archivo: "CCF_006802.pdf"
 --------------------------------------------------
-[Registro de sesión: 16/10/2025, 17:47:17]
+[Registro de sesión: 16/10/2025, 17:47:32]
   - ID de Sesión: 187
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/10/2025, 17:47:17] Copiar enlace de archivo: "CCF_006802.pdf"
+    - [16/10/2025, 17:47:32] Mover archivo de "CCF_006802.pdf" a "ARCHIVO/CCF_006802.pdf"
 --------------------------------------------------
