@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 16/10/2025, 18:12:06]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 16/10/2025, 18:12:06]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 189
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [16/10/2025, 18:12:06] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 189
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 16/10/2025, 18:12:17]
   - ID de SesiÃÂÃÂ³n: 189
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [16/10/2025, 18:12:06] SesiÃÂÃÂ³n iniciada. ID: 189
+    - [16/10/2025, 18:12:17] Descargar archivo: "ARCHIVO/NOMENCLATURA INORGANICA.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 16/10/2025, 18:12:17]
+[Registro de sesiÃÂ³n: 16/10/2025, 18:12:31]
   - ID de SesiÃÂ³n: 189
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [16/10/2025, 18:12:17] Descargar archivo: "ARCHIVO/NOMENCLATURA INORGANICA.pdf"
+    - [16/10/2025, 18:12:31] Copiar enlace de archivo: "CCF_006808.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 16/10/2025, 18:12:31]
+[Registro de sesiÃ³n: 16/10/2025, 18:12:40]
   - ID de SesiÃ³n: 189
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [16/10/2025, 18:12:31] Copiar enlace de archivo: "CCF_006808.pdf"
+    - [16/10/2025, 18:12:40] Copiar enlace de archivo: "CCF_006803.pdf"
 --------------------------------------------------
-[Registro de sesión: 16/10/2025, 18:12:40]
+[Registro de sesión: 16/10/2025, 18:12:48]
   - ID de Sesión: 189
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -45,5 +57,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/10/2025, 18:12:40] Copiar enlace de archivo: "CCF_006803.pdf"
+    - [16/10/2025, 18:12:48] Copiar enlace de archivo: "CCF_006748.pdf"
 --------------------------------------------------
