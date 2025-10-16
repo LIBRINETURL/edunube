@@ -260,6 +260,15 @@
       "color": "#f79f3b",
       "description": "",
       "timestamp": 1760629278970
+    },
+    {
+      "id": "1760629303713",
+      "title": "EXAMEN DE TECNOLOGIA",
+      "startDate": "2025-10-29",
+      "endDate": "2025-10-29",
+      "color": "#ff5900",
+      "description": "",
+      "timestamp": 1760629303713
     }
   ],
   "recurring": [
