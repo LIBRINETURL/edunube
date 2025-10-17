@@ -1,5 +1,18 @@
 
-[Registro de sesión: 17/10/2025, 22:38:22]
+[Registro de sesiÃ³n: 17/10/2025, 22:38:22]
+  - ID de SesiÃ³n: 201
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [17/10/2025, 22:38:22] SesiÃ³n iniciada. ID: 201
+    - [17/10/2025, 22:38:22] Copiar enlace de archivo: "CCF_006803.pdf"
+--------------------------------------------------
+[Registro de sesión: 17/10/2025, 22:39:19]
   - ID de Sesión: 201
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,6 +22,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [17/10/2025, 22:38:22] Sesión iniciada. ID: 201
-    - [17/10/2025, 22:38:22] Copiar enlace de archivo: "CCF_006803.pdf"
+    - [17/10/2025, 22:39:19] Subir archivo: "ARCHIVO/energia.pdf"
 --------------------------------------------------
