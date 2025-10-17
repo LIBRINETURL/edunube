@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 17/10/2025, 21:31:08]
+[Registro de sesiÃÂ³n: 17/10/2025, 21:31:08]
+  - ID de SesiÃÂ³n: 194
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃÂ­a: 100% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [17/10/2025, 21:31:08] SesiÃÂ³n iniciada. ID: 194
+--------------------------------------------------
+[Registro de sesiÃ³n: 17/10/2025, 21:31:49]
   - ID de SesiÃ³n: 194
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃ­a: 100% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [17/10/2025, 21:31:08] SesiÃ³n iniciada. ID: 194
+    - [17/10/2025, 21:31:49] Subir archivo: "NOMENCLATURA INORGANICA.pdf"
 --------------------------------------------------
-[Registro de sesión: 17/10/2025, 21:31:49]
+[Registro de sesión: 17/10/2025, 21:39:44]
   - ID de Sesión: 194
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [17/10/2025, 21:31:49] Subir archivo: "NOMENCLATURA INORGANICA.pdf"
+    - [17/10/2025, 21:39:44] Subir archivo: "ARCHIVO/CCF_006811.pdf"
 --------------------------------------------------
