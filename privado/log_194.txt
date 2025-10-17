@@ -1,0 +1,13 @@
+
+[Registro de sesión: 17/10/2025, 21:31:08]
+  - ID de Sesión: 194
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - Batería: 100% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [17/10/2025, 21:31:08] Sesión iniciada. ID: 194
+--------------------------------------------------
