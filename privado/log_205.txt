@@ -1,5 +1,17 @@
 
-[Registro de sesión: 20/10/2025, 20:14:21]
+[Registro de sesiÃ³n: 20/10/2025, 20:14:21]
+  - ID de SesiÃ³n: 205
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [20/10/2025, 20:14:21] SesiÃ³n iniciada. ID: 205
+--------------------------------------------------
+[Registro de sesión: 20/10/2025, 20:14:51]
   - ID de Sesión: 205
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [20/10/2025, 20:14:21] Sesión iniciada. ID: 205
+    - [20/10/2025, 20:14:51] Subir archivo: "2/CCF_006826.pdf"
 --------------------------------------------------
