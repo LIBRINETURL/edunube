@@ -260,6 +260,15 @@
       "color": "#ff5900",
       "description": "",
       "timestamp": 1760629303713
+    },
+    {
+      "id": "1760982099467",
+      "title": "PRACTICA POLLO",
+      "startDate": "2025-11-03",
+      "endDate": "2025-11-03",
+      "color": "#3bf748",
+      "description": "",
+      "timestamp": 1760982099467
     }
   ],
   "recurring": [
