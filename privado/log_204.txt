@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 20/10/2025, 19:37:25]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 20/10/2025, 19:37:25]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 204
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [20/10/2025, 19:37:25] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 204
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 20/10/2025, 19:37:40]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 204
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [20/10/2025, 19:37:25] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 204
+    - [20/10/2025, 19:37:40] Subir archivo: "2/Textos tema e ideas 2.pdf"
+    - [20/10/2025, 19:37:40] Subir archivo: "2/Textos tema e ideas (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 20/10/2025, 19:37:40]
+[Registro de sesiÃÂÃÂ³n: 20/10/2025, 19:38:54]
   - ID de SesiÃÂÃÂ³n: 204
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,10 +34,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [20/10/2025, 19:37:40] Subir archivo: "2/Textos tema e ideas 2.pdf"
-    - [20/10/2025, 19:37:40] Subir archivo: "2/Textos tema e ideas (1).pdf"
+    - [20/10/2025, 19:38:54] Copiar enlace de archivo: "2/Textos tema e ideas (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 20/10/2025, 19:38:54]
+[Registro de sesiÃÂ³n: 20/10/2025, 19:39:49]
   - ID de SesiÃÂ³n: 204
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -34,9 +46,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [20/10/2025, 19:38:54] Copiar enlace de archivo: "2/Textos tema e ideas (1).pdf"
+    - [20/10/2025, 19:39:49] Copiar enlace de archivo: "2/Textos tema e ideas (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 20/10/2025, 19:39:49]
+[Registro de sesiÃ³n: 20/10/2025, 19:40:11]
   - ID de SesiÃ³n: 204
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -46,9 +58,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [20/10/2025, 19:39:49] Copiar enlace de archivo: "2/Textos tema e ideas (1).pdf"
+    - [20/10/2025, 19:40:11] Copiar enlace de archivo: "2/Textos tema e ideas 2.pdf"
 --------------------------------------------------
-[Registro de sesión: 20/10/2025, 19:40:11]
+[Registro de sesión: 20/10/2025, 19:44:07]
   - ID de Sesión: 204
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -58,5 +70,7 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [20/10/2025, 19:40:11] Copiar enlace de archivo: "2/Textos tema e ideas 2.pdf"
+    - [20/10/2025, 19:44:07] Subir archivo: "2/descarga.pdf"
+    - [20/10/2025, 19:44:07] Subir archivo: "2/Propiedades Periódicas"
+    - [20/10/2025, 19:44:07] Subir archivo: "2/B2.1-estructuraatomica (2).pdf"
 --------------------------------------------------
