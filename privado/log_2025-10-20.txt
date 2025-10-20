@@ -1,0 +1,8 @@
+
+[Registro de sesión: 20/10/2025, 19:38:47]
+  - ID de Sesión: 1760981921521
+  - Apodo: UsuarioWeb
+  - IP: 89.32.84.63
+  - Acciones Realizadas:
+    - [20/10/2025, 19:38:47] Sesión iniciada. ID: 1760981921521
+--------------------------------------------------
