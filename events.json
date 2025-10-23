@@ -297,6 +297,7 @@
       "description": "",
       "timestamp": 1761242690371
     }
+  ],
   "recurring": [
     {
       "id": "1759829596716",
@@ -317,4 +318,3 @@
       "recurrence": "weekly"
     }
   ]
-}
