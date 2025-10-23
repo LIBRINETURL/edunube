@@ -269,6 +269,15 @@
       "color": "#73f73b",
       "description": "",
       "timestamp": 1761211599576
+    },
+    {
+      "id": "1761242634760",
+      "title": "Examen ingles reading and listening",
+      "startDate": "2025-10-27",
+      "endDate": "2025-10-27",
+      "color": "#ff7300",
+      "description": "",
+      "timestamp": 1761242634761
     }
   ],
   "recurring": [
