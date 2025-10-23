@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/10/2025, 18:19:47]
+[Registro de sesiÃ³n: 23/10/2025, 18:19:47]
+  - ID de SesiÃ³n: 220
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/10/2025, 18:19:47] SesiÃ³n iniciada. ID: 220
+--------------------------------------------------
+[Registro de sesión: 23/10/2025, 18:19:56]
   - ID de Sesión: 220
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/10/2025, 18:19:47] Sesión iniciada. ID: 220
+    - [23/10/2025, 18:19:56] Copiar enlace de archivo: "carga.txt"
 --------------------------------------------------
