@@ -278,6 +278,15 @@
       "color": "#ff7300",
       "description": "",
       "timestamp": 1761242634761
+    },
+    {
+      "id": "1761242664973",
+      "title": "Prueba speaking ingles",
+      "startDate": "2025-10-28",
+      "endDate": "2025-10-28",
+      "color": "#ff5900",
+      "description": "",
+      "timestamp": 1761242664973
     }
   ],
   "recurring": [
