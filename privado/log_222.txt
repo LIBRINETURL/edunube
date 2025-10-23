@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 24/10/2025, 0:54:23]
+[Registro de sesiÃÂÃÂ³n: 24/10/2025, 0:54:23]
+  - ID de SesiÃÂÃÂ³n: 222
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [24/10/2025, 0:54:23] SesiÃÂÃÂ³n iniciada. ID: 222
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 24/10/2025, 0:54:47]
   - ID de SesiÃÂ³n: 222
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [24/10/2025, 0:54:23] SesiÃÂ³n iniciada. ID: 222
+    - [24/10/2025, 0:54:47] Crear carpeta: "Librillaia images"
 --------------------------------------------------
-[Registro de sesiÃ³n: 24/10/2025, 0:54:47]
+[Registro de sesiÃ³n: 24/10/2025, 0:56:57]
   - ID de SesiÃ³n: 222
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [24/10/2025, 0:54:47] Crear carpeta: "Librillaia images"
+    - [24/10/2025, 0:56:57] Subir archivo: "Librillaia images/unnamed.jpg"
 --------------------------------------------------
-[Registro de sesión: 24/10/2025, 0:56:57]
+[Registro de sesión: 24/10/2025, 0:58:07]
   - ID de Sesión: 222
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/10/2025, 0:56:57] Subir archivo: "Librillaia images/unnamed.jpg"
+    - [24/10/2025, 0:58:07] Subir archivo: "Librillaia images/iris_image_1761260244190.png"
 --------------------------------------------------
