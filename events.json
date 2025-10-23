@@ -260,6 +260,15 @@
       "color": "#3bf748",
       "description": "",
       "timestamp": 1760982099467
+    },
+    {
+      "id": "1761211599576",
+      "title": "Examen de física y química :Estructura atómica",
+      "startDate": "2025-11-06",
+      "endDate": "2025-11-06",
+      "color": "#73f73b",
+      "description": "",
+      "timestamp": 1761211599576
     }
   ],
   "recurring": [
