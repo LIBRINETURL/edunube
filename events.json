@@ -188,6 +188,15 @@
       "color": "#ffa200",
       "description": "VOCABULARY , GRAMMAR , READING",
       "timestamp": 1761328398055
+    },
+    {
+      "id": "1761328417497",
+      "title": "EXAMEN INGLES",
+      "startDate": "2025-12-05",
+      "endDate": "2025-12-05",
+      "color": "#f6ce3c",
+      "description": "WRITTING AND LISTNING",
+      "timestamp": 1761328417497
     }
   ],
   "recurring": [
