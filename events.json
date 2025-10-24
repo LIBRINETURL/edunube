@@ -80,6 +80,15 @@
       "color": "#ff0000",
       "description": "",
       "timestamp": 1761327567594
+    },
+    {
+      "id": "1761327591147",
+      "title": "1ºEVALUACION",
+      "startDate": "2025-12-16",
+      "endDate": "2025-12-18",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1761327591147
     }
   ],
   "recurring": [
