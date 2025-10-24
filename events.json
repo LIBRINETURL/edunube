@@ -2,10 +2,10 @@
   "fixed": [
     {
       "id": "1761327225899",
-      "title": "Fiesta (local) IES Valle de Leiva",
+      "title": "NO IES",
       "startDate": "2025-10-07",
       "endDate": "2025-10-07",
-      "color": "#3b82f6",
+      "color": "#ff0000",
       "description": "Fiesta local según calendario IES Valle de Leiva.",
       "timestamp": 1761327225899
     }
