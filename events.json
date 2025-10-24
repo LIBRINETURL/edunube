@@ -161,15 +161,6 @@
       "color": "#80ff00",
       "description": "",
       "timestamp": 1761327984554
-    },
-    {
-      "id": "1761328297922",
-      "title": "EXAMEN DE FISICA Y QUIMICA",
-      "startDate": "2025-10-06",
-      "endDate": "2025-10-06",
-      "color": "#2caa7a",
-      "description": "ESTRCUTURA MLECULAR",
-      "timestamp": 1761328297922
     }
   ],
   "recurring": [
