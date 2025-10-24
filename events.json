@@ -26,6 +26,15 @@
       "color": "#ff0000",
       "description": "",
       "timestamp": 1761327363250
+    },
+    {
+      "id": "1761327479987",
+      "title": "SEMANA DE PENDIENTES",
+      "startDate": "2025-11-24",
+      "endDate": "2025-11-24",
+      "color": "#6ef63c",
+      "description": "",
+      "timestamp": 1761327479987
     }
   ],
   "recurring": [
