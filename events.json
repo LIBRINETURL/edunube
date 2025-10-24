@@ -143,6 +143,15 @@
       "color": "#ffa200",
       "description": "GRAMMAR AND VOCABULARY",
       "timestamp": 1761327898986
+    },
+    {
+      "id": "1761327932227",
+      "title": "EXAMEN DE INGLES",
+      "startDate": "2025-10-31",
+      "endDate": "2025-10-31",
+      "color": "#ff9500",
+      "description": "SPEAKING",
+      "timestamp": 1761327932227
     }
   ],
   "recurring": [
