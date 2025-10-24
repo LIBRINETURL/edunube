@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 24/10/2025, 21:16:17]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 24/10/2025, 21:16:17]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 232
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [24/10/2025, 21:16:17] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 232
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 24/10/2025, 21:17:39]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 232
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -9,9 +21,13 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [24/10/2025, 21:16:17] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 232
+    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/Propiedades PeriÃÂÃÂÃÂÃÂ³dicas (3).pdf"
+    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/RADIOATOMICO.html"
+    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/PROPIEDADES ATOMICAS.pdf"
+    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/EVAU DE ESTRUCTURA ATOMO+ICA.pdf"
+    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/MODELOS ATOMICOS.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 24/10/2025, 21:17:39]
+[Registro de sesiÃÂÃÂ³n: 24/10/2025, 21:18:17]
   - ID de SesiÃÂÃÂ³n: 232
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -21,13 +37,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/Propiedades PeriÃÂÃÂ³dicas (3).pdf"
-    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/RADIOATOMICO.html"
-    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/PROPIEDADES ATOMICAS.pdf"
-    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/EVAU DE ESTRUCTURA ATOMO+ICA.pdf"
-    - [24/10/2025, 21:17:39] Subir archivo: "0AULIA/FYQ/1ÃÂÃÂºTRIMESTRE/ESTRUCTURA ATOMICA/MODELOS ATOMICOS.pdf"
+    - [24/10/2025, 21:18:17] Crear carpeta: "0AULIA/LENGUA/1ÃÂÃÂºTRIMESTRE/Lectura"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 24/10/2025, 21:18:17]
+[Registro de sesiÃÂ³n: 24/10/2025, 21:18:31]
   - ID de SesiÃÂ³n: 232
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -37,9 +49,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [24/10/2025, 21:18:17] Crear carpeta: "0AULIA/LENGUA/1ÃÂºTRIMESTRE/Lectura"
+    - [24/10/2025, 21:18:31] Crear carpeta: "0AULIA/LENGUA/1ÃÂºTRIMESTRE/Comentario de texto"
 --------------------------------------------------
-[Registro de sesiÃ³n: 24/10/2025, 21:18:31]
+[Registro de sesiÃ³n: 24/10/2025, 21:19:54]
   - ID de SesiÃ³n: 232
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -49,9 +61,11 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [24/10/2025, 21:18:31] Crear carpeta: "0AULIA/LENGUA/1ÂºTRIMESTRE/Comentario de texto"
+    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/Lectura/InfografiÌa- Coplas, Jorge Manrique.pdf"
+    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/Lectura/Coplas- Jorge Manrique.pdf"
+    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/Lectura/Actividades- Coplas, Jorge Manrique.pdf"
 --------------------------------------------------
-[Registro de sesión: 24/10/2025, 21:19:54]
+[Registro de sesión: 24/10/2025, 21:20:15]
   - ID de Sesión: 232
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -61,7 +75,8 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Lectura/Infografía- Coplas, Jorge Manrique.pdf"
-    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Lectura/Coplas- Jorge Manrique.pdf"
-    - [24/10/2025, 21:19:54] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Lectura/Actividades- Coplas, Jorge Manrique.pdf"
+    - [24/10/2025, 21:20:15] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Comentario de texto/Textos tema e ideas 2 (1).pdf"
+    - [24/10/2025, 21:20:15] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Comentario de texto/Elementos de la comunicación y funciones del lenguaje 19.03.01 (1).pdf"
+    - [24/10/2025, 21:20:15] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Comentario de texto/Textos tema e ideas (1) (1).pdf"
+    - [24/10/2025, 21:20:15] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Comentario de texto/Actividades funciones del lenguaje 19.03.01.pdf"
 --------------------------------------------------
