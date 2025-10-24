@@ -8,6 +8,15 @@
       "color": "#ff0000",
       "description": "Fiesta local según calendario IES Valle de Leiva.",
       "timestamp": 1761327225899
+    },
+    {
+      "id": "1761327306378",
+      "title": "NO IES",
+      "startDate": "2025-10-04",
+      "endDate": "2025-10-04",
+      "color": "#ff0000",
+      "description": "",
+      "timestamp": 1761327306378
     }
   ],
   "recurring": []
