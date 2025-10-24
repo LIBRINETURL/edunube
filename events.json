@@ -116,6 +116,15 @@
       "color": "#ffae00",
       "description": "READING AND LISTENING",
       "timestamp": 1761327745986
+    },
+    {
+      "id": "1761327773298",
+      "title": "PRACTICA SPEAKING",
+      "startDate": "2025-10-28",
+      "endDate": "2025-10-28",
+      "color": "#f69f3c",
+      "description": "",
+      "timestamp": 1761327773298
     }
   ],
   "recurring": [
