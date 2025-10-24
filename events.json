@@ -152,6 +152,15 @@
       "color": "#ff9500",
       "description": "SPEAKING",
       "timestamp": 1761327932227
+    },
+    {
+      "id": "1761327984554",
+      "title": "VENCE PRACTICA DEL POLLO",
+      "startDate": "2025-11-03",
+      "endDate": "2025-11-03",
+      "color": "#80ff00",
+      "description": "",
+      "timestamp": 1761327984554
     }
   ],
   "recurring": [
