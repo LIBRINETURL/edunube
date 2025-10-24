@@ -98,6 +98,15 @@
       "color": "#f6b23c",
       "description": "",
       "timestamp": 1761327610738
+    },
+    {
+      "id": "1761327657075",
+      "title": "NAVIDAD",
+      "startDate": "2025-12-23",
+      "endDate": "2026-01-07",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1761327657075
     }
   ],
   "recurring": [
