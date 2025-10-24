@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 24/10/2025, 19:54:43]
+[Registro de sesiÃÂ³n: 24/10/2025, 19:54:43]
+  - ID de SesiÃÂ³n: 230
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [24/10/2025, 19:54:43] SesiÃÂ³n iniciada. ID: 230
+--------------------------------------------------
+[Registro de sesiÃ³n: 24/10/2025, 19:54:53]
   - ID de SesiÃ³n: 230
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [24/10/2025, 19:54:43] SesiÃ³n iniciada. ID: 230
+    - [24/10/2025, 19:54:53] Crear carpeta: "0AULIA/INGLES"
 --------------------------------------------------
-[Registro de sesión: 24/10/2025, 19:54:53]
+[Registro de sesión: 24/10/2025, 19:55:03]
   - ID de Sesión: 230
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/10/2025, 19:54:53] Crear carpeta: "0AULIA/INGLES"
+    - [24/10/2025, 19:55:03] Crear carpeta: "0AULIA/FILOSOFIA"
 --------------------------------------------------
