@@ -170,6 +170,15 @@
       "color": "#74dc89",
       "description": "ESTRCTURA MOLECULAR",
       "timestamp": 1761328341203
+    },
+    {
+      "id": "1761328369145",
+      "title": "RECREO 1H VIOLENCIA DE GENERO",
+      "startDate": "2025-11-25",
+      "endDate": "2025-11-25",
+      "color": "#fb05ff",
+      "description": "",
+      "timestamp": 1761328369145
     }
   ],
   "recurring": [
