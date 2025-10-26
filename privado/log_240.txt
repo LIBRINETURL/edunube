@@ -1,7 +1,13 @@
 
-[Registro de sesión: 27/10/2025, 0:44:53]
+[Registro de sesiÃ³n: 27/10/2025, 0:44:53]
+  - ID de SesiÃ³n: 240
+  - Apodo: AnÃ³nimo
+  - Acciones Realizadas:
+    - [27/10/2025, 0:44:53] SesiÃ³n iniciada. ID: 240
+----------------------------------
+[Registro de sesión: 27/10/2025, 0:47:31]
   - ID de Sesión: 240
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [27/10/2025, 0:44:53] Sesión iniciada. ID: 240
+    - [27/10/2025, 0:47:31] Añadir nota: "pedro praena..."
 ----------------------------------
