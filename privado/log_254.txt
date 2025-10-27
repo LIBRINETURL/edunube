@@ -1,7 +1,14 @@
 
-[Registro de sesión: 27/10/2025, 16:57:21]
+[Registro de sesiÃ³n: 27/10/2025, 16:57:21]
+  - ID de SesiÃ³n: 254
+  - Apodo: AnÃ³nimo
+  - Acciones Realizadas:
+    - [27/10/2025, 16:57:21] SesiÃ³n iniciada. ID: 254
+----------------------------------
+[Registro de sesión: 27/10/2025, 16:58:09]
   - ID de Sesión: 254
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [27/10/2025, 16:57:21] Sesión iniciada. ID: 254
+    - [27/10/2025, 16:58:09] Archivo subido: 1761580681467_Captura_de_pantalla_2025-04-10_002110.png
+    - [27/10/2025, 16:58:09] Añadir nota: "que opimas de Joaquín..."
 ----------------------------------
