@@ -1,18 +1,26 @@
 
-[Registro de sesiÃ³n: 27/10/2025, 16:51:20]
+[Registro de sesiÃÂ³n: 27/10/2025, 16:51:20]
+  - ID de SesiÃÂ³n: 249
+  - Apodo: AnÃÂ³nimo
+  - Acciones Realizadas:
+    - [27/10/2025, 16:51:20] SesiÃÂ³n iniciada. ID: 249
+----------------------------------
+[Registro de sesiÃ³n: 27/10/2025, 16:51:45]
   - ID de SesiÃ³n: 249
   - Apodo: AnÃ³nimo
-  - Acciones Realizadas:
-    - [27/10/2025, 16:51:20] SesiÃ³n iniciada. ID: 249
-----------------------------------
-[Registro de sesión: 27/10/2025, 16:51:45]
-  - ID de Sesión: 249
-  - Apodo: Anónimo
   - Acciones Realizadas:
     - [27/10/2025, 16:51:45] Archivo subido: 1761580294294_Captura_de_pantalla_2025-04-10_002110.png
     - [27/10/2025, 16:51:45] Archivo subido: 1761580295657_ENCARNI.jpg
     - [27/10/2025, 16:51:45] Archivo subido: 1761580296874_J.png
     - [27/10/2025, 16:51:45] Archivo subido: 1761580298133_PEDRO.jpg
     - [27/10/2025, 16:51:45] Archivo subido: 1761580299102_PRAENA.jpg
-    - [27/10/2025, 16:51:45] Añadir nota: "PRUEBA..."
+    - [27/10/2025, 16:51:45] AÃ±adir nota: "PRUEBA..."
+----------------------------------
+[Registro de sesión: 27/10/2025, 16:52:26]
+  - ID de Sesión: 249
+  - Apodo: Anónimo
+  - Acciones Realizadas:
+    - [27/10/2025, 16:52:26] Eliminar nota: "PRUEBA
+
+--- Archivos Adjuntos ..."
 ----------------------------------
