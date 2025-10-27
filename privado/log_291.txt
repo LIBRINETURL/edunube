@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 27/10/2025, 18:02:59]
+[Registro de sesiÃÂ³n: 27/10/2025, 18:02:59]
+  - ID de SesiÃÂ³n: 291
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [27/10/2025, 18:02:59] SesiÃÂ³n iniciada. ID: 291
+--------------------------------------------------
+[Registro de sesiÃ³n: 27/10/2025, 18:03:25]
   - ID de SesiÃ³n: 291
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [27/10/2025, 18:02:59] SesiÃ³n iniciada. ID: 291
+    - [27/10/2025, 18:03:25] Crear carpeta: "0AULIA/MATES/1ÂºTRIMESTRE/ALGEBRA"
 --------------------------------------------------
-[Registro de sesión: 27/10/2025, 18:03:25]
+[Registro de sesión: 27/10/2025, 18:04:39]
   - ID de Sesión: 291
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,5 +33,7 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/10/2025, 18:03:25] Crear carpeta: "0AULIA/MATES/1ºTRIMESTRE/ALGEBRA"
+    - [27/10/2025, 18:04:39] Subir archivo: "0AULIA/MATES/1ºTRIMESTRE/ALGEBRA/02_Algebra_Ecuaciones_Soluciones (sin huecos).pdf"
+    - [27/10/2025, 18:04:39] Subir archivo: "0AULIA/MATES/1ºTRIMESTRE/ALGEBRA/UD02_Ejercicios_Repaso II.pdf"
+    - [27/10/2025, 18:04:39] Subir archivo: "0AULIA/MATES/1ºTRIMESTRE/ALGEBRA/02_Algebra_Ecuaciones.pdf"
 --------------------------------------------------
