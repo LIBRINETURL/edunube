@@ -1,14 +1,22 @@
 
-[Registro de sesiÃ³n: 27/10/2025, 16:59:03]
+[Registro de sesiÃÂ³n: 27/10/2025, 16:59:03]
+  - ID de SesiÃÂ³n: 255
+  - Apodo: AnÃÂ³nimo
+  - Acciones Realizadas:
+    - [27/10/2025, 16:59:03] SesiÃÂ³n iniciada. ID: 255
+----------------------------------
+[Registro de sesiÃ³n: 27/10/2025, 16:59:24]
   - ID de SesiÃ³n: 255
   - Apodo: AnÃ³nimo
   - Acciones Realizadas:
-    - [27/10/2025, 16:59:03] SesiÃ³n iniciada. ID: 255
+    - [27/10/2025, 16:59:24] Archivo subido: 1761580756856_Captura_de_pantalla_2025-04-10_002110.png
+    - [27/10/2025, 16:59:24] AÃ±adir nota: "joaquin..."
 ----------------------------------
-[Registro de sesión: 27/10/2025, 16:59:24]
+[Registro de sesión: 27/10/2025, 16:59:32]
   - ID de Sesión: 255
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [27/10/2025, 16:59:24] Archivo subido: 1761580756856_Captura_de_pantalla_2025-04-10_002110.png
-    - [27/10/2025, 16:59:24] Añadir nota: "joaquin..."
+    - [27/10/2025, 16:59:32] Eliminar nota: "joaquin
+
+--- Archivos Adjuntos..."
 ----------------------------------
