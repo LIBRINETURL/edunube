@@ -1,5 +1,17 @@
 
-[Registro de sesión: 27/10/2025, 19:47:44]
+[Registro de sesiÃ³n: 27/10/2025, 19:47:44]
+  - ID de SesiÃ³n: 297
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [27/10/2025, 19:47:44] SesiÃ³n iniciada. ID: 297
+--------------------------------------------------
+[Registro de sesión: 27/10/2025, 19:48:27]
   - ID de Sesión: 297
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/10/2025, 19:47:44] Sesión iniciada. ID: 297
+    - [27/10/2025, 19:48:27] Subir archivo: "filosofia por el momentot 27 10.pdf"
 --------------------------------------------------
