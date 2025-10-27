@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 27/10/2025, 17:31:01]
+[Registro de sesiÃÂÃÂ³n: 27/10/2025, 17:31:01]
+  - ID de SesiÃÂÃÂ³n: 287
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [27/10/2025, 17:31:01] SesiÃÂÃÂ³n iniciada. ID: 287
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 27/10/2025, 17:31:29]
   - ID de SesiÃÂ³n: 287
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [27/10/2025, 17:31:01] SesiÃÂ³n iniciada. ID: 287
+    - [27/10/2025, 17:31:29] Crear carpeta: "0AULIA/INGLES/Grammar and Vocabulary"
 --------------------------------------------------
-[Registro de sesiÃ³n: 27/10/2025, 17:31:29]
+[Registro de sesiÃ³n: 27/10/2025, 17:31:41]
   - ID de SesiÃ³n: 287
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [27/10/2025, 17:31:29] Crear carpeta: "0AULIA/INGLES/Grammar and Vocabulary"
+    - [27/10/2025, 17:31:41] Crear carpeta: "0AULIA/INGLES/SPEAKING"
 --------------------------------------------------
-[Registro de sesión: 27/10/2025, 17:31:41]
+[Registro de sesión: 27/10/2025, 17:31:53]
   - ID de Sesión: 287
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/10/2025, 17:31:41] Crear carpeta: "0AULIA/INGLES/SPEAKING"
+    - [27/10/2025, 17:31:53] Crear carpeta: "0AULIA/INGLES/EVALUATION CRITERIA"
 --------------------------------------------------
