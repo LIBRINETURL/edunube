@@ -1,7 +1,15 @@
 
-[Registro de sesión: 27/10/2025, 17:11:53]
+[Registro de sesiÃ³n: 27/10/2025, 17:11:53]
+  - ID de SesiÃ³n: 262
+  - Apodo: AnÃ³nimo
+  - Acciones Realizadas:
+    - [27/10/2025, 17:11:53] SesiÃ³n iniciada. ID: 262
+----------------------------------
+[Registro de sesión: 27/10/2025, 17:12:02]
   - ID de Sesión: 262
   - Apodo: Anónimo
   - Acciones Realizadas:
-    - [27/10/2025, 17:11:53] Sesión iniciada. ID: 262
+    - [27/10/2025, 17:12:02] Eliminar nota: "vista
+
+--- Archivos Adjuntos -..."
 ----------------------------------
