@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 27/10/2025, 17:56:31]
+[Registro de sesiÃÂ³n: 27/10/2025, 17:56:31]
+  - ID de SesiÃÂ³n: 290
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [27/10/2025, 17:56:31] SesiÃÂ³n iniciada. ID: 290
+--------------------------------------------------
+[Registro de sesiÃ³n: 27/10/2025, 17:56:51]
   - ID de SesiÃ³n: 290
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [27/10/2025, 17:56:31] SesiÃ³n iniciada. ID: 290
+    - [27/10/2025, 17:56:51] Crear carpeta: "0AULIA/LENGUA/1ÂºTRIMESTRE/MORFOLOGIA"
 --------------------------------------------------
-[Registro de sesión: 27/10/2025, 17:56:51]
+[Registro de sesión: 27/10/2025, 17:58:34]
   - ID de Sesión: 290
   - Apodo: antonio
   - IP: 89.32.84.63
@@ -21,5 +33,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/10/2025, 17:56:51] Crear carpeta: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA"
+    - [27/10/2025, 17:58:34] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA/Teoría detallada (Morfología).pdf"
+    - [27/10/2025, 17:58:34] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA/Teoría y actividades (Morfología).pdf"
 --------------------------------------------------
