@@ -1,0 +1,10 @@
+
+[Registro de sesión: 27/10/2025, 16:56:12]
+  - ID de Sesión: 253
+  - Apodo: Anónimo
+  - Acciones Realizadas:
+    - [27/10/2025, 16:56:12] Sesión iniciada. ID: 253
+    - [27/10/2025, 16:56:12] Eliminar nota: "prueba
+
+--- Archivos Adjuntos ..."
+----------------------------------
