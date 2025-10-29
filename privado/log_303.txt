@@ -1,5 +1,18 @@
 
-[Registro de sesión: 29/10/2025, 11:48:48]
+[Registro de sesiÃ³n: 29/10/2025, 11:48:48]
+  - ID de SesiÃ³n: 303
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 89% (Cargando: No)
+  - Acciones Realizadas:
+    - [29/10/2025, 11:48:48] SesiÃ³n iniciada. ID: 303
+    - [29/10/2025, 11:48:48] Copiar enlace de archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
+--------------------------------------------------
+[Registro de sesión: 29/10/2025, 11:49:09]
   - ID de Sesión: 303
   - Apodo: antonio
   - IP: 80.73.146.215
@@ -9,6 +22,6 @@
     - Dimensiones de Pantalla: 1536x864
     - Batería: 89% (Cargando: No)
   - Acciones Realizadas:
-    - [29/10/2025, 11:48:48] Sesión iniciada. ID: 303
-    - [29/10/2025, 11:48:48] Copiar enlace de archivo: "7ba46943-dc54-41d4-92b8-ec508c15c6df.wav"
+    - [29/10/2025, 11:49:09] Copiar enlace de archivo: "hoja ef.pdf"
+    - [29/10/2025, 11:49:09] Descargar archivo: "hoja ef.pdf"
 --------------------------------------------------
