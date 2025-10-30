@@ -1,0 +1,13 @@
+
+[Registro de sesión: 30/10/2025, 13:28:55]
+  - ID de Sesión: 307
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1536x864
+    - Batería: 96% (Cargando: No)
+  - Acciones Realizadas:
+    - [30/10/2025, 13:28:55] Sesión iniciada. ID: 307
+--------------------------------------------------
