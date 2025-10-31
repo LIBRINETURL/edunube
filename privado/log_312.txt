@@ -1,5 +1,17 @@
 
-[Registro de sesión: 31/10/2025, 11:31:28]
+[Registro de sesiÃ³n: 31/10/2025, 11:31:28]
+  - ID de SesiÃ³n: 312
+  - Apodo: antonio
+  - IP: 80.73.146.215
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1536x864
+    - BaterÃ­a: 95% (Cargando: No)
+  - Acciones Realizadas:
+    - [31/10/2025, 11:31:28] SesiÃ³n iniciada. ID: 312
+--------------------------------------------------
+[Registro de sesión: 31/10/2025, 11:38:33]
   - ID de Sesión: 312
   - Apodo: antonio
   - IP: 80.73.146.215
@@ -7,7 +19,7 @@
     - Sistema Operativo: Windows
     - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
     - Dimensiones de Pantalla: 1536x864
-    - Batería: 95% (Cargando: No)
+    - Batería: 91% (Cargando: No)
   - Acciones Realizadas:
-    - [31/10/2025, 11:31:28] Sesión iniciada. ID: 312
+    - [31/10/2025, 11:38:33] Subir archivo: "Librillaia images/DIA DE SEGURIDAD DEL PERIORISMO.jpeg"
 --------------------------------------------------
