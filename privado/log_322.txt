@@ -1,11 +1,23 @@
 
-[Registro de sesiÃ³n: 7/11/2025, 11:34:42]
-  - ID de SesiÃ³n: 322
-  - Apodo: AnÃ³nimo
+[Registro de sesiÃÂ³n: 7/11/2025, 11:34:42]
+  - ID de SesiÃÂ³n: 322
+  - Apodo: AnÃÂ³nimo
   - Acciones Realizadas:
-    - [7/11/2025, 11:34:42] AÃ±adir nota: "#@â¬GENERA UN ESPECIAL ENTERO D..."
+    - [7/11/2025, 11:34:42] AÃÂ±adir nota: "#@Ã¢ÂÂ¬GENERA UN ESPECIAL ENTERO D..."
 ----------------------------------
-[Registro de sesión: 7/11/2025, 21:12:18]
+[Registro de sesiÃ³n: 7/11/2025, 21:12:18]
+  - ID de SesiÃ³n: 322
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [7/11/2025, 21:12:18] SesiÃ³n iniciada. ID: 322
+--------------------------------------------------
+[Registro de sesión: 7/11/2025, 21:12:34]
   - ID de Sesión: 322
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -15,5 +27,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [7/11/2025, 21:12:18] Sesión iniciada. ID: 322
+    - [7/11/2025, 21:12:34] Crear carpeta: "0AULIA/LENGUA/1ºTRIMESTRE/EXPOSICION ORAL"
 --------------------------------------------------
