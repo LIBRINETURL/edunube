@@ -1,11 +1,23 @@
 
-[Registro de sesiÃÂÃÂ³n: 7/11/2025, 11:34:42]
-  - ID de SesiÃÂÃÂ³n: 322
-  - Apodo: AnÃÂÃÂ³nimo
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 7/11/2025, 11:34:42]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 322
+  - Apodo: AnÃÂÃÂÃÂÃÂ³nimo
   - Acciones Realizadas:
-    - [7/11/2025, 11:34:42] AÃÂÃÂ±adir nota: "#@ÃÂ¢ÃÂÃÂ¬GENERA UN ESPECIAL ENTERO D..."
+    - [7/11/2025, 11:34:42] AÃÂÃÂÃÂÃÂ±adir nota: "#@ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¬GENERA UN ESPECIAL ENTERO D..."
 ----------------------------------
-[Registro de sesiÃÂ³n: 7/11/2025, 21:12:18]
+[Registro de sesiÃÂÃÂ³n: 7/11/2025, 21:12:18]
+  - ID de SesiÃÂÃÂ³n: 322
+  - Apodo: ANTONUIO
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v141, Not?A_Brand v8, Chromium v141
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃÂÃÂ­a: 100% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [7/11/2025, 21:12:18] SesiÃÂÃÂ³n iniciada. ID: 322
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 7/11/2025, 21:12:34]
   - ID de SesiÃÂ³n: 322
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -15,9 +27,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃÂ­a: 100% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [7/11/2025, 21:12:18] SesiÃÂ³n iniciada. ID: 322
+    - [7/11/2025, 21:12:34] Crear carpeta: "0AULIA/LENGUA/1ÃÂºTRIMESTRE/EXPOSICION ORAL"
 --------------------------------------------------
-[Registro de sesiÃ³n: 7/11/2025, 21:12:34]
+[Registro de sesiÃ³n: 7/11/2025, 21:14:25]
   - ID de SesiÃ³n: 322
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -27,9 +39,11 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃ­a: 100% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [7/11/2025, 21:12:34] Crear carpeta: "0AULIA/LENGUA/1ÂºTRIMESTRE/EXPOSICION ORAL"
+    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/MORFOLOGIA/3-Texto. Un aÃ±o y la memoria intacta.pdf"
+    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/MORFOLOGIA/2- Texto_ El teletrabajo y las claves para un equilibrio sostenible (2).pdf"
+    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ÂºTRIMESTRE/MORFOLOGIA/Esquema anaÌlisis morfoloÌgico.pdf"
 --------------------------------------------------
-[Registro de sesión: 7/11/2025, 21:14:25]
+[Registro de sesión: 7/11/2025, 21:14:42]
   - ID de Sesión: 322
   - Apodo: ANTONUIO
   - IP: 89.32.84.63
@@ -39,7 +53,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA/3-Texto. Un año y la memoria intacta.pdf"
-    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA/2- Texto_ El teletrabajo y las claves para un equilibrio sostenible (2).pdf"
-    - [7/11/2025, 21:14:25] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/MORFOLOGIA/Esquema análisis morfológico.pdf"
+    - [7/11/2025, 21:14:42] Subir archivo: "0AULIA/LENGUA/1ºTRIMESTRE/Lectura/principales_figuras_retoricas.pdf"
 --------------------------------------------------
