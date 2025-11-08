@@ -1,0 +1,13 @@
+
+[Registro de sesión: 8/11/2025, 13:14:08]
+  - ID de Sesión: 329
+  - Apodo: Antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Android
+    - Navegador: Chromium v106, Google Chrome v106, Not;A=Brand v99
+    - Dimensiones de Pantalla: 320x570
+    - Batería: 20% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [8/11/2025, 13:14:08] Sesión iniciada. ID: 329
+--------------------------------------------------
