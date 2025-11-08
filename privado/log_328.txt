@@ -1,5 +1,17 @@
 
-[Registro de sesión: 8/11/2025, 13:04:24]
+[Registro de sesiÃ³n: 8/11/2025, 13:04:24]
+  - ID de SesiÃ³n: 328
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [8/11/2025, 13:04:24] SesiÃ³n iniciada. ID: 328
+--------------------------------------------------
+[Registro de sesión: 8/11/2025, 13:05:14]
   - ID de Sesión: 328
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [8/11/2025, 13:04:24] Sesión iniciada. ID: 328
+    - [8/11/2025, 13:05:14] Subir archivo: "CCF_006948.pdf"
 --------------------------------------------------
