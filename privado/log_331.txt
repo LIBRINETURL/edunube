@@ -1,5 +1,17 @@
 
-[Registro de sesión: 8/11/2025, 13:33:17]
+[Registro de sesiÃ³n: 8/11/2025, 13:33:17]
+  - ID de SesiÃ³n: 331
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [8/11/2025, 13:33:17] SesiÃ³n iniciada. ID: 331
+--------------------------------------------------
+[Registro de sesión: 8/11/2025, 13:33:26]
   - ID de Sesión: 331
   - Apodo: antonio
   - IP: 85.86.59.231
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [8/11/2025, 13:33:17] Sesión iniciada. ID: 331
+    - [8/11/2025, 13:33:26] Copiar enlace de archivo: "1762604048500-1721816263.jpg"
 --------------------------------------------------
