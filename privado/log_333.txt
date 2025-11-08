@@ -1,0 +1,13 @@
+
+[Registro de sesión: 8/11/2025, 15:35:14]
+  - ID de Sesión: 333
+  - Apodo: Anto io
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Android
+    - Navegador: Chromium v106, Google Chrome v106, Not;A=Brand v99
+    - Dimensiones de Pantalla: 320x570
+    - Batería: 100% (Cargando: No)
+  - Acciones Realizadas:
+    - [8/11/2025, 15:35:14] Sesión iniciada. ID: 333
+--------------------------------------------------
