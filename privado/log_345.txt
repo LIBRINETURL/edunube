@@ -1,0 +1,13 @@
+
+[Registro de sesión: 11/11/2025, 23:11:55]
+  - ID de Sesión: 345
+  - Apodo: antonio
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [11/11/2025, 23:11:55] Sesión iniciada. ID: 345
+--------------------------------------------------
