@@ -251,6 +251,15 @@
       "color": "#00ff88",
       "description": "",
       "timestamp": 1762899669004
+    },
+    {
+      "id": "1762899741981",
+      "title": "EXPOSICIONES ORALES DE LENGUA",
+      "startDate": "2025-12-10",
+      "endDate": "2025-12-12",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1762899741981
     }
   ],
   "recurring": [
