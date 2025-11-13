@@ -269,6 +269,15 @@
       "color": "#44ff00",
       "description": "",
       "timestamp": 1763049823246
+    },
+    {
+      "id": "1763049844685",
+      "title": "ENLACE QUIMICO EXAMEN",
+      "startDate": "2025-11-27",
+      "endDate": "2025-11-27",
+      "color": "#3bf75a",
+      "description": "",
+      "timestamp": 1763049844685
     }
   ],
   "recurring": [
