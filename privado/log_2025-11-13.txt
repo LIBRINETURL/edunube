@@ -1,0 +1,8 @@
+
+[Registro de sesión: 13/11/2025, 16:29:54]
+  - ID de Sesión: 1763047786800
+  - Apodo: UsuarioWeb
+  - IP: 89.32.84.63
+  - Acciones Realizadas:
+    - [13/11/2025, 16:29:54] Sesión iniciada. ID: 1763047786800
+--------------------------------------------------
