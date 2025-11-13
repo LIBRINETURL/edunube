@@ -278,6 +278,24 @@
       "color": "#3bf75a",
       "description": "",
       "timestamp": 1763049844685
+    },
+    {
+      "id": "1763049845125",
+      "title": "ENLACE QUIMICO EXAMEN",
+      "startDate": "2025-11-27",
+      "endDate": "2025-11-27",
+      "color": "#3bf75a",
+      "description": "",
+      "timestamp": 1763049845125
+    },
+    {
+      "id": "1763049879580",
+      "title": "TENICAS DE EXTUDIO SE VENCE ANATOMIA",
+      "startDate": "2025-11-28",
+      "endDate": "2025-11-28",
+      "color": "#368227",
+      "description": "",
+      "timestamp": 1763049879580
     }
   ],
   "recurring": [
