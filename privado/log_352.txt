@@ -1,0 +1,13 @@
+
+[Registro de sesión: 13/11/2025, 16:29:48]
+  - ID de Sesión: 352
+  - Apodo: antonio
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [13/11/2025, 16:29:48] Sesión iniciada. ID: 352
+--------------------------------------------------
