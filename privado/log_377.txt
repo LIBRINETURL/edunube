@@ -1,5 +1,17 @@
 
-[Registro de sesión: 21/11/2025, 22:40:39]
+[Registro de sesiÃ³n: 21/11/2025, 22:40:39]
+  - ID de SesiÃ³n: 377
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [21/11/2025, 22:40:39] SesiÃ³n iniciada. ID: 377 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 21/11/2025, 22:40:46]
   - ID de Sesión: 377
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [21/11/2025, 22:40:39] Sesión iniciada. ID: 377 (Usuario: Usuario Anónimo)
+    - [21/11/2025, 22:40:46] Copiar enlace de archivo: "ARCHIVO/INTRODUCCION FILOSOFIA.pdf"
 --------------------------------------------------
