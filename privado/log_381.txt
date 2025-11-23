@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/11/2025, 22:01:05]
+[Registro de sesiÃ³n: 23/11/2025, 22:01:05]
+  - ID de SesiÃ³n: 381
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/11/2025, 22:01:05] SesiÃ³n iniciada. ID: 381 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 23/11/2025, 22:01:38]
   - ID de Sesión: 381
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.231
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/11/2025, 22:01:05] Sesión iniciada. ID: 381 (Usuario: Usuario Anónimo)
+    - [23/11/2025, 22:01:38] Subir archivo: "clip cifra tus archivos . Solo los podrá abrir clippy para seguir editando.png"
 --------------------------------------------------
