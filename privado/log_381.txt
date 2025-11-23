@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 23/11/2025, 22:01:05]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 23/11/2025, 22:01:05]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 381
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.59.231
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v142, Google Chrome v142, Not_A Brand v99
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [23/11/2025, 22:01:05] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 381 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 23/11/2025, 22:01:38]
   - ID de SesiÃÂÃÂ³n: 381
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.59.231
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [23/11/2025, 22:01:05] SesiÃÂÃÂ³n iniciada. ID: 381 (Usuario: Usuario AnÃÂÃÂ³nimo)
+    - [23/11/2025, 22:01:38] Subir archivo: "clip cifra tus archivos . Solo los podrÃÂÃÂ¡ abrir clippy para seguir editando.png"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 23/11/2025, 22:01:38]
+[Registro de sesiÃÂ³n: 23/11/2025, 22:01:57]
   - ID de SesiÃÂ³n: 381
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.231
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [23/11/2025, 22:01:38] Subir archivo: "clip cifra tus archivos . Solo los podrÃÂ¡ abrir clippy para seguir editando.png"
+    - [23/11/2025, 22:01:57] Subir archivo: "clippy.png"
 --------------------------------------------------
-[Registro de sesiÃ³n: 23/11/2025, 22:01:57]
+[Registro de sesiÃ³n: 23/11/2025, 22:02:04]
   - ID de SesiÃ³n: 381
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.231
@@ -33,9 +45,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [23/11/2025, 22:01:57] Subir archivo: "clippy.png"
+    - [23/11/2025, 22:02:04] Copiar enlace de archivo: "images.jpg"
+    - [23/11/2025, 22:02:04] Copiar enlace de archivo: "images.jpg"
 --------------------------------------------------
-[Registro de sesión: 23/11/2025, 22:02:04]
+[Registro de sesión: 23/11/2025, 22:02:14]
   - ID de Sesión: 381
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.231
@@ -45,6 +58,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/11/2025, 22:02:04] Copiar enlace de archivo: "images.jpg"
-    - [23/11/2025, 22:02:04] Copiar enlace de archivo: "images.jpg"
+    - [23/11/2025, 22:02:14] Copiar enlace de archivo: "clippy.png"
 --------------------------------------------------
