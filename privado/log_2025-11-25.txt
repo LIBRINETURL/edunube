@@ -22,3 +22,10 @@
     - [25/11/2025, 1:44:01] Añadido nuevo evento (ID: 1764031434686) en fixed.
     - [25/11/2025, 1:44:01] Guardar eventos. SHA actualizado: 9773b8859a1649ca2b09a336051a4fb949c75314
 --------------------------------------------------
+[Registro de sesión: 25/11/2025, 2:18:46]
+  - ID de Sesión: 1764033520288
+  - Apodo: UsuarioWeb
+  - IP: 85.86.59.64
+  - Acciones Realizadas:
+    - [25/11/2025, 2:18:46] Sesión iniciada. ID: 1764033520288
+--------------------------------------------------
