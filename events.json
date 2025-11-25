@@ -314,6 +314,15 @@
       "color": "#3b82f6",
       "description": "",
       "timestamp": 1764031421918
+    },
+    {
+      "id": "1764031434686",
+      "title": "EXAMEN DE ANATOMIA",
+      "startDate": "2025-12-04",
+      "endDate": "2025-12-04",
+      "color": "#3bf75a",
+      "description": "",
+      "timestamp": 1764031434686
     }
   ],
   "recurring": [
