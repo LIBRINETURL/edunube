@@ -1,0 +1,7 @@
+
+[Registro de sesión: 26/11/2025, 18:58:22]
+  - ID de Sesión: 395
+  - Apodo: Anónimo
+  - Acciones Realizadas:
+    - [26/11/2025, 18:58:22] Sesión iniciada. ID: 395
+----------------------------------
