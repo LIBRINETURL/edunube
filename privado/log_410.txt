@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 21/12/2025, 18:41:32]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 21/12/2025, 18:41:32]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 410
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.59.64
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [21/12/2025, 18:41:32] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 410 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 21/12/2025, 18:42:15]
   - ID de SesiÃÂÃÂ³n: 410
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.59.64
@@ -9,9 +21,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [21/12/2025, 18:41:32] SesiÃÂÃÂ³n iniciada. ID: 410 (Usuario: Usuario AnÃÂÃÂ³nimo)
+    - [21/12/2025, 18:42:15] Copiar enlace de archivo: "0AULIA/MATES/1ÃÂÃÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso con Problemas Planteados.pdf"
+    - [21/12/2025, 18:42:15] Copiar enlace de archivo: "0AULIA/MATES/1ÃÂÃÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 21/12/2025, 18:42:15]
+[Registro de sesiÃÂ³n: 21/12/2025, 18:42:25]
   - ID de SesiÃÂ³n: 410
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.64
@@ -21,10 +34,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [21/12/2025, 18:42:15] Copiar enlace de archivo: "0AULIA/MATES/1ÃÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso con Problemas Planteados.pdf"
-    - [21/12/2025, 18:42:15] Copiar enlace de archivo: "0AULIA/MATES/1ÃÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso.pdf"
+    - [21/12/2025, 18:42:25] Eliminar archivo: "0AULIA/MATES/1ÃÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 21/12/2025, 18:42:25]
+[Registro de sesiÃ³n: 21/12/2025, 18:45:43]
   - ID de SesiÃ³n: 410
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.64
@@ -34,9 +46,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [21/12/2025, 18:42:25] Eliminar archivo: "0AULIA/MATES/1ÂºTRIMESTRE/Sistemas de ecuaciones/UD03_Sistemas_Repaso.pdf"
+    - [21/12/2025, 18:45:43] Subir archivo: "0AULIA/MATES/1ÂºTRIMESTRE/Sistemas de ecuaciones/Problema Sistemas (2).pdf"
 --------------------------------------------------
-[Registro de sesión: 21/12/2025, 18:45:43]
+[Registro de sesión: 21/12/2025, 18:45:58]
   - ID de Sesión: 410
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.64
@@ -46,5 +58,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [21/12/2025, 18:45:43] Subir archivo: "0AULIA/MATES/1ºTRIMESTRE/Sistemas de ecuaciones/Problema Sistemas (2).pdf"
+    - [21/12/2025, 18:45:58] Crear carpeta: "0AULIA/MATES/2ºTRIMESTRE"
 --------------------------------------------------
