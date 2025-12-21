@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 21/12/2025, 19:12:27]
+[Registro de sesiÃÂÃÂ³n: 21/12/2025, 19:12:27]
+  - ID de SesiÃÂÃÂ³n: 411
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.59.64
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [21/12/2025, 19:12:27] SesiÃÂÃÂ³n iniciada. ID: 411 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 21/12/2025, 19:14:10]
   - ID de SesiÃÂ³n: 411
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.64
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [21/12/2025, 19:12:27] SesiÃÂ³n iniciada. ID: 411 (Usuario: Usuario AnÃÂ³nimo)
+    - [21/12/2025, 19:14:10] Crear carpeta: "0AULIA/MATES/2ÃÂºTRIMESTRE/TRIGONOMETRIA"
 --------------------------------------------------
-[Registro de sesiÃ³n: 21/12/2025, 19:14:10]
+[Registro de sesiÃ³n: 21/12/2025, 19:14:24]
   - ID de SesiÃ³n: 411
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.64
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [21/12/2025, 19:14:10] Crear carpeta: "0AULIA/MATES/2ÂºTRIMESTRE/TRIGONOMETRIA"
+    - [21/12/2025, 19:14:24] Crear carpeta: "0AULIA/MATES/2ÂºTRIMESTRE/GEOMETRIA ANALITICA"
 --------------------------------------------------
-[Registro de sesión: 21/12/2025, 19:14:24]
+[Registro de sesión: 21/12/2025, 19:14:48]
   - ID de Sesión: 411
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.64
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [21/12/2025, 19:14:24] Crear carpeta: "0AULIA/MATES/2ºTRIMESTRE/GEOMETRIA ANALITICA"
+    - [21/12/2025, 19:14:48] Crear carpeta: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD"
 --------------------------------------------------
