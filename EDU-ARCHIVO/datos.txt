@@ -1,4 +1,4 @@
 ANTONIO:7777
-URL:
-ALGO QUE DECIR:
-URL:
+URL:https://upload.wikimedia.org/wikipedia/commons/0/0c/Solange_FALADE_et_Jacques_LACAN_%28cropped%29.png
+ALGO QUE DECIR:mira esto
+URL2:https://es.wikipedia.org/wiki/Wikipedia:Portada
