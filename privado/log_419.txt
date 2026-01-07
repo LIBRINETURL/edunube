@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 7/1/2026, 18:13:21]
+[Registro de sesiÃÂÃÂ³n: 7/1/2026, 18:13:21]
+  - ID de SesiÃÂÃÂ³n: 419
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [7/1/2026, 18:13:21] SesiÃÂÃÂ³n iniciada. ID: 419 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 7/1/2026, 18:13:53]
   - ID de SesiÃÂ³n: 419
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [7/1/2026, 18:13:21] SesiÃÂ³n iniciada. ID: 419 (Usuario: Usuario AnÃÂ³nimo)
+    - [7/1/2026, 18:13:53] Subir archivo: "CONCENTRACIONES Y GASESpdf.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 7/1/2026, 18:13:53]
+[Registro de sesiÃ³n: 7/1/2026, 18:14:16]
   - ID de SesiÃ³n: 419
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [7/1/2026, 18:13:53] Subir archivo: "CONCENTRACIONES Y GASESpdf.pdf"
+    - [7/1/2026, 18:14:16] Copiar enlace de archivo: "CONCENTRACIONES Y GASESpdf.pdf"
 --------------------------------------------------
-[Registro de sesión: 7/1/2026, 18:14:16]
+[Registro de sesión: 7/1/2026, 18:18:34]
   - ID de Sesión: 419
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [7/1/2026, 18:14:16] Copiar enlace de archivo: "CONCENTRACIONES Y GASESpdf.pdf"
+    - [7/1/2026, 18:18:34] Copiar enlace de archivo: "CONCENTRACIONES Y GASESpdf.pdf"
 --------------------------------------------------
