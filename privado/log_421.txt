@@ -1,5 +1,17 @@
 
-[Registro de sesión: 7/1/2026, 18:21:37]
+[Registro de sesiÃ³n: 7/1/2026, 18:21:37]
+  - ID de SesiÃ³n: 421
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [7/1/2026, 18:21:37] SesiÃ³n iniciada. ID: 421 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 7/1/2026, 18:25:44]
   - ID de Sesión: 421
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [7/1/2026, 18:21:37] Sesión iniciada. ID: 421 (Usuario: Usuario Anónimo)
+    - [7/1/2026, 18:25:44] Crear carpeta: "EDU-ARCHIVO"
 --------------------------------------------------
