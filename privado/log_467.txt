@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 14/1/2026, 0:05:07]
+[Registro de sesiÃÂÃÂ³n: 14/1/2026, 0:05:07]
+  - ID de SesiÃÂÃÂ³n: 467
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.59.22
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [14/1/2026, 0:05:07] SesiÃÂÃÂ³n iniciada. ID: 467 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 14/1/2026, 0:05:25]
   - ID de SesiÃÂ³n: 467
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.22
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [14/1/2026, 0:05:07] SesiÃÂ³n iniciada. ID: 467 (Usuario: Usuario AnÃÂ³nimo)
+    - [14/1/2026, 0:05:25] Crear carpeta: "EDU-ARCHIVO/PDFs/ANATOMIA"
 --------------------------------------------------
-[Registro de sesiÃ³n: 14/1/2026, 0:05:25]
+[Registro de sesiÃ³n: 14/1/2026, 0:07:12]
   - ID de SesiÃ³n: 467
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.22
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [14/1/2026, 0:05:25] Crear carpeta: "EDU-ARCHIVO/PDFs/ANATOMIA"
+    - [14/1/2026, 0:07:12] Crear carpeta: "EDU-ARCHIVO/PDFs/ANATOMIA/HUESOS"
 --------------------------------------------------
-[Registro de sesión: 14/1/2026, 0:07:12]
+[Registro de sesión: 14/1/2026, 0:10:10]
   - ID de Sesión: 467
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.22
@@ -33,5 +45,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [14/1/2026, 0:07:12] Crear carpeta: "EDU-ARCHIVO/PDFs/ANATOMIA/HUESOS"
+    - [14/1/2026, 0:10:10] Subir archivo: "EDU-ARCHIVO/PDFs/ANATOMIA/HUESOS/Anat 03_Huesos y articulac tema-2.docx_compressed (1).pdf"
+    - [14/1/2026, 0:10:10] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/ANATOMIA/HUESOS/Anat 03_Huesos y articulac tema-2.docx_compressed (1).pdf"
 --------------------------------------------------
