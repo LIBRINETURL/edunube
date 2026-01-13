@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 13/1/2026, 17:29:28]
+[Registro de sesiÃÂ³n: 13/1/2026, 17:29:28]
+  - ID de SesiÃÂ³n: 455
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [13/1/2026, 17:29:28] SesiÃÂ³n iniciada. ID: 455 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 13/1/2026, 17:30:24]
   - ID de SesiÃ³n: 455
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [13/1/2026, 17:29:28] SesiÃ³n iniciada. ID: 455 (Usuario: Usuario AnÃ³nimo)
+    - [13/1/2026, 17:30:24] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/IRIS.pdf"
 --------------------------------------------------
-[Registro de sesión: 13/1/2026, 17:30:24]
+[Registro de sesión: 13/1/2026, 17:31:11]
   - ID de Sesión: 455
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [13/1/2026, 17:30:24] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/IRIS.pdf"
+    - [13/1/2026, 17:31:11] Eliminar archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/IRIS.pdf"
 --------------------------------------------------
