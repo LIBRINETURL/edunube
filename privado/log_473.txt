@@ -1,5 +1,17 @@
 
-[Registro de sesión: 14/1/2026, 23:47:40]
+[Registro de sesiÃ³n: 14/1/2026, 23:47:40]
+  - ID de SesiÃ³n: 473
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.59.22
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [14/1/2026, 23:47:40] SesiÃ³n iniciada. ID: 473 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 14/1/2026, 23:48:08]
   - ID de Sesión: 473
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.22
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [14/1/2026, 23:47:40] Sesión iniciada. ID: 473 (Usuario: Usuario Anónimo)
+    - [14/1/2026, 23:48:08] Crear carpeta: "0AULIA/FYQ/2ºTrimestre"
 --------------------------------------------------
