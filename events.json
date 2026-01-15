@@ -395,6 +395,15 @@
       "color": "#e6b400",
       "description": "WRITTING AND LISTENING",
       "timestamp": 1768437624993
+    },
+    {
+      "id": "1768437643798",
+      "title": "Examen de lengua comentario de texto",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "color": "#0062ff",
+      "description": "",
+      "timestamp": 1768437643798
     }
   ],
   "recurring": [
