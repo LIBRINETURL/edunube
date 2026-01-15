@@ -350,6 +350,15 @@
       "color": "#3b82f6",
       "description": "",
       "timestamp": 1768437457230
+    },
+    {
+      "id": "1768437488710",
+      "title": "ENTREGA DE TRABAJO TECNOLOGIA DE IES",
+      "startDate": "2026-02-08",
+      "endDate": "2026-02-08",
+      "color": "#f73b3b",
+      "description": "",
+      "timestamp": 1768437488710
     }
   ],
   "recurring": [
