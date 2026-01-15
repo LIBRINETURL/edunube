@@ -377,6 +377,15 @@
       "color": "#3b82f6",
       "description": "SINTAXIS",
       "timestamp": 1768437575318
+    },
+    {
+      "id": "1768437605153",
+      "title": "EXAMEN DE INGLES",
+      "startDate": "2026-03-02",
+      "endDate": "2026-03-02",
+      "color": "#ff9500",
+      "description": "GRAMMAR , VOCABULARY , READING",
+      "timestamp": 1768437605153
     }
   ],
   "recurring": [
