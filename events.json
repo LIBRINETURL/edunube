@@ -386,6 +386,15 @@
       "color": "#ff9500",
       "description": "GRAMMAR , VOCABULARY , READING",
       "timestamp": 1768437605153
+    },
+    {
+      "id": "1768437624993",
+      "title": "EXAMEN DE INGLES",
+      "startDate": "2026-03-03",
+      "endDate": "2026-03-03",
+      "color": "#e6b400",
+      "description": "WRITTING AND LISTENING",
+      "timestamp": 1768437624993
     }
   ],
   "recurring": [
