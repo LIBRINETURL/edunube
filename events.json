@@ -422,6 +422,15 @@
       "color": "#ffbb00",
       "description": "",
       "timestamp": 1768437684364
+    },
+    {
+      "id": "1768437702463",
+      "title": "Examen de ingles",
+      "startDate": "2026-01-16",
+      "endDate": "2026-01-16",
+      "color": "#ffa200",
+      "description": "",
+      "timestamp": 1768437702463
     }
   ],
   "recurring": [
