@@ -332,6 +332,15 @@
       "color": "#3bf78c",
       "description": "",
       "timestamp": 1768437418991
+    },
+    {
+      "id": "1768437447912",
+      "title": "ENTREGA TRABAJO DE FILOSOFIA",
+      "startDate": "2026-01-20",
+      "endDate": "2026-01-20",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1768437447912
     }
   ],
   "recurring": [
