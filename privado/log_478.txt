@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 15/1/2026, 21:29:31]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 15/1/2026, 21:29:31]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 478
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.59.22
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [15/1/2026, 21:29:31] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 478 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 15/1/2026, 21:30:17]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 478
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.59.22
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [15/1/2026, 21:29:31] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 478 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+    - [15/1/2026, 21:30:17] Crear carpeta: "EDU-ARCHIVO/PDFs/INGLES"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 15/1/2026, 21:30:17]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 15/1/2026, 21:31:43]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 478
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.59.22
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [15/1/2026, 21:30:17] Crear carpeta: "EDU-ARCHIVO/PDFs/INGLES"
+    - [15/1/2026, 21:31:43] Crear carpeta: "EDU-ARCHIVO/PDFs/INGLES/owl hall"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 15/1/2026, 21:31:43]
+[Registro de sesiÃÂÃÂ³n: 15/1/2026, 21:33:08]
   - ID de SesiÃÂÃÂ³n: 478
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.59.22
@@ -33,9 +45,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [15/1/2026, 21:31:43] Crear carpeta: "EDU-ARCHIVO/PDFs/INGLES/owl hall"
+    - [15/1/2026, 21:33:08] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
+    - [15/1/2026, 21:33:08] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Questions and Answers.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 15/1/2026, 21:33:08]
+[Registro de sesiÃÂ³n: 15/1/2026, 21:35:30]
   - ID de SesiÃÂ³n: 478
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.22
@@ -45,10 +58,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [15/1/2026, 21:33:08] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
-    - [15/1/2026, 21:33:08] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Questions and Answers.pdf"
+    - [15/1/2026, 21:35:30] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 15/1/2026, 21:35:30]
+[Registro de sesiÃ³n: 15/1/2026, 21:35:42]
   - ID de SesiÃ³n: 478
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.22
@@ -58,9 +70,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [15/1/2026, 21:35:30] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
+    - [15/1/2026, 21:35:42] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
 --------------------------------------------------
-[Registro de sesión: 15/1/2026, 21:35:42]
+[Registro de sesión: 15/1/2026, 21:35:59]
   - ID de Sesión: 478
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.22
@@ -70,5 +82,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [15/1/2026, 21:35:42] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
+    - [15/1/2026, 21:35:59] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/owl hall/Owl Hall - Preguntas y Respuestas.pdf"
 --------------------------------------------------
