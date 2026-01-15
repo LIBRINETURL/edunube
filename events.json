@@ -323,6 +323,15 @@
       "color": "#3bf75a",
       "description": "",
       "timestamp": 1764031434686
+    },
+    {
+      "id": "1768437418991",
+      "title": "EXAMEN DE FISICA Y QUIMICA",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-15",
+      "color": "#3bf78c",
+      "description": "",
+      "timestamp": 1768437418991
     }
   ],
   "recurring": [
