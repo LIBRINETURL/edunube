@@ -1,0 +1,14 @@
+
+[Registro de sesión: 17/1/2026, 0:49:16]
+  - ID de Sesión: 483
+  - Apodo: Usuario Anónimo
+  - IP: 85.86.59.22
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - Batería: 0% (Cargando: Sí)
+  - Acciones Realizadas:
+    - [17/1/2026, 0:49:16] Sesión iniciada. ID: 483 (Usuario: Usuario Anónimo)
+    - [17/1/2026, 0:49:16] Copiar enlace de archivo: "CCF_006808.pdf"
+--------------------------------------------------
