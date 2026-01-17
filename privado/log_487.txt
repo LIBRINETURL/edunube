@@ -1,5 +1,17 @@
 
-[Registro de sesión: 17/1/2026, 18:34:44]
+[Registro de sesiÃ³n: 17/1/2026, 18:34:44]
+  - ID de SesiÃ³n: 487
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.63.253
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [17/1/2026, 18:34:44] SesiÃ³n iniciada. ID: 487 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 17/1/2026, 18:35:26]
   - ID de Sesión: 487
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.253
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [17/1/2026, 18:34:44] Sesión iniciada. ID: 487 (Usuario: Usuario Anónimo)
+    - [17/1/2026, 18:35:26] Crear carpeta: "0AULIA/FILOSOFIA/2ºTRIMESTRE"
 --------------------------------------------------
