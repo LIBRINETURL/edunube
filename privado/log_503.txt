@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 18/1/2026, 21:19:19]
+[Registro de sesiÃÂÃÂ³n: 18/1/2026, 21:19:19]
+  - ID de SesiÃÂÃÂ³n: 503
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 21:19:19] SesiÃÂÃÂ³n iniciada. ID: 503 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 18/1/2026, 21:20:14]
   - ID de SesiÃÂ³n: 503
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:19:19] SesiÃÂ³n iniciada. ID: 503 (Usuario: Usuario AnÃÂ³nimo)
+    - [18/1/2026, 21:20:14] Eliminar archivo: "0AULIA/MATES/2ÃÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 18/1/2026, 21:20:14]
+[Registro de sesiÃ³n: 18/1/2026, 21:21:01]
   - ID de SesiÃ³n: 503
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:20:14] Eliminar archivo: "0AULIA/MATES/2ÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
+    - [18/1/2026, 21:21:01] Subir archivo: "0AULIA/MATES/2ÂºTRIMESTRE/TRIGONOMETRIA/04_Trigonometria_Libro.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 21:21:01]
+[Registro de sesión: 18/1/2026, 21:21:22]
   - ID de Sesión: 503
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 21:21:01] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/04_Trigonometria_Libro.pdf"
+    - [18/1/2026, 21:21:22] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/Ejercicios propuestos.pdf"
 --------------------------------------------------
