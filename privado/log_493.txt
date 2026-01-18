@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:06:44]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:06:44]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 493
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 3:06:44] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 493 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:07:02]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:06:44] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 493 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [18/1/2026, 3:07:02] Crear carpeta: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 18/1/2026, 3:07:02]
+[Registro de sesiÃÂÃÂ³n: 18/1/2026, 3:29:48]
   - ID de SesiÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:07:02] Crear carpeta: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas"
+    - [18/1/2026, 3:29:48] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de EstequiometrÃÂÃÂ­a.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 18/1/2026, 3:29:48]
+[Registro de sesiÃÂ³n: 18/1/2026, 3:32:48]
   - ID de SesiÃÂ³n: 493
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.63.131
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:29:48] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de EstequiometrÃÂ­a.pdf"
+    - [18/1/2026, 3:32:48] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de EstequiometrÃÂ­a.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 18/1/2026, 3:32:48]
+[Registro de sesiÃ³n: 18/1/2026, 3:34:14]
   - ID de SesiÃ³n: 493
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:32:48] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de EstequiometrÃ­a.pdf"
+    - [18/1/2026, 3:34:14] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de EstequiometrÃ­a.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 3:34:14]
+[Registro de sesión: 18/1/2026, 3:35:48]
   - ID de Sesión: 493
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 3:34:14] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Ejercicios de Estequiometría.pdf"
+    - [18/1/2026, 3:35:48] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Reacciones quimicas/Guía de Formulación Inorgánica.pdf"
 --------------------------------------------------
