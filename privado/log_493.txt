@@ -1,5 +1,17 @@
 
-[Registro de sesión: 18/1/2026, 3:53:23]
+[Registro de sesiÃ³n: 18/1/2026, 3:53:23]
+  - ID de SesiÃ³n: 493
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 3:53:23] Crear carpeta: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS"
+--------------------------------------------------
+[Registro de sesión: 18/1/2026, 3:54:27]
   - ID de Sesión: 493
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 3:53:23] Crear carpeta: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS"
+    - [18/1/2026, 3:54:27] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
