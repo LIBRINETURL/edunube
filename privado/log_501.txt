@@ -1,5 +1,17 @@
 
-[Registro de sesión: 18/1/2026, 21:15:49]
+[Registro de sesiÃ³n: 18/1/2026, 21:15:49]
+  - ID de SesiÃ³n: 501
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 21:15:49] SesiÃ³n iniciada. ID: 501 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 18/1/2026, 21:16:08]
   - ID de Sesión: 501
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 21:15:49] Sesión iniciada. ID: 501 (Usuario: Usuario Anónimo)
+    - [18/1/2026, 21:16:08] Copiar enlace de archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
