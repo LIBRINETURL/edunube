@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 21:24:04]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 21:24:04]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 504
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 21:24:04] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 504 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 21:25:04]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 504
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:24:04] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 504 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [18/1/2026, 21:25:04] Subir archivo: "0AULIA/MATES/2ÃÂÃÂÃÂÃÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 18/1/2026, 21:25:04]
+[Registro de sesiÃÂÃÂ³n: 18/1/2026, 21:26:30]
   - ID de SesiÃÂÃÂ³n: 504
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:25:04] Subir archivo: "0AULIA/MATES/2ÃÂÃÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
+    - [18/1/2026, 21:26:30] Copiar enlace de archivo: "0AULIA/MATES/2ÃÂÃÂºTRIMESTRE/TRIGONOMETRIA/UD04_Ficha Repaso_TrigonometrÃÂÃÂ­a.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 18/1/2026, 21:26:30]
+[Registro de sesiÃÂ³n: 18/1/2026, 21:26:38]
   - ID de SesiÃÂ³n: 504
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.63.131
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:26:30] Copiar enlace de archivo: "0AULIA/MATES/2ÃÂºTRIMESTRE/TRIGONOMETRIA/UD04_Ficha Repaso_TrigonometrÃÂ­a.pdf"
+    - [18/1/2026, 21:26:38] Copiar enlace de archivo: "0AULIA/MATES/2ÃÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 18/1/2026, 21:26:38]
+[Registro de sesiÃ³n: 18/1/2026, 21:29:42]
   - ID de SesiÃ³n: 504
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 21:26:38] Copiar enlace de archivo: "0AULIA/MATES/2ÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
+    - [18/1/2026, 21:29:42] Copiar enlace de archivo: "0AULIA/MATES/2ÂºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 21:29:42]
+[Registro de sesión: 18/1/2026, 21:29:57]
   - ID de Sesión: 504
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 21:29:42] Copiar enlace de archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
+    - [18/1/2026, 21:29:57] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/Soluciones Ficha repaso Trigonometría.pdf"
 --------------------------------------------------
