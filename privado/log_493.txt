@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:53:23]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:53:23]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 493
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 3:53:23] Crear carpeta: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS"
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:54:27]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:53:23] Crear carpeta: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS"
+    - [18/1/2026, 3:54:27] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:54:27]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:55:06]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:54:27] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
+    - [18/1/2026, 3:55:06] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:55:06]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:56:03]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:55:06] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
+    - [18/1/2026, 3:56:03] Crear carpeta: "0AULIA/INGLES/1ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºTRIMESTRE/UNIT 2"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:56:03]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 3:56:32]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:56:03] Crear carpeta: "0AULIA/INGLES/1ÃÂÃÂÃÂÃÂºTRIMESTRE/UNIT 2"
+    - [18/1/2026, 3:56:32] Copiar enlace de archivo: "0AULIA/INGLES/EVALUATION CRITERIA/MY GRADE CHART IN ENGLISH LOMLOE - Otros.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 18/1/2026, 3:56:32]
+[Registro de sesiÃÂÃÂ³n: 18/1/2026, 3:57:10]
   - ID de SesiÃÂÃÂ³n: 493
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -57,9 +69,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:56:32] Copiar enlace de archivo: "0AULIA/INGLES/EVALUATION CRITERIA/MY GRADE CHART IN ENGLISH LOMLOE - Otros.pdf"
+    - [18/1/2026, 3:57:10] Subir archivo: "0AULIA/INGLES/EVALUATION CRITERIA/RUÃÂÃÂBRICA WRT.pdf"
+    - [18/1/2026, 3:57:10] Subir archivo: "0AULIA/INGLES/EVALUATION CRITERIA/RUBRICA SPK.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 18/1/2026, 3:57:10]
+[Registro de sesiÃÂ³n: 18/1/2026, 3:58:01]
   - ID de SesiÃÂ³n: 493
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.63.131
@@ -69,10 +82,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:57:10] Subir archivo: "0AULIA/INGLES/EVALUATION CRITERIA/RUÃÂBRICA WRT.pdf"
-    - [18/1/2026, 3:57:10] Subir archivo: "0AULIA/INGLES/EVALUATION CRITERIA/RUBRICA SPK.pdf"
+    - [18/1/2026, 3:58:01] Subir archivo: "0AULIA/INGLES/Grammar and Vocabulary/WORDLIST.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 18/1/2026, 3:58:01]
+[Registro de sesiÃ³n: 18/1/2026, 3:59:32]
   - ID de SesiÃ³n: 493
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -82,9 +94,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 3:58:01] Subir archivo: "0AULIA/INGLES/Grammar and Vocabulary/WORDLIST.pdf"
+    - [18/1/2026, 3:59:32] Subir archivo: "0AULIA/INGLES/1ÂºTRIMESTRE/UNIT 2/TENSE MASTER CHART.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 3:59:32]
+[Registro de sesión: 18/1/2026, 3:59:46]
   - ID de Sesión: 493
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -94,5 +106,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 3:59:32] Subir archivo: "0AULIA/INGLES/1ºTRIMESTRE/UNIT 2/TENSE MASTER CHART.pdf"
+    - [18/1/2026, 3:59:46] Crear carpeta: "0AULIA/INGLES/2ºTRIMESTRE"
 --------------------------------------------------
