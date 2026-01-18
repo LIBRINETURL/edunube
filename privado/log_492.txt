@@ -1,5 +1,17 @@
 
-[Registro de sesión: 18/1/2026, 2:29:51]
+[Registro de sesiÃ³n: 18/1/2026, 2:29:51]
+  - ID de SesiÃ³n: 492
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 2:29:51] SesiÃ³n iniciada. ID: 492 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 18/1/2026, 2:30:14]
   - ID de Sesión: 492
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 2:29:51] Sesión iniciada. ID: 492 (Usuario: Usuario Anónimo)
+    - [18/1/2026, 2:30:14] Subir archivo: "0AULIA/FYQ/2ºTrimestre/Disoluciones/TEORIA DISOLUCIONES.pdf"
 --------------------------------------------------
