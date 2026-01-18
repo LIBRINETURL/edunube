@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 20:36:18]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 18/1/2026, 20:36:18]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 500
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 20:36:18] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 500 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 18/1/2026, 20:40:23]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 500
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 20:36:18] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 500 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [18/1/2026, 20:40:23] Crear carpeta: "EDU-ARCHIVO/PDFs/FILOSOFIA"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 18/1/2026, 20:40:23]
+[Registro de sesiÃÂÃÂ³n: 18/1/2026, 20:47:05]
   - ID de SesiÃÂÃÂ³n: 500
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.63.131
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 20:40:23] Crear carpeta: "EDU-ARCHIVO/PDFs/FILOSOFIA"
+    - [18/1/2026, 20:47:05] Crear carpeta: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 18/1/2026, 20:47:05]
+[Registro de sesiÃÂ³n: 18/1/2026, 20:57:06]
   - ID de SesiÃÂ³n: 500
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.63.131
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [18/1/2026, 20:47:05] Crear carpeta: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica"
+    - [18/1/2026, 20:57:06] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ejercicios de ClasificaciÃÂ³n de Proposiciones.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 18/1/2026, 20:57:06]
+[Registro de sesiÃ³n: 18/1/2026, 20:58:01]
   - ID de SesiÃ³n: 500
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 20:57:06] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ejercicios de ClasificaciÃ³n de Proposiciones.pdf"
+    - [18/1/2026, 20:58:01] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ejercicios de ClasificaciÃ³n de Proposiciones.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 20:58:01]
+[Registro de sesión: 18/1/2026, 21:13:36]
   - ID de Sesión: 500
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 20:58:01] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ejercicios de Clasificación de Proposiciones.pdf"
+    - [18/1/2026, 21:13:36] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/TRIGONOMETRIA/Razones Trigonometricas -T-.pdf"
 --------------------------------------------------
