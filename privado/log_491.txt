@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 18/1/2026, 2:26:49]
+[Registro de sesiÃÂ³n: 18/1/2026, 2:26:49]
+  - ID de SesiÃÂ³n: 491
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.63.131
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [18/1/2026, 2:26:49] SesiÃÂ³n iniciada. ID: 491 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 18/1/2026, 2:28:22]
   - ID de SesiÃ³n: 491
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.63.131
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [18/1/2026, 2:26:49] SesiÃ³n iniciada. ID: 491 (Usuario: Usuario AnÃ³nimo)
+    - [18/1/2026, 2:28:22] Subir archivo: "0AULIA/FYQ/2ÂºTrimestre/Disoluciones/APUNTES DE GASES.pdf"
 --------------------------------------------------
-[Registro de sesión: 18/1/2026, 2:28:22]
+[Registro de sesión: 18/1/2026, 2:29:13]
   - ID de Sesión: 491
   - Apodo: Usuario Anónimo
   - IP: 85.86.63.131
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [18/1/2026, 2:28:22] Subir archivo: "0AULIA/FYQ/2ºTrimestre/Disoluciones/APUNTES DE GASES.pdf"
+    - [18/1/2026, 2:29:13] Copiar enlace de archivo: "0AULIA/FYQ/2ºTrimestre/Disoluciones/APUNTES DE GASES.pdf"
 --------------------------------------------------
