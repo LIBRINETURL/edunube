@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer Pro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- PDF.js Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <style>
+        body {
+            background-color: #f3f4f6;
+        }
+        #pdf-render {
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            background-color: white;
+            max-width: 100%;
+        }
+        .canvas-container {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+            overflow-x: auto;
+        }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        .loading-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(255, 255, 255, 0.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+        .dark-mode {
+            background-color: #1a1a1a !important;
+        }
+        .dark-mode header {
+            background-color: #2d2d2d !important;
+            border-bottom: 1px solid #444;
+        }
+    </style>
+</head>
+<body class="transition-colors duration-300">
+
+    <div id="loader" class="loading-overlay">
+        <div class="flex flex-col items-center">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+            <p class="mt-4 text-gray-700 font-medium">Cargando documento...</p>
+        </div>
+    </div>
+
+    <!-- Header / Toolbar -->
+    <header class="sticky top-0 z-50 bg-white border-b border-gray-200 px-4 py-2 flex flex-wrap items-center justify-between shadow-sm">
+        <div class="flex items-center space-x-4 mb-2 sm:mb-0">
+            <h1 class="text-xl font-bold text-blue-600 hidden md:block">PDF Reader</h1>
+            
+            <label class="cursor-pointer bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm transition font-medium flex items-center shadow-sm">
+                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
+                Abrir PDF
+                <input type="file" id="file-input" class="hidden" accept="application/pdf">
+            </label>
+        </div>
+
+        <!-- Pagination Controls -->
+        <div class="flex items-center space-x-2 bg-gray-100 rounded-lg p-1">
+            <button id="prev-page" class="p-2 hover:bg-white rounded-md transition disabled:opacity-30">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+            </button>
+            
+            <div class="flex items-center text-sm font-medium">
+                <input type="number" id="page-num" value="1" min="1" class="w-12 text-center bg-transparent border-none focus:ring-0">
+                <span class="text-gray-400 mx-1">/</span>
+                <span id="page-count">0</span>
+            </div>
+
+            <button id="next-page" class="p-2 hover:bg-white rounded-md transition disabled:opacity-30">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </button>
+        </div>
+
+        <!-- Zoom and Appearance -->
+        <div class="flex items-center space-x-3 mt-2 lg:mt-0">
+            <div class="flex items-center space-x-1 border-r pr-3 mr-3 border-gray-300">
+                <button id="zoom-out" class="p-2 hover:bg-gray-100 rounded-full transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4"></path></svg>
+                </button>
+                <span id="zoom-percent" class="text-xs font-mono w-12 text-center">100%</span>
+                <button id="zoom-in" class="p-2 hover:bg-gray-100 rounded-full transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
+                </button>
+            </div>
+
+            <button id="theme-toggle" class="p-2 bg-gray-200 rounded-full hover:bg-gray-300 transition">
+                <svg id="moon-icon" class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Content Area -->
+    <main class="container mx-auto max-w-5xl">
+        <!-- Initial Message -->
+        <div id="welcome-screen" class="flex flex-col items-center justify-center py-20 text-center px-4">
+            <div class="bg-blue-100 p-6 rounded-full mb-6 text-blue-600">
+                <svg class="w-16 h-16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+            </div>
+            <h2 class="text-2xl font-bold text-gray-800 mb-2">Lector de PDF Web</h2>
+            <p class="text-gray-600 max-w-md">Selecciona un archivo PDF arriba para comenzar a leer sin instalar nada.</p>
+        </div>
+
+        <!-- Render Container -->
+        <div id="viewer-container" class="canvas-container hidden">
+            <canvas id="pdf-render" class="rounded-sm"></canvas>
+        </div>
+    </main>
+
+    <!-- UI Interaction Script -->
+    <script>
+        const pdfjsLib = window['pdfjs-dist/build/pdf'];
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+        let pdfDoc = null,
+            pageNum = 1,
+            pageIsRendering = false,
+            pageNumIsPending = null,
+            scale = 1.5,
+            canvas = document.querySelector('#pdf-render'),
+            ctx = canvas.getContext('2d');
+
+        // Render the page
+        const renderPage = num => {
+            pageIsRendering = true;
+            document.getElementById('loader').style.display = 'flex';
+
+            // Get page
+            pdfDoc.getPage(num).then(page => {
+                const viewport = page.getViewport({ scale });
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                const renderCtx = {
+                    canvasContext: ctx,
+                    viewport: viewport
+                };
+
+                page.render(renderCtx).promise.then(() => {
+                    pageIsRendering = false;
+                    document.getElementById('loader').style.display = 'none';
+
+                    if (pageNumIsPending !== null) {
+                        renderPage(pageNumIsPending);
+                        pageNumIsPending = null;
+                    }
+                });
+
+                // Update current page in UI
+                document.getElementById('page-num').value = num;
+            });
+        };
+
+        // Check for pages rendering
+        const queueRenderPage = num => {
+            if (pageIsRendering) {
+                pageNumIsPending = num;
+            } else {
+                renderPage(num);
+            }
+        };
+
+        // Show Next Page
+        const showNextPage = () => {
+            if (pageNum >= pdfDoc.numPages) return;
+            pageNum++;
+            queueRenderPage(pageNum);
+        };
+
+        // Show Prev Page
+        const showPrevPage = () => {
+            if (pageNum <= 1) return;
+            pageNum--;
+            queueRenderPage(pageNum);
+        };
+
+        // Load File
+        const loadFile = e => {
+            const file = e.target.files[0];
+            if (!file || file.type !== 'application/pdf') return;
+
+            const reader = new FileReader();
+            reader.onload = function() {
+                const typedarray = new Uint8Array(this.result);
+
+                pdfjsLib.getDocument(typedarray).promise.then(pdfDoc_ => {
+                    pdfDoc = pdfDoc_;
+                    document.getElementById('page-count').textContent = pdfDoc.numPages;
+                    document.getElementById('welcome-screen').classList.add('hidden');
+                    document.getElementById('viewer-container').classList.remove('hidden');
+                    
+                    pageNum = 1;
+                    renderPage(pageNum);
+                }).catch(err => {
+                    console.error("Error al cargar PDF: ", err);
+                    alert("No se pudo cargar el archivo PDF.");
+                });
+            };
+            reader.readAsArrayBuffer(file);
+        };
+
+        // Button Events
+        document.querySelector('#prev-page').addEventListener('click', showPrevPage);
+        document.querySelector('#next-page').addEventListener('click', showNextPage);
+        document.querySelector('#file-input').addEventListener('change', loadFile);
+
+        // Zoom Events
+        document.querySelector('#zoom-in').addEventListener('click', () => {
+            scale += 0.2;
+            document.getElementById('zoom-percent').textContent = `${Math.round(scale * 100)}%`;
+            renderPage(pageNum);
+        });
+
+        document.querySelector('#zoom-out').addEventListener('click', () => {
+            if (scale <= 0.5) return;
+            scale -= 0.2;
+            document.getElementById('zoom-percent').textContent = `${Math.round(scale * 100)}%`;
+            renderPage(pageNum);
+        });
+
+        // Jump to Page
+        document.getElementById('page-num').addEventListener('change', (e) => {
+            let value = parseInt(e.target.value);
+            if (value > 0 && value <= pdfDoc.numPages) {
+                pageNum = value;
+                queueRenderPage(pageNum);
+            } else {
+                e.target.value = pageNum;
+            }
+        });
+
+        // Dark Mode Toggle
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
+            document.getElementById('theme-toggle').innerHTML = isDark 
+                ? '<svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"></path></svg>'
+                : '<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>';
+        });
+
+        // Keyboard navigation
+        window.addEventListener('keydown', (e) => {
+            if (!pdfDoc) return;
+            if (e.key === 'ArrowRight') showNextPage();
+            if (e.key === 'ArrowLeft') showPrevPage();
+        });
+    </script>
+</body>
+</html>
