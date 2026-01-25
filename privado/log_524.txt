@@ -1,5 +1,18 @@
 
-[Registro de sesión: 25/1/2026, 12:38:24]
+[Registro de sesiÃ³n: 25/1/2026, 12:38:24]
+  - ID de SesiÃ³n: 524
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v143, Chromium v143, Not A(Brand v24
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃ­a: 100% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [25/1/2026, 12:38:24] SesiÃ³n iniciada. ID: 524 (Usuario: Usuario AnÃ³nimo)
+    - [25/1/2026, 12:38:24] Copiar enlace de archivo: "0AULIA/.gitkeep"
+--------------------------------------------------
+[Registro de sesión: 25/1/2026, 12:40:23]
   - ID de Sesión: 524
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,6 +22,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/1/2026, 12:38:24] Sesión iniciada. ID: 524 (Usuario: Usuario Anónimo)
-    - [25/1/2026, 12:38:24] Copiar enlace de archivo: "0AULIA/.gitkeep"
+    - [25/1/2026, 12:40:23] Copiar enlace de archivo: "0AULIA/.gitkeep"
 --------------------------------------------------
