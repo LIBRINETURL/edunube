@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 25/1/2026, 4:16:22]
+[Registro de sesiÃÂ³n: 25/1/2026, 4:16:22]
+  - ID de SesiÃÂ³n: 513
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [25/1/2026, 4:16:22] SesiÃÂ³n iniciada. ID: 513 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 25/1/2026, 4:17:21]
   - ID de SesiÃ³n: 513
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [25/1/2026, 4:16:22] SesiÃ³n iniciada. ID: 513 (Usuario: Usuario AnÃ³nimo)
+    - [25/1/2026, 4:17:21] Eliminar archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Ejercicios y Soluciones EstequiometrÃ­a.pdf"
 --------------------------------------------------
-[Registro de sesión: 25/1/2026, 4:17:21]
+[Registro de sesión: 25/1/2026, 4:17:27]
   - ID de Sesión: 513
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/1/2026, 4:17:21] Eliminar archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Ejercicios y Soluciones Estequiometría.pdf"
+    - [25/1/2026, 4:17:27] Eliminar archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/Ejercicios Completos Química.pdf"
 --------------------------------------------------
