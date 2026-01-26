@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂ³n: 26/1/2026, 4:15:15]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 26/1/2026, 4:15:15]
+  - ID de SesiÃÂÃÂÃÂÃÂ³n: 531
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [26/1/2026, 4:15:15] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 531 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂ³n: 26/1/2026, 4:26:13]
   - ID de SesiÃÂÃÂ³n: 531
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 4:15:15] SesiÃÂÃÂ³n iniciada. ID: 531 (Usuario: Usuario AnÃÂÃÂ³nimo)
+    - [26/1/2026, 4:26:13] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso Extendido 30 Preguntas.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 26/1/2026, 4:26:13]
+[Registro de sesiÃÂ³n: 26/1/2026, 4:27:17]
   - ID de SesiÃÂ³n: 531
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 4:26:13] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso Extendido 30 Preguntas.pdf"
+    - [26/1/2026, 4:27:17] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso 2 Sin Fecha.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 26/1/2026, 4:27:17]
+[Registro de sesiÃ³n: 26/1/2026, 4:27:26]
   - ID de SesiÃ³n: 531
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -33,9 +45,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [26/1/2026, 4:27:17] Subir archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso 2 Sin Fecha.pdf"
+    - [26/1/2026, 4:27:26] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso 2 Sin Fecha.pdf"
+    - [26/1/2026, 4:27:26] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso Extendido 30 Preguntas.pdf"
 --------------------------------------------------
-[Registro de sesión: 26/1/2026, 4:27:26]
+[Registro de sesión: 26/1/2026, 4:29:29]
   - ID de Sesión: 531
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -45,6 +58,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/1/2026, 4:27:26] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso 2 Sin Fecha.pdf"
-    - [26/1/2026, 4:27:26] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso Extendido 30 Preguntas.pdf"
+    - [26/1/2026, 4:29:29] Eliminar archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso 2 Sin Fecha.pdf"
+    - [26/1/2026, 4:29:29] Eliminar archivo: "EDU-ARCHIVO/PDFs/INGLES/UNIT 3/Examen de Repaso Extendido 30 Preguntas.pdf"
 --------------------------------------------------
