@@ -1,5 +1,17 @@
 
-[Registro de sesión: 26/1/2026, 4:15:26]
+[Registro de sesiÃ³n: 26/1/2026, 4:15:26]
+  - ID de SesiÃ³n: 532
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [26/1/2026, 4:15:26] SesiÃ³n iniciada. ID: 532 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 26/1/2026, 4:19:45]
   - ID de Sesión: 532
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/1/2026, 4:15:26] Sesión iniciada. ID: 532 (Usuario: Usuario Anónimo)
+    - [26/1/2026, 4:19:45] Descargar archivo: "0AULIA/INGLES/Grammar and Vocabulary/WORDLIST.pdf"
 --------------------------------------------------
