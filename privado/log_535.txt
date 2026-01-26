@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 26/1/2026, 22:19:52]
+[Registro de sesiÃÂÃÂ³n: 26/1/2026, 22:19:52]
+  - ID de SesiÃÂÃÂ³n: 535
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [26/1/2026, 22:19:52] SesiÃÂÃÂ³n iniciada. ID: 535 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 26/1/2026, 22:22:18]
   - ID de SesiÃÂ³n: 535
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 22:19:52] SesiÃÂ³n iniciada. ID: 535 (Usuario: Usuario AnÃÂ³nimo)
+    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Manual Completo de Sintaxis.pdf"
+    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Apuntes Sintaxis Compactos (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 26/1/2026, 22:22:18]
+[Registro de sesiÃ³n: 26/1/2026, 22:24:35]
   - ID de SesiÃ³n: 535
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -21,10 +34,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Manual Completo de Sintaxis.pdf"
-    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Apuntes Sintaxis Compactos (1).pdf"
+    - [26/1/2026, 22:24:35] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Apuntes Sintaxis Compactos (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 26/1/2026, 22:24:35]
+[Registro de sesión: 26/1/2026, 22:25:04]
   - ID de Sesión: 535
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -34,5 +46,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/1/2026, 22:24:35] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Apuntes Sintaxis Compactos (1).pdf"
+    - [26/1/2026, 22:25:04] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Manual Completo de Sintaxis.pdf"
 --------------------------------------------------
