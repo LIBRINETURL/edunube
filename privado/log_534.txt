@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 26/1/2026, 21:19:40]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 26/1/2026, 21:19:40]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 534
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [26/1/2026, 21:19:40] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 534 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 26/1/2026, 21:32:06]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 534
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,13 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 21:19:40] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 534 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/Listado de verbos que rigen prep. (CRV o C.Loc AR).pdf"
+    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/5.1-Ejercicios oracioÃÂÃÂÃÂÃÂn impersonal.pdf"
+    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/.gitkeep"
+    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/1- Sintagmas.pdf"
+    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/1.1.RelacioÃÂÃÂÃÂÃÂn de sintagmas para analizar.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 26/1/2026, 21:32:06]
+[Registro de sesiÃÂÃÂ³n: 26/1/2026, 21:32:23]
   - ID de SesiÃÂÃÂ³n: 534
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -21,13 +37,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/Listado de verbos que rigen prep. (CRV o C.Loc AR).pdf"
-    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/5.1-Ejercicios oracioÃÂÃÂn impersonal.pdf"
-    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/.gitkeep"
-    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/1- Sintagmas.pdf"
-    - [26/1/2026, 21:32:06] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/1.1.RelacioÃÂÃÂn de sintagmas para analizar.pdf"
+    - [26/1/2026, 21:32:23] Eliminar archivo: "0AULIA/LENGUA/2ÃÂÃÂºTRIMESTRE/Actividad 15-01-26.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 26/1/2026, 21:32:23]
+[Registro de sesiÃÂ³n: 26/1/2026, 21:32:55]
   - ID de SesiÃÂ³n: 534
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -37,9 +49,14 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [26/1/2026, 21:32:23] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/Actividad 15-01-26.pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/5- OracioÃÂn impersonal.pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/4.1.Actividad C.Loc AR.pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/3.1- Ejercicios de complementos del verbo.pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/2- OracioÃÂn simple .pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/3- Complementos del verbo.pdf"
+    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/4- Complemento locativo argumental.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 26/1/2026, 21:32:55]
+[Registro de sesiÃ³n: 26/1/2026, 21:34:47]
   - ID de SesiÃ³n: 534
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -49,14 +66,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/5- OracioÌn impersonal.pdf"
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/4.1.Actividad C.Loc AR.pdf"
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/3.1- Ejercicios de complementos del verbo.pdf"
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/2- OracioÌn simple .pdf"
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/3- Complementos del verbo.pdf"
-    - [26/1/2026, 21:32:55] Eliminar archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/4- Complemento locativo argumental.pdf"
+    - [26/1/2026, 21:34:47] Crear carpeta: "0AULIA/LENGUA/2ÂºTRIMESTRE"
 --------------------------------------------------
-[Registro de sesión: 26/1/2026, 21:34:47]
+[Registro de sesión: 26/1/2026, 21:36:40]
   - ID de Sesión: 534
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -66,5 +78,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/1/2026, 21:34:47] Crear carpeta: "0AULIA/LENGUA/2ºTRIMESTRE"
+    - [26/1/2026, 21:36:40] Crear carpeta: "0AULIA/LENGUA/2ºTRIMESTRE/SINTAXIS"
 --------------------------------------------------
