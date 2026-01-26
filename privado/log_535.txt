@@ -1,5 +1,17 @@
 
-[Registro de sesión: 26/1/2026, 22:19:52]
+[Registro de sesiÃ³n: 26/1/2026, 22:19:52]
+  - ID de SesiÃ³n: 535
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [26/1/2026, 22:19:52] SesiÃ³n iniciada. ID: 535 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 26/1/2026, 22:22:18]
   - ID de Sesión: 535
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/1/2026, 22:19:52] Sesión iniciada. ID: 535 (Usuario: Usuario Anónimo)
+    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Manual Completo de Sintaxis.pdf"
+    - [26/1/2026, 22:22:18] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Apuntes Sintaxis Compactos (1).pdf"
 --------------------------------------------------
