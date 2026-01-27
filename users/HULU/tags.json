@@ -24,6 +24,10 @@
     {
       "name": "HECHO",
       "color": "#00ff62"
+    },
+    {
+      "name": "PROCESO",
+      "color": "#ffbb00"
     }
   ]
 }
