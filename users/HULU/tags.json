@@ -20,6 +20,10 @@
     {
       "name": "PEA",
       "color": "#d60000"
+    },
+    {
+      "name": "HECHO",
+      "color": "#00ff62"
     }
   ]
 }
