@@ -28,6 +28,10 @@
     {
       "name": "PROCESO",
       "color": "#ffbb00"
+    },
+    {
+      "name": "SIN EMPEZAR",
+      "color": "#ff0000"
     }
   ]
 }
