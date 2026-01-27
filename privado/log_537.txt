@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 27/1/2026, 16:38:28]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 27/1/2026, 16:38:28]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 537
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [27/1/2026, 16:38:28] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 537 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 27/1/2026, 16:39:15]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 537
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [27/1/2026, 16:38:28] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 537 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [27/1/2026, 16:39:15] Crear carpeta: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 27/1/2026, 16:39:15]
+[Registro de sesiÃÂÃÂ³n: 27/1/2026, 16:40:16]
   - ID de SesiÃÂÃÂ³n: 537
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [27/1/2026, 16:39:15] Crear carpeta: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF"
+    - [27/1/2026, 16:40:16] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - 40 proyectos resueltos .pdf"
+    - [27/1/2026, 16:40:16] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/Manual - Control de Servomotores.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 27/1/2026, 16:40:16]
+[Registro de sesiÃÂ³n: 27/1/2026, 16:40:52]
   - ID de SesiÃÂ³n: 537
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -33,10 +46,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [27/1/2026, 16:40:16] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - 40 proyectos resueltos .pdf"
-    - [27/1/2026, 16:40:16] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/Manual - Control de Servomotores.pdf"
+    - [27/1/2026, 16:40:52] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - PrÃÂ¡cticas sencillas.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 27/1/2026, 16:40:52]
+[Registro de sesiÃ³n: 27/1/2026, 16:42:23]
   - ID de SesiÃ³n: 537
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -46,9 +58,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [27/1/2026, 16:40:52] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - PrÃ¡cticas sencillas.pdf"
+    - [27/1/2026, 16:42:23] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - 40 proyectos resueltos .pdf"
 --------------------------------------------------
-[Registro de sesión: 27/1/2026, 16:42:23]
+[Registro de sesión: 27/1/2026, 16:42:44]
   - ID de Sesión: 537
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -58,5 +70,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/1/2026, 16:42:23] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/LIBRO - 40 proyectos resueltos .pdf"
+    - [27/1/2026, 16:42:44] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Arduino PDF/Manual - Control de Servomotores.pdf"
 --------------------------------------------------
