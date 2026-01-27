@@ -32,6 +32,10 @@
     {
       "name": "SIN EMPEZAR",
       "color": "#ff0000"
+    },
+    {
+      "name": "SIN IMPRIMIR",
+      "color": "#fb00ff"
     }
   ]
 }
