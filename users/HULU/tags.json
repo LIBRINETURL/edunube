@@ -5,6 +5,13 @@
     ]
   },
   "available": [
-    "IMPRESO"
+    {
+      "name": "IMPRESO",
+      "color": "#6366f1"
+    },
+    {
+      "name": "PEPE",
+      "color": "#0004ff"
+    }
   ]
 }
