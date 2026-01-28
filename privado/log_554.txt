@@ -1,5 +1,17 @@
 
-[Registro de sesión: 28/1/2026, 22:16:51]
+[Registro de sesiÃ³n: 28/1/2026, 22:16:51]
+  - ID de SesiÃ³n: 554
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [28/1/2026, 22:16:51] SesiÃ³n iniciada. ID: 554 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 28/1/2026, 22:17:54]
   - ID de Sesión: 554
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [28/1/2026, 22:16:51] Sesión iniciada. ID: 554 (Usuario: Usuario Anónimo)
+    - [28/1/2026, 22:17:54] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios Complemento Locativo Argumental (1).pdf"
+    - [28/1/2026, 22:17:54] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Repaso de Sintaxis.pdf"
 --------------------------------------------------
