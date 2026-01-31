@@ -1,5 +1,17 @@
 
-[Registro de sesión: 31/1/2026, 14:21:01]
+[Registro de sesiÃ³n: 31/1/2026, 14:21:01]
+  - ID de SesiÃ³n: 558
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [31/1/2026, 14:21:01] SesiÃ³n iniciada. ID: 558 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 31/1/2026, 14:21:17]
   - ID de Sesión: 558
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [31/1/2026, 14:21:01] Sesión iniciada. ID: 558 (Usuario: Usuario Anónimo)
+    - [31/1/2026, 14:21:17] Eliminar archivo: "2/APP.txt"
 --------------------------------------------------
