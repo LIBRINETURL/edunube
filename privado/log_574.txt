@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 3/2/2026, 0:25:00]
+[Registro de sesiÃÂ³n: 3/2/2026, 0:25:00]
+  - ID de SesiÃÂ³n: 574
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [3/2/2026, 0:25:00] SesiÃÂ³n iniciada. ID: 574 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 3/2/2026, 0:25:26]
   - ID de SesiÃ³n: 574
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [3/2/2026, 0:25:00] SesiÃ³n iniciada. ID: 574 (Usuario: Usuario AnÃ³nimo)
+    - [3/2/2026, 0:25:26] Crear carpeta: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Mecanismos de transmision y trnasformacion"
 --------------------------------------------------
-[Registro de sesión: 3/2/2026, 0:25:26]
+[Registro de sesión: 3/2/2026, 0:26:17]
   - ID de Sesión: 574
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [3/2/2026, 0:25:26] Crear carpeta: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Mecanismos de transmision y trnasformacion"
+    - [3/2/2026, 0:26:17] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Mecanismos de transmision y trnasformacion/Ejercicios de Mecanismos.pdf"
 --------------------------------------------------
