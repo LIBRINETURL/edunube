@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 2/2/2026, 18:11:50]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 2/2/2026, 18:11:50]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 572
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [2/2/2026, 18:11:50] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 572 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 2/2/2026, 18:12:08]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 572
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [2/2/2026, 18:11:50] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 572 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+    - [2/2/2026, 18:12:08] Subir archivo: "ARCHIVO/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 2/2/2026, 18:12:08]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 2/2/2026, 18:13:28]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 572
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [2/2/2026, 18:12:08] Subir archivo: "ARCHIVO/Ejercicios de Sintaxis.pdf"
+    - [2/2/2026, 18:13:29] Eliminar archivo: "ARCHIVO/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 2/2/2026, 18:13:28]
+[Registro de sesiÃÂÃÂ³n: 2/2/2026, 18:13:48]
   - ID de SesiÃÂÃÂ³n: 572
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [2/2/2026, 18:13:29] Eliminar archivo: "ARCHIVO/Ejercicios de Sintaxis.pdf"
+    - [2/2/2026, 18:13:48] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 2/2/2026, 18:13:48]
+[Registro de sesiÃÂ³n: 2/2/2026, 18:14:02]
   - ID de SesiÃÂ³n: 572
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [2/2/2026, 18:13:48] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
+    - [2/2/2026, 18:14:02] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 2/2/2026, 18:14:02]
+[Registro de sesiÃ³n: 2/2/2026, 18:14:41]
   - ID de SesiÃ³n: 572
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -57,9 +69,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [2/2/2026, 18:14:02] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/Ejercicios de Sintaxis.pdf"
+    - [2/2/2026, 18:14:41] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/REPASO GENERAL.pdf"
 --------------------------------------------------
-[Registro de sesión: 2/2/2026, 18:14:41]
+[Registro de sesión: 2/2/2026, 18:16:16]
   - ID de Sesión: 572
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -69,5 +81,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [2/2/2026, 18:14:41] Subir archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/REPASO GENERAL.pdf"
+    - [2/2/2026, 18:16:16] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/LENGUA/SINTAXIS/REPASO GENERAL.pdf"
 --------------------------------------------------
