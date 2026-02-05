@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 5/2/2026, 16:17:45]
+[Registro de sesiÃÂ³n: 5/2/2026, 16:17:45]
+  - ID de SesiÃÂ³n: 576
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [5/2/2026, 16:17:45] SesiÃÂ³n iniciada. ID: 576 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 5/2/2026, 16:18:30]
   - ID de SesiÃ³n: 576
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [5/2/2026, 16:17:45] SesiÃ³n iniciada. ID: 576 (Usuario: Usuario AnÃ³nimo)
+    - [5/2/2026, 16:18:30] Copiar enlace de archivo: "Libros ingles/LIBROS PIRATA ONLINE APP .html"
 --------------------------------------------------
-[Registro de sesión: 5/2/2026, 16:18:30]
+[Registro de sesión: 5/2/2026, 16:18:41]
   - ID de Sesión: 576
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [5/2/2026, 16:18:30] Copiar enlace de archivo: "Libros ingles/LIBROS PIRATA ONLINE APP .html"
+    - [5/2/2026, 16:18:41] Descargar archivo: "Libros ingles/LIBROS PIRATA ONLINE APP .html"
 --------------------------------------------------
