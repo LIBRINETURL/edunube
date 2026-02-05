@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:21:13]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:21:13]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 578
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [5/2/2026, 18:21:13] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 578 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:24:00]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 578
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:21:13] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 578 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+    - [5/2/2026, 18:24:00] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/A.png"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:24:00]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:27:21]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 578
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:24:00] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/A.png"
+    - [5/2/2026, 18:27:21] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:27:21]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 5/2/2026, 18:29:58]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 578
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:27:21] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
+    - [5/2/2026, 18:29:58] Copiar enlace de archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 5/2/2026, 18:29:58]
+[Registro de sesiÃÂÃÂ³n: 5/2/2026, 18:30:11]
   - ID de SesiÃÂÃÂ³n: 578
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:29:58] Copiar enlace de archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
+    - [5/2/2026, 18:30:11] Eliminar archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 5/2/2026, 18:30:11]
+[Registro de sesiÃÂ³n: 5/2/2026, 18:30:22]
   - ID de SesiÃÂ³n: 578
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -57,9 +69,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:30:11] Eliminar archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/3.png"
+    - [5/2/2026, 18:30:22] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/2.png"
 --------------------------------------------------
-[Registro de sesiÃ³n: 5/2/2026, 18:30:22]
+[Registro de sesiÃ³n: 5/2/2026, 18:30:47]
   - ID de SesiÃ³n: 578
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -69,9 +81,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [5/2/2026, 18:30:22] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/2.png"
+    - [5/2/2026, 18:30:47] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/b.png"
 --------------------------------------------------
-[Registro de sesión: 5/2/2026, 18:30:47]
+[Registro de sesión: 5/2/2026, 18:37:29]
   - ID de Sesión: 578
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -81,5 +93,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [5/2/2026, 18:30:47] Subir archivo: "Libros ingles/RESPUESTAS/STUDENTS/48/b.png"
+    - [5/2/2026, 18:37:29] Subir archivo: "Libros ingles/APP - copia.HTML"
 --------------------------------------------------
