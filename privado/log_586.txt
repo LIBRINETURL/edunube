@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 8/2/2026, 17:53:00]
+[Registro de sesiÃÂÃÂ³n: 8/2/2026, 17:53:00]
+  - ID de SesiÃÂÃÂ³n: 586
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [8/2/2026, 17:53:00] SesiÃÂÃÂ³n iniciada. ID: 586 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 8/2/2026, 17:53:19]
   - ID de SesiÃÂ³n: 586
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [8/2/2026, 17:53:00] SesiÃÂ³n iniciada. ID: 586 (Usuario: Usuario AnÃÂ³nimo)
+    - [8/2/2026, 17:53:19] Eliminar archivo: "EDU-ARCHIVO/PDFs/MATES/Ejercicio de TrigonometrÃÂ­a (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 8/2/2026, 17:53:19]
+[Registro de sesiÃ³n: 8/2/2026, 17:53:35]
   - ID de SesiÃ³n: 586
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [8/2/2026, 17:53:19] Eliminar archivo: "EDU-ARCHIVO/PDFs/MATES/Ejercicio de TrigonometrÃ­a (1).pdf"
+    - [8/2/2026, 17:53:35] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/TRIGONOMETRIA/Ejercicio TrigonometrÃ­a Ãngulos Notables.pdf"
+    - [8/2/2026, 17:53:35] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/TRIGONOMETRIA/Ejercicio de TrigonometrÃ­a (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 8/2/2026, 17:53:35]
+[Registro de sesión: 8/2/2026, 18:22:06]
   - ID de Sesión: 586
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -33,6 +46,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [8/2/2026, 17:53:35] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/TRIGONOMETRIA/Ejercicio Trigonometría Ángulos Notables.pdf"
-    - [8/2/2026, 17:53:35] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/TRIGONOMETRIA/Ejercicio de Trigonometría (1).pdf"
+    - [8/2/2026, 18:22:06] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/TRIGONOMETRIA/Ficha de Trigonometría Exacta.pdf"
 --------------------------------------------------
