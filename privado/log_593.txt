@@ -1,5 +1,17 @@
 
-[Registro de sesión: 12/2/2026, 22:33:53]
+[Registro de sesiÃ³n: 12/2/2026, 22:33:53]
+  - ID de SesiÃ³n: 593
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [12/2/2026, 22:33:53] SesiÃ³n iniciada. ID: 593 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 12/2/2026, 22:34:09]
   - ID de Sesión: 593
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [12/2/2026, 22:33:53] Sesión iniciada. ID: 593 (Usuario: Usuario Anónimo)
+    - [12/2/2026, 22:34:09] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/GEOMETRIA ANALITICA/GEOMETRIA ANALITICA.pdf"
 --------------------------------------------------
