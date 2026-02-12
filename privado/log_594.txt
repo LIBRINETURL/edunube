@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 12/2/2026, 23:19:05]
+[Registro de sesiÃÂÃÂ³n: 12/2/2026, 23:19:05]
+  - ID de SesiÃÂÃÂ³n: 594
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [12/2/2026, 23:19:05] SesiÃÂÃÂ³n iniciada. ID: 594 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 12/2/2026, 23:19:25]
   - ID de SesiÃÂ³n: 594
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 23:19:05] SesiÃÂ³n iniciada. ID: 594 (Usuario: Usuario AnÃÂ³nimo)
+    - [12/2/2026, 23:19:25] Subir archivo: "0AULIA/LENGUA/2ÃÂºTRIMESTRE/Lectura/RuÃÂbrica de evaluacioÃÂn (1).pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 12/2/2026, 23:19:25]
+[Registro de sesiÃ³n: 12/2/2026, 23:19:38]
   - ID de SesiÃ³n: 594
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [12/2/2026, 23:19:25] Subir archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/Lectura/RuÌbrica de evaluacioÌn (1).pdf"
+    - [12/2/2026, 23:19:38] Subir archivo: "0AULIA/LENGUA/2ÂºTRIMESTRE/Lectura/EvaluacioÌn del Quijote (1Âºbach) (2).pdf"
 --------------------------------------------------
-[Registro de sesión: 12/2/2026, 23:19:38]
+[Registro de sesión: 12/2/2026, 23:19:54]
   - ID de Sesión: 594
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [12/2/2026, 23:19:38] Subir archivo: "0AULIA/LENGUA/2ºTRIMESTRE/Lectura/Evaluación del Quijote (1ºbach) (2).pdf"
+    - [12/2/2026, 23:19:54] Subir archivo: "0AULIA/LENGUA/2ºTRIMESTRE/Lectura/Trabajos- Lit 2ºtrim. 1ºD.docx.pdf"
 --------------------------------------------------
