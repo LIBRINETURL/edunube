@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 12/2/2026, 22:33:53]
+[Registro de sesiÃÂÃÂ³n: 12/2/2026, 22:33:53]
+  - ID de SesiÃÂÃÂ³n: 593
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [12/2/2026, 22:33:53] SesiÃÂÃÂ³n iniciada. ID: 593 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 12/2/2026, 22:34:09]
   - ID de SesiÃÂ³n: 593
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:33:53] SesiÃÂ³n iniciada. ID: 593 (Usuario: Usuario AnÃÂ³nimo)
+    - [12/2/2026, 22:34:09] Subir archivo: "0AULIA/MATES/2ÃÂºTRIMESTRE/GEOMETRIA ANALITICA/GEOMETRIA ANALITICA.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 12/2/2026, 22:34:09]
+[Registro de sesiÃ³n: 12/2/2026, 22:35:43]
   - ID de SesiÃ³n: 593
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:34:09] Subir archivo: "0AULIA/MATES/2ÂºTRIMESTRE/GEOMETRIA ANALITICA/GEOMETRIA ANALITICA.pdf"
+    - [12/2/2026, 22:35:43] Subir archivo: "0AULIA/MATES/2ÂºTRIMESTRE/GEOMETRIA ANALITICA/SOLUCIONES. Ficha de REPASO Examen (II) (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 12/2/2026, 22:35:43]
+[Registro de sesión: 12/2/2026, 22:36:33]
   - ID de Sesión: 593
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [12/2/2026, 22:35:43] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/GEOMETRIA ANALITICA/SOLUCIONES. Ficha de REPASO Examen (II) (1).pdf"
+    - [12/2/2026, 22:36:33] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/GEOMETRIA ANALITICA/UD05_Ficha de Repaso_Alberto Caro (1).pdf"
 --------------------------------------------------
