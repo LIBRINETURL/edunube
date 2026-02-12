@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 12/2/2026, 22:00:25]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 12/2/2026, 22:00:25]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 591
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [12/2/2026, 22:00:25] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 591 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 12/2/2026, 22:00:55]
   - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 591
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:00:25] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 591 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+    - [12/2/2026, 22:00:55] Crear carpeta: "0AULIA/FILOSOFIA/2ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂºTRIMESTRE/LOGICA"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 12/2/2026, 22:00:55]
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 12/2/2026, 22:03:16]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 591
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:00:55] Crear carpeta: "0AULIA/FILOSOFIA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/LOGICA"
+    - [12/2/2026, 22:03:16] Subir archivo: "0AULIA/FILOSOFIA/2ÃÂÃÂÃÂÃÂºTRIMESTRE/LOGICA/1Bach FIl.. Actividades  LOGICA 2EV 25-26.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 12/2/2026, 22:03:16]
+[Registro de sesiÃÂÃÂ³n: 12/2/2026, 22:04:33]
   - ID de SesiÃÂÃÂ³n: 591
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:03:16] Subir archivo: "0AULIA/FILOSOFIA/2ÃÂÃÂºTRIMESTRE/LOGICA/1Bach FIl.. Actividades  LOGICA 2EV 25-26.pdf"
+    - [12/2/2026, 22:04:33] Crear carpeta: "0AULIA/TECNOLOGIA/2ÃÂÃÂºTRIMESTRE"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 12/2/2026, 22:04:33]
+[Registro de sesiÃÂ³n: 12/2/2026, 22:06:39]
   - ID de SesiÃÂ³n: 591
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:04:33] Crear carpeta: "0AULIA/TECNOLOGIA/2ÃÂºTRIMESTRE"
+    - [12/2/2026, 22:06:39] Crear carpeta: "0AULIA/TECNOLOGIA/2ÃÂºTRIMESTRE/MECANISMOS DE TRANSMISIÃÂN Y TRANSFORMACIÃÂN"
 --------------------------------------------------
-[Registro de sesiÃ³n: 12/2/2026, 22:06:39]
+[Registro de sesiÃ³n: 12/2/2026, 22:08:53]
   - ID de SesiÃ³n: 591
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -57,9 +69,11 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [12/2/2026, 22:06:39] Crear carpeta: "0AULIA/TECNOLOGIA/2ÂºTRIMESTRE/MECANISMOS DE TRANSMISIÃN Y TRANSFORMACIÃN"
+    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ÂºTRIMESTRE/MECANISMOS DE TRANSMISIÃN Y TRANSFORMACIÃN/elementos_transformadores_del_movimiento.pdf"
+    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ÂºTRIMESTRE/MECANISMOS DE TRANSMISIÃN Y TRANSFORMACIÃN/4.- Mecanismos (Ejercicios 2).pdf"
+    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ÂºTRIMESTRE/MECANISMOS DE TRANSMISIÃN Y TRANSFORMACIÃN/ejerciciosmecanismos.pdf"
 --------------------------------------------------
-[Registro de sesión: 12/2/2026, 22:08:53]
+[Registro de sesión: 12/2/2026, 22:09:22]
   - ID de Sesión: 591
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -69,7 +83,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ºTRIMESTRE/MECANISMOS DE TRANSMISIÓN Y TRANSFORMACIÓN/elementos_transformadores_del_movimiento.pdf"
-    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ºTRIMESTRE/MECANISMOS DE TRANSMISIÓN Y TRANSFORMACIÓN/4.- Mecanismos (Ejercicios 2).pdf"
-    - [12/2/2026, 22:08:53] Subir archivo: "0AULIA/TECNOLOGIA/2ºTRIMESTRE/MECANISMOS DE TRANSMISIÓN Y TRANSFORMACIÓN/ejerciciosmecanismos.pdf"
+    - [12/2/2026, 22:09:22] Subir archivo: "0AULIA/TECNOLOGIA/2ºTRIMESTRE/MECANISMOS DE TRANSMISIÓN Y TRANSFORMACIÓN/2.- Mecanismos de transformación del movimiento(McGraw).pdf"
 --------------------------------------------------
