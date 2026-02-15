@@ -1,5 +1,17 @@
 
-[Registro de sesión: 15/2/2026, 17:01:06]
+[Registro de sesiÃ³n: 15/2/2026, 17:01:06]
+  - ID de SesiÃ³n: 598
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [15/2/2026, 17:01:06] SesiÃ³n iniciada. ID: 598 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 15/2/2026, 17:03:08]
   - ID de Sesión: 598
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,7 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [15/2/2026, 17:01:06] Sesión iniciada. ID: 598 (Usuario: Usuario Anónimo)
+    - [15/2/2026, 17:03:08] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ficha de Repaso.pdf"
+    - [15/2/2026, 17:03:08] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ficha de Repaso 2.pdf"
+    - [15/2/2026, 17:03:08] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Ficha de Repaso 3.pdf"
 --------------------------------------------------
