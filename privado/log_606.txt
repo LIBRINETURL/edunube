@@ -1,5 +1,17 @@
 
-[Registro de sesión: 16/2/2026, 21:35:19]
+[Registro de sesiÃ³n: 16/2/2026, 21:35:19]
+  - ID de SesiÃ³n: 606
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [16/2/2026, 21:35:19] SesiÃ³n iniciada. ID: 606 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 16/2/2026, 21:36:05]
   - ID de Sesión: 606
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/2/2026, 21:35:19] Sesión iniciada. ID: 606 (Usuario: Usuario Anónimo)
+    - [16/2/2026, 21:36:05] Subir archivo: "MUSICA/Moskau.mp3"
 --------------------------------------------------
