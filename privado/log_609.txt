@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 17/2/2026, 1:33:15]
+[Registro de sesiÃÂ³n: 17/2/2026, 1:33:15]
+  - ID de SesiÃÂ³n: 609
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not(A:Brand v8, Chromium v144, Google Chrome v144
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [17/2/2026, 1:33:15] SesiÃÂ³n iniciada. ID: 609 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 17/2/2026, 1:34:48]
   - ID de SesiÃ³n: 609
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,13 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [17/2/2026, 1:33:15] SesiÃ³n iniciada. ID: 609 (Usuario: Usuario AnÃ³nimo)
+    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/AnÃ¡lisis de Silogismos Nivel 6.pdf"
+    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/AnÃ¡lisis de Silogismos Nivel 5.pdf"
+    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/AnÃ¡lisis de Silogismos Nivel 4.pdf"
+    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/AnÃ¡lisis de Silogismos Nivel 3.pdf"
+    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/AnÃ¡lisis de Silogismos Nivel 2.pdf"
 --------------------------------------------------
-[Registro de sesión: 17/2/2026, 1:34:48]
+[Registro de sesión: 17/2/2026, 1:35:33]
   - ID de Sesión: 609
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -21,9 +37,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 6.pdf"
-    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 5.pdf"
-    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 4.pdf"
-    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 3.pdf"
-    - [17/2/2026, 1:34:48] Subir archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 2.pdf"
+    - [17/2/2026, 1:35:33] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/FILOSOFIA/logica/Análisis de Silogismos Nivel 2.pdf"
 --------------------------------------------------
