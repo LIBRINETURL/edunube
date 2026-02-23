@@ -1,5 +1,17 @@
 
-[Registro de sesión: 24/2/2026, 0:54:58]
+[Registro de sesiÃ³n: 24/2/2026, 0:54:58]
+  - ID de SesiÃ³n: 626
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [24/2/2026, 0:54:58] SesiÃ³n iniciada. ID: 626 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 24/2/2026, 0:55:28]
   - ID de Sesión: 626
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/2/2026, 0:54:58] Sesión iniciada. ID: 626 (Usuario: Usuario Anónimo)
+    - [24/2/2026, 0:55:28] Subir archivo: "ARCHIVO/TRIGONOMETRIA.pdf"
 --------------------------------------------------
