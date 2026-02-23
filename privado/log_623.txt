@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/2/2026, 16:12:14]
+[Registro de sesiÃ³n: 23/2/2026, 16:12:14]
+  - ID de SesiÃ³n: 623
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/2/2026, 16:12:14] SesiÃ³n iniciada. ID: 623 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 23/2/2026, 16:25:30]
   - ID de Sesión: 623
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/2/2026, 16:12:14] Sesión iniciada. ID: 623 (Usuario: Usuario Anónimo)
+    - [23/2/2026, 16:25:30] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Quimica4ESO_ejercicios_organica.pdf"
 --------------------------------------------------
