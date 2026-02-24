@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 24/2/2026, 0:54:58]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 24/2/2026, 0:54:58]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 626
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [24/2/2026, 0:54:58] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 626 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 24/2/2026, 0:55:28]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 626
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [24/2/2026, 0:54:58] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 626 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [24/2/2026, 0:55:28] Subir archivo: "ARCHIVO/TRIGONOMETRIA.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 24/2/2026, 0:55:28]
+[Registro de sesiÃÂÃÂ³n: 24/2/2026, 0:57:08]
   - ID de SesiÃÂÃÂ³n: 626
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [24/2/2026, 0:55:28] Subir archivo: "ARCHIVO/TRIGONOMETRIA.pdf"
+    - [24/2/2026, 0:57:08] Subir archivo: "ARCHIVO/LITERATURA.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 24/2/2026, 0:57:08]
+[Registro de sesiÃÂ³n: 24/2/2026, 0:57:16]
   - ID de SesiÃÂ³n: 626
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [24/2/2026, 0:57:08] Subir archivo: "ARCHIVO/LITERATURA.pdf"
+    - [24/2/2026, 0:57:16] Subir archivo: "ARCHIVO/SINTAXIS.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 24/2/2026, 0:57:16]
+[Registro de sesiÃ³n: 24/2/2026, 0:57:34]
   - ID de SesiÃ³n: 626
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [24/2/2026, 0:57:16] Subir archivo: "ARCHIVO/SINTAXIS.pdf"
+    - [24/2/2026, 0:57:34] Subir archivo: "ARCHIVO/SINTAXIS.pdf"
 --------------------------------------------------
-[Registro de sesión: 24/2/2026, 0:57:34]
+[Registro de sesión: 24/2/2026, 1:17:23]
   - ID de Sesión: 626
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/2/2026, 0:57:34] Subir archivo: "ARCHIVO/SINTAXIS.pdf"
+    - [24/2/2026, 1:17:23] Subir archivo: "ARCHIVO/LOGICA.pdf"
 --------------------------------------------------
