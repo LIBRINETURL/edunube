@@ -1,5 +1,17 @@
 
-[Registro de sesión: 24/2/2026, 17:37:13]
+[Registro de sesiÃ³n: 24/2/2026, 17:37:13]
+  - ID de SesiÃ³n: 629
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [24/2/2026, 17:37:13] SesiÃ³n iniciada. ID: 629 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 24/2/2026, 17:39:06]
   - ID de Sesión: 629
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/2/2026, 17:37:13] Sesión iniciada. ID: 629 (Usuario: Usuario Anónimo)
+    - [24/2/2026, 17:39:06] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Mecanismos de transmision y trnasformacion/Cuestionario de Mecanismos (1).pdf"
+    - [24/2/2026, 17:39:06] Subir archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/Mecanismos de transmision y trnasformacion/Cuestionario de Mecanismos.pdf"
 --------------------------------------------------
