@@ -1,5 +1,17 @@
 
-[Registro de sesión: 25/2/2026, 22:57:55]
+[Registro de sesiÃ³n: 25/2/2026, 22:57:55]
+  - ID de SesiÃ³n: 638
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [25/2/2026, 22:57:55] SesiÃ³n iniciada. ID: 638 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 25/2/2026, 22:58:04]
   - ID de Sesión: 638
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/2/2026, 22:57:55] Sesión iniciada. ID: 638 (Usuario: Usuario Anónimo)
+    - [25/2/2026, 22:58:04] Eliminar archivo: "ZCOMUNIDAD/Cuestionario_de_Mecanismos__1__TS_1772055287221.pdf"
 --------------------------------------------------
