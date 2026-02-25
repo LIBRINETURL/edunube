@@ -1,5 +1,17 @@
 
-[Registro de sesión: 25/2/2026, 23:02:02]
+[Registro de sesiÃ³n: 25/2/2026, 23:02:02]
+  - ID de SesiÃ³n: 639
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [25/2/2026, 23:02:02] SesiÃ³n iniciada. ID: 639 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 25/2/2026, 23:02:19]
   - ID de Sesión: 639
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,8 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/2/2026, 23:02:02] Sesión iniciada. ID: 639 (Usuario: Usuario Anónimo)
+    - [25/2/2026, 23:02:19] Eliminar archivo: "ZCOMUNIDAD/20260223235429_001.pdf"
+    - [25/2/2026, 23:02:19] Eliminar archivo: "ZCOMUNIDAD/Anat_03_Huesos_y_articulac_tema-2.docx.pdf"
+    - [25/2/2026, 23:02:19] Eliminar archivo: "ZCOMUNIDAD/Problemas_de_Ruedas_de_Fricci_n_con_Soluciones.pdf"
+    - [25/2/2026, 23:02:19] Eliminar archivo: "ZCOMUNIDAD/Cuestionario_de_Mecanismos_TS_1772055288538.pdf"
 --------------------------------------------------
