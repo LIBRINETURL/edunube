@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 3/3/2026, 16:35:10]
+[Registro de sesiÃÂ³n: 3/3/2026, 16:35:10]
+  - ID de SesiÃÂ³n: 652
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [3/3/2026, 16:35:10] SesiÃÂ³n iniciada. ID: 652 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 3/3/2026, 16:36:44]
   - ID de SesiÃ³n: 652
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [3/3/2026, 16:35:10] SesiÃ³n iniciada. ID: 652 (Usuario: Usuario AnÃ³nimo)
+    - [3/3/2026, 16:36:44] Copiar enlace de archivo: "CCF_006748.pdf"
 --------------------------------------------------
-[Registro de sesión: 3/3/2026, 16:36:44]
+[Registro de sesión: 3/3/2026, 16:39:58]
   - ID de Sesión: 652
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [3/3/2026, 16:36:44] Copiar enlace de archivo: "CCF_006748.pdf"
+    - [3/3/2026, 16:39:58] Copiar enlace de archivo: "CCF_006748.pdf"
 --------------------------------------------------
