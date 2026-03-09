@@ -1,5 +1,17 @@
 
-[Registro de sesión: 10/3/2026, 0:50:48]
+[Registro de sesiÃ³n: 10/3/2026, 0:50:48]
+  - ID de SesiÃ³n: 660
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [10/3/2026, 0:50:48] SesiÃ³n iniciada. ID: 660 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 10/3/2026, 0:51:22]
   - ID de Sesión: 660
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [10/3/2026, 0:50:48] Sesión iniciada. ID: 660 (Usuario: Usuario Anónimo)
+    - [10/3/2026, 0:51:22] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/Por qué uno elevado a infinito es una indeterminación.pdf"
+    - [10/3/2026, 0:51:22] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/gráfica. Propiedades.pdf"
 --------------------------------------------------
