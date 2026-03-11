@@ -1,5 +1,17 @@
 
-[Registro de sesión: 11/3/2026, 19:27:12]
+[Registro de sesiÃ³n: 11/3/2026, 19:27:12]
+  - ID de SesiÃ³n: 663
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [11/3/2026, 19:27:12] SesiÃ³n iniciada. ID: 663 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 11/3/2026, 19:27:38]
   - ID de Sesión: 663
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [11/3/2026, 19:27:12] Sesión iniciada. ID: 663 (Usuario: Usuario Anónimo)
+    - [11/3/2026, 19:27:38] Subir archivo: "2/a.html"
 --------------------------------------------------
