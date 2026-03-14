@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 14/3/2026, 19:28:26]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 14/3/2026, 19:28:26]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 669
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [14/3/2026, 19:28:26] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 669 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 14/3/2026, 19:28:50]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 669
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [14/3/2026, 19:28:26] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 669 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [14/3/2026, 19:28:50] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃÂÃÂÃÂÃÂ­a de Nomenclatura OrgÃÂÃÂÃÂÃÂ¡nica - Variante F.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 14/3/2026, 19:28:50]
+[Registro de sesiÃÂÃÂ³n: 14/3/2026, 19:29:17]
   - ID de SesiÃÂÃÂ³n: 669
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [14/3/2026, 19:28:50] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃÂÃÂ­a de Nomenclatura OrgÃÂÃÂ¡nica - Variante F.pdf"
+    - [14/3/2026, 19:29:17] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃÂÃÂ­a de Nomenclatura OrgÃÂÃÂ¡nica - Variante G.pdf"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 14/3/2026, 19:29:17]
+[Registro de sesiÃÂ³n: 14/3/2026, 19:30:09]
   - ID de SesiÃÂ³n: 669
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [14/3/2026, 19:29:17] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃÂ­a de Nomenclatura OrgÃÂ¡nica - Variante G.pdf"
+    - [14/3/2026, 19:30:09] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃÂ­a de Nomenclatura OrgÃÂ¡nica - Variante H.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 14/3/2026, 19:30:09]
+[Registro de sesiÃ³n: 14/3/2026, 19:31:45]
   - ID de SesiÃ³n: 669
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -45,9 +57,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [14/3/2026, 19:30:09] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃ­a de Nomenclatura OrgÃ¡nica - Variante H.pdf"
+    - [14/3/2026, 19:31:45] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/GuÃ­a de Nomenclatura Estricta.pdf"
 --------------------------------------------------
-[Registro de sesión: 14/3/2026, 19:31:45]
+[Registro de sesión: 14/3/2026, 19:40:58]
   - ID de Sesión: 669
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -57,5 +69,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [14/3/2026, 19:31:45] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Guía de Nomenclatura Estricta.pdf"
+    - [14/3/2026, 19:40:58] Subir archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Ejercicios y Soluciones de Nomenclatura 5 por grupo.pdf"
 --------------------------------------------------
