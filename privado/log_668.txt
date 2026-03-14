@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 14/3/2026, 19:07:55]
+[Registro de sesiÃÂ³n: 14/3/2026, 19:07:55]
+  - ID de SesiÃÂ³n: 668
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [14/3/2026, 19:07:55] SesiÃÂ³n iniciada. ID: 668 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 14/3/2026, 19:08:24]
   - ID de SesiÃ³n: 668
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [14/3/2026, 19:07:55] SesiÃ³n iniciada. ID: 668 (Usuario: Usuario AnÃ³nimo)
+    - [14/3/2026, 19:08:24] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Ejercicios de Nomenclatura Individuales (1).pdf"
 --------------------------------------------------
-[Registro de sesión: 14/3/2026, 19:08:24]
+[Registro de sesión: 14/3/2026, 19:12:49]
   - ID de Sesión: 668
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [14/3/2026, 19:08:24] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Ejercicios de Nomenclatura Individuales (1).pdf"
+    - [14/3/2026, 19:12:49] Copiar enlace de archivo: "EDU-ARCHIVO/PDFs/Fisica y Quimica/QUIMICA ORGANICA/Ejercicios de Nomenclatura Orgánica.pdf"
 --------------------------------------------------
