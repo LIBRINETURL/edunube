@@ -1,5 +1,17 @@
 
-[Registro de sesión: 16/3/2026, 19:06:11]
+[Registro de sesiÃ³n: 16/3/2026, 19:06:11]
+  - ID de SesiÃ³n: 672
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not:A-Brand v99, Google Chrome v145, Chromium v145
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [16/3/2026, 19:06:11] SesiÃ³n iniciada. ID: 672 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 16/3/2026, 19:06:37]
   - ID de Sesión: 672
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [16/3/2026, 19:06:11] Sesión iniciada. ID: 672 (Usuario: Usuario Anónimo)
+    - [16/3/2026, 19:06:37] Eliminar archivo: "EDU-ARCHIVO/PDFs/TECNOLOGIA/circuitos de corriente continua/Ley de kirchoff.pdf"
 --------------------------------------------------
