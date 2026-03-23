@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/3/2026, 18:48:36]
+[Registro de sesiÃ³n: 23/3/2026, 18:48:36]
+  - ID de SesiÃ³n: 677
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v146, Not-A.Brand v24, Google Chrome v146
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/3/2026, 18:48:36] SesiÃ³n iniciada. ID: 677 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 23/3/2026, 18:50:12]
   - ID de Sesión: 677
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/3/2026, 18:48:36] Sesión iniciada. ID: 677 (Usuario: Usuario Anónimo)
+    - [23/3/2026, 18:50:12] Copiar enlace de archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/UD06_Repaso_Funciones y Límites.pdf"
 --------------------------------------------------
