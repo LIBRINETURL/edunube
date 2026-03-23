@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 23/3/2026, 18:48:36]
+[Registro de sesiÃÂÃÂ³n: 23/3/2026, 18:48:36]
+  - ID de SesiÃÂÃÂ³n: 677
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.57.112
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v146, Not-A.Brand v24, Google Chrome v146
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [23/3/2026, 18:48:36] SesiÃÂÃÂ³n iniciada. ID: 677 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 23/3/2026, 18:50:12]
   - ID de SesiÃÂ³n: 677
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.57.112
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [23/3/2026, 18:48:36] SesiÃÂ³n iniciada. ID: 677 (Usuario: Usuario AnÃÂ³nimo)
+    - [23/3/2026, 18:50:12] Copiar enlace de archivo: "0AULIA/MATES/2ÃÂºTRIMESTRE/LIMITES Y CONTINUIDAD/UD06_Repaso_Funciones y LÃÂ­mites.pdf"
 --------------------------------------------------
-[Registro de sesiÃ³n: 23/3/2026, 18:50:12]
+[Registro de sesiÃ³n: 23/3/2026, 18:50:25]
   - ID de SesiÃ³n: 677
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.112
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [23/3/2026, 18:50:12] Copiar enlace de archivo: "0AULIA/MATES/2ÂºTRIMESTRE/LIMITES Y CONTINUIDAD/UD06_Repaso_Funciones y LÃ­mites.pdf"
+    - [23/3/2026, 18:50:25] Copiar enlace de archivo: "0AULIA/MATES/2ÂºTRIMESTRE/LIMITES Y CONTINUIDAD/grÃ¡fica. Propiedades.pdf"
 --------------------------------------------------
-[Registro de sesión: 23/3/2026, 18:50:25]
+[Registro de sesión: 23/3/2026, 18:53:15]
   - ID de Sesión: 677
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.112
@@ -33,5 +45,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/3/2026, 18:50:25] Copiar enlace de archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/gráfica. Propiedades.pdf"
+    - [23/3/2026, 18:53:15] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/SOLUCIONES ejercicios de clase_compressed.pdf"
+    - [23/3/2026, 18:53:15] Subir archivo: "0AULIA/MATES/2ºTRIMESTRE/LIMITES Y CONTINUIDAD/06_Limites_y_continuidad_Libro_compressed.pdf"
 --------------------------------------------------
