@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 30/3/2026, 19:19:42]
+[Registro de sesiÃÂ³n: 30/3/2026, 19:19:42]
+  - ID de SesiÃÂ³n: 683
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v146, Not-A.Brand v24, Google Chrome v146
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [30/3/2026, 19:19:42] SesiÃÂ³n iniciada. ID: 683 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 30/3/2026, 19:19:51]
   - ID de SesiÃ³n: 683
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [30/3/2026, 19:19:42] SesiÃ³n iniciada. ID: 683 (Usuario: Usuario AnÃ³nimo)
+    - [30/3/2026, 19:19:51] Subir archivo: "2/CLIPPYS.HTML"
 --------------------------------------------------
-[Registro de sesión: 30/3/2026, 19:19:51]
+[Registro de sesión: 30/3/2026, 19:20:44]
   - ID de Sesión: 683
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [30/3/2026, 19:19:51] Subir archivo: "2/CLIPPYS.HTML"
+    - [30/3/2026, 19:20:44] Copiar enlace de archivo: "2/CLIPPYS.HTML"
 --------------------------------------------------
