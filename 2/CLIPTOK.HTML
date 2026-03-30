@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subida Directa a Mux</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background-color: #f4f4f9; color: #333; }
+        .container { max-width: 500px; margin: auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h2 { color: #3b3b3b; margin-top: 0; }
+        input[type="file"] { margin: 20px 0; display: block; width: 100%; }
+        #progress-container { display: none; margin-top: 20px; }
+        progress { width: 100%; height: 25px; border-radius: 5px; }
+        #status-text { font-weight: bold; margin-top: 10px; color: #007bff; }
+        .warning { font-size: 0.8em; color: #d9534f; margin-top: 20px; border-top: 1px solid #eee; pt: 10px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Subir Video a Mux</h2>
+    <p>Selecciona un archivo para comenzar la subida directa.</p>
+    
+    <input type="file" id="video-input" accept="video/*">
+    
+    <div id="progress-container">
+        <progress id="progress-bar" value="0" max="100"></progress>
+        <p id="status-text">Iniciando...</p>
+    </div>
+
+    <div class="warning">
+        <strong>Aviso:</strong> Este archivo contiene tus credenciales privadas. No lo publiques en sitios web públicos.
+    </div>
+</div>
+
+<script type="module">
+    // Importamos UpChunk para gestionar la subida pesada por fragmentos
+    import * as UpChunk from 'https://esm.sh/@mux/upchunk';
+
+    // --- TUS CREDENCIALES INSERTADAS ---
+    const TOKEN_ID = 'e3ef36ac-5d7d-4bb5-8be5-2f9b327dee4e';
+    const TOKEN_SECRET = 'w9GYaE/JPunikZdZ0PkEpx4S4BAWagzQCJBAHiKHgvlhyMmf4MHOjSZmJtU0tYnTT9L/BOOOECA';
+    // -----------------------------------
+
+    const input = document.getElementById('video-input');
+    const progressBar = document.getElementById('progress-bar');
+    const statusText = document.getElementById('status-text');
+    const progressContainer = document.getElementById('progress-container');
+
+    input.onchange = async () => {
+        if (!input.files[0]) return;
+
+        progressContainer.style.display = 'block';
+        statusText.innerText = "1. Solicitando URL de subida a Mux...";
+
+        try {
+            // Paso 1: Crear la subida en la API de Mux
+            const response = await fetch('https://api.mux.com/video/v1/uploads', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Basic ' + btoa(`${TOKEN_ID}:${TOKEN_SECRET}`)
+                },
+                body: JSON.stringify({
+                    new_asset_settings: { 
+                        playback_policy: ['public'] 
+                    },
+                    cors_origin: '*' // Permite subir desde tu entorno local
+                })
+            });
+
+            const result = await response.json();
+            if (!response.ok) throw new Error(result.error.message);
+
+            const uploadUrl = result.data.url;
+            statusText.innerText = "2. Conexión establecida. Subiendo video...";
+
+            // Paso 2: Usar UpChunk para enviar el archivo real
+            const upload = UpChunk.createUpload({
+                endpoint: uploadUrl,
+                file: input.files[0],
+                chunkSize: 5120, // Fragmentos de 5MB
+            });
+
+            upload.on('progress', (ev) => {
+                progressBar.value = ev.detail;
+                statusText.innerText = `Subiendo: ${Math.floor(ev.detail)}%`;
+            });
+
+            upload.on('success', () => {
+                statusText.innerText = "¡Listo! El video se subió correctamente.";
+                statusText.style.color = "#28a745";
+            });
+
+            upload.on('error', (err) => {
+                statusText.innerText = "Error en la subida: " + err.detail;
+                statusText.style.color = "#dc3545";
+            });
+
+        } catch (error) {
+            statusText.innerText = "Error: " + error.message;
+            statusText.style.color = "#dc3545";
+            console.error("Detalles del error:", error);
+        }
+    };
+</script>
+
+</body>
+</html>
