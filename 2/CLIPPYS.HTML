@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Clippy Música: Grabador Directo</title>
+  <style>
+    :root {
+      --bg: #0c0c0c;
+      --card: #1a1a1a;
+      --primary: #1db954;
+      --text: #ffffff;
+      --subtle: #a0a0a0;
+      --highlight: #1ed760;
+    }
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    h1 { font-weight: 800; letter-spacing: -1px; margin-bottom: 2rem; color: var(--primary); }
+
+    #searchForm { display: flex; gap: 10px; margin-bottom: 15px; width: 100%; max-width: 600px; }
+    input[type="text"] {
+      flex: 1; padding: 12px 20px; border-radius: 30px; border: 1px solid #333;
+      background: #222; color: white; outline: none;
+    }
+    button {
+      padding: 10px 20px; border-radius: 30px; border: none; font-weight: 600;
+      cursor: pointer; transition: all 0.2s;
+    }
+    .btn-primary { background: var(--primary); color: black; }
+    .btn-primary:hover:not(:disabled) { background: var(--highlight); transform: scale(1.05); }
+    .btn-secondary { background: #333; color: white; }
+    .btn-secondary:hover { background: #444; }
+    
+    #results {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 20px; width: 100%; max-width: 1200px;
+    }
+    .track {
+      background: var(--card); padding: 15px; border-radius: 12px;
+      display: flex; flex-direction: column;
+    }
+    .track img { width: 100%; aspect-ratio: 1; border-radius: 8px; margin-bottom: 10px; object-fit: cover; }
+    .track h3 { font-size: 0.95rem; margin: 5px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .track p { font-size: 0.8rem; color: var(--subtle); margin-bottom: 15px; }
+
+    .btn-full { background: var(--primary); color: black; margin-top: auto; border: none; font-weight: bold; padding: 10px; border-radius: 8px;}
+
+    .modal {
+      display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.95);
+      z-index: 1000; align-items: center; justify-content: center; padding: 20px;
+    }
+    .modal.show { display: flex; }
+    .modal-content {
+      background: #121212; width: 100%; max-width: 800px; border-radius: 24px;
+      padding: 30px; position: relative;
+    }
+    .close-btn { position: absolute; top: 20px; right: 20px; font-size: 1.5rem; cursor: pointer; color: var(--subtle); }
+
+    .editor-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; align-items: center; }
+    @media (max-width: 768px) { .editor-grid { grid-template-columns: 1fr; } }
+
+    #clipPreviewContainer {
+      width: 100%; aspect-ratio: 9/16; background: #000; border-radius: 12px;
+      overflow: hidden; position: relative; border: 1px solid #333; max-width: 300px; margin: 0 auto;
+    }
+    #previewCanvas { width: 100%; height: 100%; display: block; }
+    
+    .progress-container {
+      width: 100%; height: 10px; background: #333; border-radius: 5px; margin-top: 20px; overflow: hidden; display: none;
+    }
+    #progressBar { width: 0%; height: 100%; background: var(--primary); transition: width 0.1s linear; }
+
+    .recording-info { text-align: center; margin-top: 10px; font-weight: bold; display: none; }
+    .time-left { color: var(--primary); font-size: 1.2rem; }
+
+    .loader { border: 3px solid #f3f3f3; border-top: 3px solid var(--primary); border-radius: 50%; width: 20px; height: 20px; animation: spin 1s linear infinite; display: inline-block; }
+    @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+
+  <h1>🎬 Clippy Música</h1>
+
+  <form id="searchForm">
+    <input id="query" type="text" placeholder="Busca una canción..." required/>
+    <button type="submit" class="btn-primary">Buscar</button>
+  </form>
+
+  <section id="results"></section>
+
+  <video id="webcamVideo" autoplay playsinline muted style="display:none;"></video>
+
+  <div id="clipModal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeModal()">✕</span>
+      <h2 id="modalTitle" style="margin:0 0 15px 0">Grabación</h2>
+      
+      <div class="editor-grid">
+        <div>
+          <div id="clipPreviewContainer">
+            <canvas id="previewCanvas"></canvas>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 15px;">
+          <div id="setupControls">
+            <button id="toggleCameraBtn" class="btn-primary" style="width:100%; padding: 15px; margin-bottom: 10px;">📷 Activar Cámara</button>
+            <button id="playPreviewBtn" class="btn-secondary" style="width:100%; padding: 12px;">🎵 Escuchar Previa</button>
+          </div>
+
+          <div id="recordingControls">
+            <button id="exportBtn" style="background: white; color: black; padding: 20px; font-size: 1.2rem; font-weight: 800; border: none; border-radius: 30px; width:100%;">🔴 EMPEZAR A GRABAR</button>
+            
+            <div id="progressBox" class="progress-container">
+              <div id="progressBar"></div>
+            </div>
+            
+            <div id="timerDisplay" class="recording-info">
+              Tiempo restante: <span id="timeLeft" class="time-left">0.0s</span>
+            </div>
+
+            <p id="statusMsg" style="text-align: center; color: var(--primary); margin-top: 15px; font-size: 0.9rem;"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    let currentBuffer = null;
+    let previewSource = null;
+    let webcamStream = null;
+    let isRecording = false;
+    let countdownValue = 0;
+    let animationId = null;
+    const videoElement = document.getElementById('webcamVideo');
+    const previewCanvas = document.getElementById('previewCanvas');
+    const resultsGrid = document.getElementById('results');
+    const statusMsg = document.getElementById('statusMsg');
+    const progressBar = document.getElementById('progressBar');
+    const progressBox = document.getElementById('progressBox');
+    const timerDisplay = document.getElementById('timerDisplay');
+    const timeLeftSpan = document.getElementById('timeLeft');
+
+    document.getElementById('searchForm').onsubmit = (e) => {
+      e.preventDefault();
+      searchTracks(document.getElementById('query').value);
+    };
+
+    async function searchTracks(query) {
+      resultsGrid.innerHTML = '<div class="loader"></div>';
+      const r = await fetch(`https://itunes.apple.com/search?country=ES&entity=song&term=${encodeURIComponent(query)}&limit=20`);
+      const data = await r.json();
+      resultsGrid.innerHTML = '';
+      data.results.forEach(t => {
+        const card = document.createElement('div');
+        card.className = 'track';
+        const img = t.artworkUrl100.replace('100x100', '600x600');
+        card.innerHTML = `
+          <img src="${img}">
+          <h3>${t.trackName}</h3>
+          <p>${t.artistName}</p>
+          <button class="btn-full" onclick="openClipEditor('${t.previewUrl}')">SELECCIONAR</button>
+        `;
+        resultsGrid.appendChild(card);
+      });
+    }
+
+    async function openClipEditor(audioUrl) {
+      document.getElementById('clipModal').classList.add('show');
+      statusMsg.textContent = "Cargando canción...";
+      stopPreview();
+      
+      try {
+        const response = await fetch(audioUrl);
+        const arrayBuffer = await response.arrayBuffer();
+        currentBuffer = await audioCtx.decodeAudioData(arrayBuffer);
+        statusMsg.textContent = "Listo para grabar.";
+        startCanvasLoop();
+      } catch(e) {
+        statusMsg.textContent = "Error de audio.";
+      }
+    }
+
+    // Función para escuchar antes de grabar
+    document.getElementById('playPreviewBtn').onclick = () => {
+        if (!currentBuffer) return;
+        if (previewSource) {
+            stopPreview();
+        } else {
+            previewSource = audioCtx.createBufferSource();
+            previewSource.buffer = currentBuffer;
+            previewSource.connect(audioCtx.destination);
+            previewSource.start(0);
+            document.getElementById('playPreviewBtn').textContent = "⏹ Detener Previa";
+            previewSource.onended = () => {
+                document.getElementById('playPreviewBtn').textContent = "🎵 Escuchar Previa";
+                previewSource = null;
+            };
+        }
+    };
+
+    function stopPreview() {
+        if (previewSource) {
+            try { previewSource.stop(); } catch(e) {}
+            previewSource = null;
+            document.getElementById('playPreviewBtn').textContent = "🎵 Escuchar Previa";
+        }
+    }
+
+    document.getElementById('toggleCameraBtn').onclick = async () => {
+      if (webcamStream) {
+        webcamStream.getTracks().forEach(t => t.stop());
+        webcamStream = null;
+        document.getElementById('toggleCameraBtn').textContent = "📷 Activar Cámara";
+      } else {
+        try {
+          webcamStream = await navigator.mediaDevices.getUserMedia({ 
+            video: { facingMode: "user", width: 1280, height: 720 }, 
+            audio: false 
+          });
+          videoElement.srcObject = webcamStream;
+          videoElement.play();
+          document.getElementById('toggleCameraBtn').textContent = "❌ Desactivar Cámara";
+        } catch(e) {
+          statusMsg.textContent = "Cámara no disponible.";
+        }
+      }
+    };
+
+    function startCanvasLoop() {
+        if (animationId) cancelAnimationFrame(animationId);
+        const render = () => {
+            const ctx = previewCanvas.getContext('2d');
+            const w = 720, h = 1280; 
+            previewCanvas.width = w; previewCanvas.height = h;
+
+            ctx.fillStyle = '#000';
+            ctx.fillRect(0, 0, w, h);
+
+            if (webcamStream && videoElement.readyState >= 2) {
+                const vW = videoElement.videoWidth;
+                const vH = videoElement.videoHeight;
+                const videoAspect = vW / vH;
+                const canvasAspect = w / h;
+                
+                let drawW, drawH;
+
+                if (videoAspect > canvasAspect) {
+                  drawH = h;
+                  drawW = h * videoAspect;
+                } else {
+                  drawW = w;
+                  drawH = w / videoAspect;
+                }
+
+                const offsetX = (w - drawW) / 2;
+                const offsetY = (h - drawH) / 2;
+
+                ctx.save();
+                ctx.translate(w / 2, h / 2);
+                ctx.scale(-1, 1);
+                ctx.translate(-w / 2, -h / 2);
+                ctx.drawImage(videoElement, offsetX, offsetY, drawW, drawH);
+                ctx.restore();
+            }
+
+            if (countdownValue > 0) {
+                ctx.fillStyle = "rgba(0,0,0,0.6)";
+                ctx.fillRect(0, 0, w, h);
+                ctx.fillStyle = "white";
+                ctx.font = "bold 300px sans-serif";
+                ctx.textAlign = "center"; ctx.textBaseline = "middle";
+                ctx.fillText(countdownValue, w/2, h/2);
+            }
+
+            if (isRecording) {
+                ctx.fillStyle = "red";
+                ctx.beginPath(); ctx.arc(60, 60, 15, 0, Math.PI*2); ctx.fill();
+
+                ctx.fillStyle = "white";
+                ctx.font = "bold 32px Inter, sans-serif";
+                ctx.textAlign = "left";
+                ctx.textBaseline = "middle";
+                ctx.fillText("Clippy Studio", 90, 60);
+                
+                ctx.strokeStyle = "rgba(255, 0, 0, 0.5)";
+                ctx.lineWidth = 10;
+                ctx.strokeRect(0, 0, w, h);
+            }
+
+            animationId = requestAnimationFrame(render);
+        };
+        render();
+    }
+
+    document.getElementById('exportBtn').onclick = () => {
+      if (!currentBuffer) return;
+      stopPreview();
+      document.getElementById('exportBtn').disabled = true;
+      countdownValue = 3;
+      
+      const countInterval = setInterval(() => {
+          countdownValue--;
+          if (countdownValue <= 0) {
+              clearInterval(countInterval);
+              startRecording();
+          }
+      }, 1000);
+    };
+
+    function startRecording() {
+      const dur = currentBuffer.duration;
+      const canvasStream = previewCanvas.captureStream(30);
+      const dest = audioCtx.createMediaStreamDestination();
+      const source = audioCtx.createBufferSource();
+      source.buffer = currentBuffer;
+      
+      // Conectamos a la grabación Y a los altavoces para que escuches mientras grabas
+      source.connect(dest);
+      source.connect(audioCtx.destination);
+
+      const combined = new MediaStream([...canvasStream.getVideoTracks(), ...dest.stream.getAudioTracks()]);
+      const recorder = new MediaRecorder(combined, { mimeType: 'video/webm' });
+      const chunks = [];
+
+      recorder.ondataavailable = e => chunks.push(e.data);
+      recorder.onstop = () => {
+        isRecording = false;
+        progressBox.style.display = "none";
+        timerDisplay.style.display = "none";
+        const blob = new Blob(chunks, { type: 'video/webm' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = `Clippy_Studio_${Date.now()}.webm`;
+        a.click();
+        document.getElementById('exportBtn').disabled = false;
+        statusMsg.textContent = "¡Video exportado!";
+      };
+
+      recorder.start();
+      source.start(0);
+      isRecording = true;
+      
+      progressBox.style.display = "block";
+      timerDisplay.style.display = "block";
+      const startTime = Date.now();
+
+      const updateProgress = setInterval(() => {
+          const elapsed = (Date.now() - startTime) / 1000;
+          const remaining = Math.max(0, dur - elapsed);
+          const percent = (elapsed / dur) * 100;
+          
+          progressBar.style.width = percent + "%";
+          timeLeftSpan.textContent = remaining.toFixed(1) + "s";
+
+          if (elapsed >= dur) {
+              clearInterval(updateProgress);
+              if(recorder.state !== 'inactive') recorder.stop();
+              source.stop();
+          }
+      }, 100);
+    }
+
+    function closeModal() {
+      document.getElementById('clipModal').classList.remove('show');
+      stopPreview();
+      if (webcamStream) {
+          webcamStream.getTracks().forEach(t => t.stop());
+          webcamStream = null;
+      }
+      isRecording = false;
+      if (animationId) cancelAnimationFrame(animationId);
+    }
+  </script>
+</body>
+</html>
