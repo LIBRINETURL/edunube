@@ -458,6 +458,15 @@
       "color": "#ff9500",
       "description": "",
       "timestamp": 1775595724670
+    },
+    {
+      "id": "1775595736216",
+      "title": "DINAMICA",
+      "startDate": "2026-05-27",
+      "endDate": "2026-05-27",
+      "color": "#00ff62",
+      "description": "",
+      "timestamp": 1775595736216
     }
   ],
   "recurring": [
