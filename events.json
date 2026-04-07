@@ -449,6 +449,15 @@
       "color": "#ffae00",
       "description": "",
       "timestamp": 1775595701830
+    },
+    {
+      "id": "1775595724670",
+      "title": "WRITTING Y LISTENING",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-26",
+      "color": "#ff9500",
+      "description": "",
+      "timestamp": 1775595724670
     }
   ],
   "recurring": [
