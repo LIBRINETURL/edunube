@@ -440,6 +440,15 @@
       "color": "#1eff00",
       "description": "",
       "timestamp": 1775595671847
+    },
+    {
+      "id": "1775595701830",
+      "title": "GRAMMAR VOCABULARY READING",
+      "startDate": "2026-05-25",
+      "endDate": "2026-05-25",
+      "color": "#ffae00",
+      "description": "",
+      "timestamp": 1775595701830
     }
   ],
   "recurring": [
