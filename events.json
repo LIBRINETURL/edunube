@@ -467,6 +467,15 @@
       "color": "#00ff62",
       "description": "",
       "timestamp": 1775595736216
+    },
+    {
+      "id": "1775595869350",
+      "title": "SPEAKING",
+      "startDate": "2026-05-28",
+      "endDate": "2026-05-28",
+      "color": "#ffc800",
+      "description": "",
+      "timestamp": 1775595869350
     }
   ],
   "recurring": [
