@@ -431,6 +431,15 @@
       "color": "#ffa200",
       "description": "Lectura de OWL hall",
       "timestamp": 1768437702463
+    },
+    {
+      "id": "1775595671847",
+      "title": "CINEMATICA",
+      "startDate": "2026-04-23",
+      "endDate": "2026-04-23",
+      "color": "#1eff00",
+      "description": "",
+      "timestamp": 1775595671847
     }
   ],
   "recurring": [
