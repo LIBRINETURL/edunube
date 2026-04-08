@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂÃÂÃÂÃÂ³n: 8/4/2026, 19:58:13]
+[Registro de sesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 8/4/2026, 19:58:13]
+  - ID de SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n: 689
+  - Apodo: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v146, Not-A.Brand v24, Google Chrome v146
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [8/4/2026, 19:58:13] SesiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n iniciada. ID: 689 (Usuario: Usuario AnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂÃÂÃÂÃÂ³n: 8/4/2026, 19:58:45]
   - ID de SesiÃÂÃÂÃÂÃÂ³n: 689
   - Apodo: Usuario AnÃÂÃÂÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂÃÂÃÂ­)
   - Acciones Realizadas:
-    - [8/4/2026, 19:58:13] SesiÃÂÃÂÃÂÃÂ³n iniciada. ID: 689 (Usuario: Usuario AnÃÂÃÂÃÂÃÂ³nimo)
+    - [8/4/2026, 19:58:45] Crear carpeta: "0AULIA/FYQ/3ÃÂÃÂÃÂÃÂºTRIMESTRE"
 --------------------------------------------------
-[Registro de sesiÃÂÃÂ³n: 8/4/2026, 19:58:45]
+[Registro de sesiÃÂÃÂ³n: 8/4/2026, 20:00:47]
   - ID de SesiÃÂÃÂ³n: 689
   - Apodo: Usuario AnÃÂÃÂ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
   - Acciones Realizadas:
-    - [8/4/2026, 19:58:45] Crear carpeta: "0AULIA/FYQ/3ÃÂÃÂºTRIMESTRE"
+    - [8/4/2026, 20:00:47] Crear carpeta: "0AULIA/FYQ/3ÃÂÃÂºTRIMESTRE/CINEMATICA"
 --------------------------------------------------
-[Registro de sesiÃÂ³n: 8/4/2026, 20:00:47]
+[Registro de sesiÃÂ³n: 8/4/2026, 20:01:03]
   - ID de SesiÃÂ³n: 689
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -33,9 +45,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [8/4/2026, 20:00:47] Crear carpeta: "0AULIA/FYQ/3ÃÂºTRIMESTRE/CINEMATICA"
+    - [8/4/2026, 20:01:03] Crear carpeta: "0AULIA/FYQ/3ÃÂºTRIMESTRE/DINAMICA"
 --------------------------------------------------
-[Registro de sesiÃ³n: 8/4/2026, 20:01:03]
+[Registro de sesiÃ³n: 8/4/2026, 20:04:43]
   - ID de SesiÃ³n: 689
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -45,9 +57,13 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [8/4/2026, 20:01:03] Crear carpeta: "0AULIA/FYQ/3ÂºTRIMESTRE/DINAMICA"
+    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ÂºTRIMESTRE/CINEMATICA/Apuntes cinemÃ¡tica 4Âº ESO.pdf"
+    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ÂºTRIMESTRE/CINEMATICA/cinematica (1).pdf"
+    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ÂºTRIMESTRE/CINEMATICA/Ejercicios cinemÃ¡tica vectorial (1).pdf"
+    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ÂºTRIMESTRE/CINEMATICA/esquema de cinemÃ¡tica.pdf"
+    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ÂºTRIMESTRE/CINEMATICA/CinemÃ¡tica con notaciÃ³n  vectorial.pdf"
 --------------------------------------------------
-[Registro de sesión: 8/4/2026, 20:04:43]
+[Registro de sesión: 8/4/2026, 20:05:15]
   - ID de Sesión: 689
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -57,9 +73,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/Apuntes cinemática 4º ESO.pdf"
-    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/cinematica (1).pdf"
-    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/Ejercicios cinemática vectorial (1).pdf"
-    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/esquema de cinemática.pdf"
-    - [8/4/2026, 20:04:43] Subir archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/Cinemática con notación  vectorial.pdf"
+    - [8/4/2026, 20:05:15] Copiar enlace de archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/Apuntes cinemática 4º ESO.pdf"
+    - [8/4/2026, 20:05:15] Copiar enlace de archivo: "0AULIA/FYQ/3ºTRIMESTRE/CINEMATICA/Cinemática con notación  vectorial.pdf"
 --------------------------------------------------
