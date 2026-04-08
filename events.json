@@ -494,6 +494,15 @@
       "color": "#3b82f6",
       "description": "",
       "timestamp": 1775669634755
+    },
+    {
+      "id": "1775669641955",
+      "title": "EXAMEN SINTAXIS",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-26",
+      "color": "#3b82f6",
+      "description": "",
+      "timestamp": 1775669641955
     }
   ],
   "recurring": [
