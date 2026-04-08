@@ -1,5 +1,17 @@
 
-[Registro de sesión: 8/4/2026, 19:58:13]
+[Registro de sesiÃ³n: 8/4/2026, 19:58:13]
+  - ID de SesiÃ³n: 689
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v146, Not-A.Brand v24, Google Chrome v146
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [8/4/2026, 19:58:13] SesiÃ³n iniciada. ID: 689 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 8/4/2026, 19:58:45]
   - ID de Sesión: 689
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [8/4/2026, 19:58:13] Sesión iniciada. ID: 689 (Usuario: Usuario Anónimo)
+    - [8/4/2026, 19:58:45] Crear carpeta: "0AULIA/FYQ/3ºTRIMESTRE"
 --------------------------------------------------
