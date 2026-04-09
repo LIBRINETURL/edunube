@@ -530,6 +530,15 @@
       "color": "#3b82f6",
       "description": "",
       "timestamp": 1775669658779
+    },
+    {
+      "id": "1775768632268",
+      "title": "CIRCUITOS DE CORRIENTE CONTINUA",
+      "startDate": "2026-04-14",
+      "endDate": "2026-04-14",
+      "color": "#ff7300",
+      "description": "",
+      "timestamp": 1775768632268
     }
   ],
   "recurring": [
