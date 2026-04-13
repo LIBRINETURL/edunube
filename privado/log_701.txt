@@ -1,5 +1,17 @@
 
-[Registro de sesión: 13/4/2026, 19:44:38]
+[Registro de sesiÃ³n: 13/4/2026, 19:44:38]
+  - ID de SesiÃ³n: 701
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v147, Not.A/Brand v8, Chromium v147
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [13/4/2026, 19:44:38] SesiÃ³n iniciada. ID: 701 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 13/4/2026, 19:44:47]
   - ID de Sesión: 701
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,6 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [13/4/2026, 19:44:38] Sesión iniciada. ID: 701 (Usuario: Usuario Anónimo)
+    - [13/4/2026, 19:44:47] Subir archivo: "Ejercicios de Mallas Variantes V9.pdf"
+    - [13/4/2026, 19:44:47] Subir archivo: "Ejercicios de Mallas Variantes V8.pdf"
 --------------------------------------------------
