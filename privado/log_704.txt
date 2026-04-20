@@ -1,5 +1,17 @@
 
-[Registro de sesión: 20/4/2026, 17:47:13]
+[Registro de sesiÃ³n: 20/4/2026, 17:47:13]
+  - ID de SesiÃ³n: 704
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v147, Not.A/Brand v8, Chromium v147
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [20/4/2026, 17:47:13] SesiÃ³n iniciada. ID: 704 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 20/4/2026, 17:52:05]
   - ID de Sesión: 704
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [20/4/2026, 17:47:13] Sesión iniciada. ID: 704 (Usuario: Usuario Anónimo)
+    - [20/4/2026, 17:52:05] Subir archivo: "EDU-ARCHIVO/PDFs/MATES/LIMITES Y CONTINUIDAD/Resolución de Ejercicios de Dominio (1).pdf"
 --------------------------------------------------
