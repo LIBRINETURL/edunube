@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 5/5/2026, 22:03:09]
+[Registro de sesiÃÂ³n: 5/5/2026, 22:03:09]
+  - ID de SesiÃÂ³n: 708
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.68
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Google Chrome v147, Not.A/Brand v8, Chromium v147
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [5/5/2026, 22:03:09] SesiÃÂ³n iniciada. ID: 708 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 5/5/2026, 22:10:59]
   - ID de SesiÃ³n: 708
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.68
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [5/5/2026, 22:03:09] SesiÃ³n iniciada. ID: 708 (Usuario: Usuario AnÃ³nimo)
+    - [5/5/2026, 22:10:59] Subir archivo: "ARCHIVO/COMENTARIO LINGUISTICO.pdf"
 --------------------------------------------------
-[Registro de sesión: 5/5/2026, 22:10:59]
+[Registro de sesión: 5/5/2026, 22:11:26]
   - ID de Sesión: 708
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.68
@@ -21,5 +33,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [5/5/2026, 22:10:59] Subir archivo: "ARCHIVO/COMENTARIO LINGUISTICO.pdf"
+    - [5/5/2026, 22:11:26] Subir archivo: "ARCHIVO/FUNCIONES DOMINIO Y LIMITES.pdf"
 --------------------------------------------------
