@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 11/9/2026, 23:08:31]
+[Registro de sesiÃÂÃÂ³n: 11/9/2026, 23:08:31]
+  - ID de SesiÃÂÃÂ³n: 710
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 85.86.59.37
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v152, Not?A_Brand v24, Google Chrome v152
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [11/9/2026, 23:08:31] SesiÃÂÃÂ³n iniciada. ID: 710 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 11/9/2026, 23:12:03]
   - ID de SesiÃÂ³n: 710
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 85.86.59.37
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [11/9/2026, 23:08:31] SesiÃÂ³n iniciada. ID: 710 (Usuario: Usuario AnÃÂ³nimo)
+    - [11/9/2026, 23:12:03] Crear carpeta: "00AULIA"
 --------------------------------------------------
-[Registro de sesiÃ³n: 11/9/2026, 23:12:03]
+[Registro de sesiÃ³n: 11/9/2026, 23:12:20]
   - ID de SesiÃ³n: 710
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.59.37
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [11/9/2026, 23:12:03] Crear carpeta: "00AULIA"
+    - [11/9/2026, 23:12:20] Crear carpeta: "00AULIA/Ingles"
 --------------------------------------------------
-[Registro de sesión: 11/9/2026, 23:12:20]
+[Registro de sesión: 11/9/2026, 23:13:17]
   - ID de Sesión: 710
   - Apodo: Usuario Anónimo
   - IP: 85.86.59.37
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [11/9/2026, 23:12:20] Crear carpeta: "00AULIA/Ingles"
+    - [11/9/2026, 23:13:17] Crear carpeta: "00AULIA/Ingles/1ºTRIMESTRE"
 --------------------------------------------------
