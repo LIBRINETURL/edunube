@@ -1,0 +1,53 @@
+[
+  {
+    "id": 101,
+    "name": "Programación y Desarrollo",
+    "category": "1º Trimestre • Informática",
+    "colorHex": "#0f6cbf",
+    "topics": [
+      {
+        "id": 1001,
+        "title": "Tema 1: Estructuras de control",
+        "description": "Condicionales, bucles y control de flujo.",
+        "subtopics": [
+          {
+            "id": 2001,
+            "title": "Subtema 1.1: Condicionales if / switch",
+            "description": "Ejercicios prácticos de bifurcación."
+          },
+          {
+            "id": 2002,
+            "title": "Subtema 1.2: Bucles for y while",
+            "description": "Iteraciones y optimización."
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "title": "Tema 2: Funciones y modularidad",
+        "description": "Diseño limpio y reutilización de código.",
+        "subtopics": []
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Francés: Grammaire",
+    "category": "Idiomas • Nivel B1",
+    "colorHex": "#0284c7",
+    "topics": [
+      {
+        "id": 1003,
+        "title": "Unité 1: Le passé composé",
+        "description": "Uso de auxiliares avoir y être.",
+        "subtopics": [
+          {
+            "id": 2003,
+            "title": "Subtema 1.1: Participios irregulares",
+            "description": "Lista de verbos frecuentes."
+          }
+        ]
+      }
+    ]
+  }
+]
