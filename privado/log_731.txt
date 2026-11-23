@@ -1,5 +1,17 @@
 
-[Registro de sesión: 23/11/2026, 22:02:02]
+[Registro de sesiÃ³n: 23/11/2026, 22:02:02]
+  - ID de SesiÃ³n: 731
+  - Apodo: 7676
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not-A.Brand v99, Google Chrome v157, Chromium v157
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [23/11/2026, 22:02:02] SesiÃ³n iniciada. ID: 731
+--------------------------------------------------
+[Registro de sesión: 23/11/2026, 22:02:45]
   - ID de Sesión: 731
   - Apodo: 7676
   - IP: 89.32.84.63
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [23/11/2026, 22:02:02] Sesión iniciada. ID: 731
+    - [23/11/2026, 22:02:45] Descargar carpeta como ZIP: "0AULIA/ATENCION EDUCATIVA"
 --------------------------------------------------
