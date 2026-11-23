@@ -1,53 +1,5 @@
 [
   {
-    "id": 1795468226766,
-    "studentId": 1795461671135,
-    "studentName": "Antonio",
-    "studentHandle": "@antonio",
-    "courseName": "ARCHIVO 2026",
-    "exerciseTitle": "Consulta de Material",
-    "score": "N/A",
-    "maxScore": "N/A",
-    "answers": {
-      "tipoActividad": "VER_ARCHIVO",
-      "detalle": "Antonio (@antonio) ha abierto \"Atencion educativa\" (ATENCION EDUCATIVA.zip) en el curso ARCHIVO 2026.",
-      "timestamp": "23/11/2026, 22:10:26"
-    },
-    "date": "23/11/2026, 22:10:26"
-  },
-  {
-    "id": 1795468197215,
-    "studentId": 1795461671135,
-    "studentName": "Antonio",
-    "studentHandle": "@antonio",
-    "courseName": "ARCHIVO 2026",
-    "exerciseTitle": "Consulta de Material",
-    "score": "N/A",
-    "maxScore": "N/A",
-    "answers": {
-      "tipoActividad": "VER_ARCHIVO",
-      "detalle": "Antonio (@antonio) ha abierto \"Atencion educativa\" (ATENCION EDUCATIVA.zip) en el curso ARCHIVO 2026.",
-      "timestamp": "23/11/2026, 22:09:57"
-    },
-    "date": "23/11/2026, 22:09:57"
-  },
-  {
-    "id": 1795468192063,
-    "studentId": 1795461671135,
-    "studentName": "Antonio",
-    "studentHandle": "@antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Inicio de Sesión",
-    "score": "N/A",
-    "maxScore": "N/A",
-    "answers": {
-      "tipoActividad": "ACCESO_APP",
-      "detalle": "Antonio (@antonio) ha iniciado sesión en el Aula Virtual.",
-      "timestamp": "23/11/2026, 22:09:52"
-    },
-    "date": "23/11/2026, 22:09:52"
-  },
-  {
     "id": 1795465752716,
     "studentId": 1795461671135,
     "studentName": "Antonio",
