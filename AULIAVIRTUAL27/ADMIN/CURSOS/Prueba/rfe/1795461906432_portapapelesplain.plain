@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cuestionario de Evaluación</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f7f6;
+      color: #333;
+      max-width: 700px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+    .quiz-container {
+      background: #ffffff;
+      padding: 25px 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    }
+    h1 {
+      font-size: 1.5rem;
+      color: #1a365d;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    .question {
+      margin-bottom: 20px;
+      padding: 15px;
+      background: #f8fafc;
+      border-left: 4px solid #3182ce;
+      border-radius: 4px;
+    }
+    .question p {
+      font-weight: 600;
+      margin-top: 0;
+    }
+    label {
+      display: block;
+      margin: 8px 0;
+      cursor: pointer;
+    }
+    input[type="radio"] {
+      margin-right: 10px;
+    }
+    button {
+      background-color: #2b6cb0;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 1rem;
+      font-weight: bold;
+      border-radius: 6px;
+      cursor: pointer;
+      width: 100%;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background-color: #2c5282;
+    }
+    button:disabled {
+      background-color: #a0aec0;
+      cursor: not-allowed;
+    }
+    #resultado {
+      margin-top: 20px;
+      padding: 15px;
+      border-radius: 6px;
+      display: none;
+      text-align: center;
+      font-weight: bold;
+    }
+    .exito {
+      background-color: #c6f6d5;
+      color: #22543d;
+      border: 1px solid #9ae6b4;
+    }
+    .error {
+      background-color: #fed7d7;
+      color: #742a2a;
+      border: 1px solid #feb2b2;
+    }
+  </style>
+</head>
+<body>
+
+<div class="quiz-container">
+  <h1>Evaluación de Conocimientos</h1>
+  
+  <form id="quizForm">
+    <!-- Pregunta 1 -->
+    <div class="question">
+      <p>1. ¿Cuál es la capital de España?</p>
+      <label><input type="radio" name="p1" value="Madrid"> Madrid</label>
+      <label><input type="radio" name="p1" value="Barcelona"> Barcelona</label>
+      <label><input type="radio" name="p1" value="Sevilla"> Sevilla</label>
+    </div>
+
+    <!-- Pregunta 2 -->
+    <div class="question">
+      <p>2. ¿Qué lenguaje se utiliza principalmente para dar estilos a una página web?</p>
+      <label><input type="radio" name="p2" value="HTML"> HTML</label>
+      <label><input type="radio" name="p2" value="CSS"> CSS</label>
+      <label><input type="radio" name="p2" value="Python"> Python</label>
+    </div>
+
+    <!-- Pregunta 3 -->
+    <div class="question">
+      <p>3. ¿Cuánto es 7 x 8?</p>
+      <label><input type="radio" name="p3" value="54"> 54</label>
+      <label><input type="radio" name="p3" value="56"> 56</label>
+      <label><input type="radio" name="p3" value="64"> 64</label>
+    </div>
+
+    <!-- Pregunta 4 -->
+    <div class="question">
+      <p>4. ¿En qué año llegó el ser humano a la Luna?</p>
+      <label><input type="radio" name="p4" value="1965"> 1965</label>
+      <label><input type="radio" name="p4" value="1969"> 1969</label>
+      <label><input type="radio" name="p4" value="1972"> 1972</label>
+    </div>
+
+    <button type="button" id="btnFinalizar" onclick="finalizarCuestionario()">Finalizar y Enviar</button>
+  </form>
+
+  <div id="resultado"></div>
+</div>
+
+<script>
+  // Guardamos el momento exacto en que el estudiante abre el cuestionario
+  const tiempoInicio = Date.now();
+
+  // Definimos las respuestas correctas (las claves deben coincidir con el atributo "name" de cada pregunta)
+  const respuestasCorrectas = {
+    p1: "Madrid",
+    p2: "CSS",
+    p3: "56",
+    p4: "1969"
+  };
+
+  function finalizarCuestionario() {
+    const form = document.getElementById('quizForm');
+    const divResultado = document.getElementById('resultado');
+    const btnFinalizar = document.getElementById('btnFinalizar');
+    
+    const totalPreguntas = Object.keys(respuestasCorrectas).length;
+    let aciertos = 0;
+    let respuestasEstudiante = {};
+
+    // 1. Verificar que todas las preguntas estén respondidas y calcular aciertos
+    for (let clave in respuestasCorrectas) {
+      const opcionSeleccionada = form.querySelector(`input[name="${clave}"]:checked`);
+      
+      if (!opcionSeleccionada) {
+        divResultado.style.display = "block";
+        divResultado.className = "error";
+        divResultado.textContent = "Por favor, responde todas las preguntas antes de enviar.";
+        return; // Detiene el envío si falta alguna respuesta
+      }
+
+      const valor = opcionSeleccionada.value;
+      respuestasEstudiante[clave] = valor;
+
+      if (valor === respuestasCorrectas[clave]) {
+        aciertos++;
+      }
+    }
+
+    // 2. Calcular la nota sobre 10 (redondeada a 2 decimales)
+    const maxScore = 10;
+    const score = Number(((aciertos / totalPreguntas) * maxScore).toFixed(2));
+
+    // 3. Calcular el tiempo empleado
+    const segundosTotales = Math.floor((Date.now() - tiempoInicio) / 1000);
+    const minutos = Math.floor(segundosTotales / 60);
+    const segundos = segundosTotales % 60;
+    respuestasEstudiante.tiempo = `${minutos}m ${segundos}s`;
+
+    // 4. Enviar los datos al sistema padre (AULIA_SUBMIT)
+    window.parent.postMessage({
+      type: 'AULIA_SUBMIT',
+      score: score,
+      maxScore: maxScore,
+      answers: respuestasEstudiante
+    }, '*');
+
+    // 5. Mostrar confirmación visual al estudiante y bloquear reenvíos
+    divResultado.style.display = "block";
+    divResultado.className = "exito";
+    divResultado.innerHTML = `¡Cuestionario enviado!<br>Tu nota es: ${score} / ${maxScore} (${aciertos} de ${totalPreguntas} aciertos).`;
+    
+    btnFinalizar.disabled = true;
+    btnFinalizar.textContent = "Enviado correctamente";
+  }
+</script>
+
+</body>
+</html>
