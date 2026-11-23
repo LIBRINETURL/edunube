@@ -2,5 +2,6 @@
   "id": 1795460256855,
   "name": "Prueba",
   "category": "AULIABETA",
-  "colorHex": "#d97706"
+  "colorHex": "#d97706",
+  "inactive": false
 }
