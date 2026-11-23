@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "courseId": 101,
+    "title": "Entrega actividad 2 Tema 2",
+    "date": "2026-11-24",
+    "time": "23:59"
+  },
+  {
+    "id": 2,
+    "courseId": 101,
+    "title": "Examen Práctico Modularidad",
+    "date": "2026-11-28",
+    "time": "10:00"
+  },
+  {
+    "id": 3,
+    "courseId": 102,
+    "title": "Examen Francés: grammaire",
+    "date": "2026-11-25",
+    "time": "13:05"
+  }
+]
