@@ -1,0 +1,26 @@
+[
+  {
+    "id": 201,
+    "handle": "carlos",
+    "name": "Carlos Mendoza",
+    "email": "c.mendoza@centro.edu",
+    "course": "Programación y Desarrollo",
+    "active": true
+  },
+  {
+    "id": 202,
+    "handle": "elena",
+    "name": "Elena Navarro",
+    "email": "e.navarro@centro.edu",
+    "course": "Francés: Grammaire",
+    "active": true
+  },
+  {
+    "id": 203,
+    "handle": "javier",
+    "name": "Javier Ruiz",
+    "email": "j.ruiz@centro.edu",
+    "course": "Programación y Desarrollo",
+    "active": true
+  }
+]
