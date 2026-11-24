@@ -1,5 +1,17 @@
 
-[Registro de sesiÃ³n: 25/11/2026, 0:00:11]
+[Registro de sesiÃÂ³n: 25/11/2026, 0:00:11]
+  - ID de SesiÃÂ³n: 733
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.224
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v158, Not.A/Brand v24, Google Chrome v158
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [25/11/2026, 0:00:11] SesiÃÂ³n iniciada. ID: 733 (Usuario: Usuario AnÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃ³n: 25/11/2026, 0:00:28]
   - ID de SesiÃ³n: 733
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.224
@@ -9,9 +21,10 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [25/11/2026, 0:00:11] SesiÃ³n iniciada. ID: 733 (Usuario: Usuario AnÃ³nimo)
+    - [25/11/2026, 0:00:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/nots.json"
+    - [25/11/2026, 0:00:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/notificaciones.json"
 --------------------------------------------------
-[Registro de sesión: 25/11/2026, 0:00:28]
+[Registro de sesión: 25/11/2026, 0:00:44]
   - ID de Sesión: 733
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.224
@@ -21,6 +34,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/11/2026, 0:00:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/nots.json"
-    - [25/11/2026, 0:00:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/notificaciones.json"
+    - [25/11/2026, 0:00:44] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/nots.json"
 --------------------------------------------------
