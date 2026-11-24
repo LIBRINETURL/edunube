@@ -1,5 +1,17 @@
 [
   {
+    "id": 1795560718116,
+    "type": "CERRAR_ARCHIVO",
+    "title": "Archivo cerrado: Cohesión y sintaxis 25_11",
+    "body": "Antonio (@antonio) ha cerrado el archivo \"Cohesión y sintaxis 25_11\" (Lengua).",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Lengua",
+    "fileName": "Cohesión y sintaxis 25_11",
+    "date": "24/11/2026, 23:51:57"
+  },
+  {
     "id": 1795560715860,
     "type": "ABRIR_ARCHIVO",
     "title": "Archivo abierto: Cohesión y sintaxis 25_11",
