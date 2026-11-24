@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795481492583,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "FILOSOFIA",
+    "exerciseTitle": "Consulta de Material",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ARCHIVO",
+      "detalle": "Antonio (@antonio) ha abierto \"Pregunta libre\" (plugin) en el curso FILOSOFIA.",
+      "timestamp": "24/11/2026, 1:51:32"
+    },
+    "date": "24/11/2026, 1:51:32"
+  },
+  {
     "id": 1795481487757,
     "studentId": 1795461671135,
     "studentName": "Antonio",
