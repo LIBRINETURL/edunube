@@ -2,5 +2,15 @@
   "id": 1795468298918,
   "title": "PLATON",
   "description": "",
-  "contents": []
+  "contents": [
+    {
+      "id": 1795481444676,
+      "kind": "plugin",
+      "pluginId": 701,
+      "pluginName": "Tarea de Redacción / Entrega Abierta",
+      "title": "Pregunta libre",
+      "description": "Pregunta libre",
+      "configData": ""
+    }
+  ]
 }
