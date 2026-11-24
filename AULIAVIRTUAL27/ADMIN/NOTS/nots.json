@@ -1,5 +1,25 @@
 [
   {
+    "id": 1795561715300,
+    "type": "archivo",
+    "action": "ABRIR_ARCHIVO",
+    "category": "APERTURA_ARCHIVO",
+    "isLogin": false,
+    "isFileOpen": true,
+    "title": "Archivo abierto: Cohesión y sintaxis 25_11 (Lengua)",
+    "body": "Antonio (@antonio) ha abierto \"Cohesión y sintaxis 25_11\" (Cohesión y sintaxis 25_11.pdf) en Lengua → Comentario de texto → Cohesion.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Lengua",
+    "topicName": "Comentario de texto",
+    "subtopicName": "Cohesion",
+    "fileName": "Cohesión y sintaxis 25_11",
+    "date": "2026-11-24",
+    "timestamp": "25/11/2026, 0:08:35",
+    "read": false
+  },
+  {
     "id": 1795561703515,
     "type": "sesion",
     "action": "ACCESO_AULA",
