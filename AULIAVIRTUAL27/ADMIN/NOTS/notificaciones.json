@@ -1,5 +1,19 @@
 [
   {
+    "id": 1795561148903,
+    "type": "ABRIR_ARCHIVO",
+    "title": "Contenido abierto: Cohesión y sintaxis 25_11",
+    "body": "Antonio (@antonio) ha abierto el archivo \"Cohesión y sintaxis 25_11\" (Cohesión y sintaxis 25_11.pdf) en el curso Lengua.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Lengua",
+    "fileName": "Cohesión y sintaxis 25_11",
+    "date": "2026-11-24",
+    "timestamp": "24/11/2026, 23:59:08",
+    "read": false
+  },
+  {
     "id": 1795561133898,
     "type": "ACCESO_AULA",
     "title": "Acceso al aula: Antonio (@antonio)",
