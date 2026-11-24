@@ -1,5 +1,18 @@
 
-[Registro de sesiÃ³n: 25/11/2026, 0:03:19]
+[Registro de sesiÃÂ³n: 25/11/2026, 0:03:19]
+  - ID de SesiÃÂ³n: 734
+  - Apodo: Usuario AnÃÂ³nimo
+  - IP: 85.86.57.224
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v158, Not.A/Brand v24, Google Chrome v158
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
+  - Acciones Realizadas:
+    - [25/11/2026, 0:03:19] SesiÃÂ³n iniciada. ID: 734 (Usuario: Usuario AnÃÂ³nimo)
+    - [25/11/2026, 0:03:19] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/notificaciones.json"
+--------------------------------------------------
+[Registro de sesiÃ³n: 25/11/2026, 0:03:28]
   - ID de SesiÃ³n: 734
   - Apodo: Usuario AnÃ³nimo
   - IP: 85.86.57.224
@@ -9,10 +22,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [25/11/2026, 0:03:19] SesiÃ³n iniciada. ID: 734 (Usuario: Usuario AnÃ³nimo)
-    - [25/11/2026, 0:03:19] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/notificaciones.json"
+    - [25/11/2026, 0:03:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/estudiantes.json"
 --------------------------------------------------
-[Registro de sesión: 25/11/2026, 0:03:28]
+[Registro de sesión: 25/11/2026, 0:03:35]
   - ID de Sesión: 734
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.224
@@ -22,5 +34,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [25/11/2026, 0:03:28] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/estudiantes.json"
+    - [25/11/2026, 0:03:35] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/lecturas_notificaciones.json"
 --------------------------------------------------
