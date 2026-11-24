@@ -1,5 +1,17 @@
 [
   {
+    "id": 1795560669946,
+    "type": "ACCESO_AULA",
+    "title": "Acceso al aula: Antonio (@antonio)",
+    "body": "El alumno Antonio (@antonio) ha accedido al Aula Virtual.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Aula Virtual",
+    "fileName": null,
+    "date": "24/11/2026, 23:51:09"
+  },
+  {
     "id": 1795560528484,
     "type": "ACCESO_AULA",
     "title": "Acceso al aula: Antonio (@antonio)",
