@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795561552925,
+    "type": "ACCESO_AULA",
+    "title": "Acceso al aula: Antonio (@antonio)",
+    "body": "El alumno Antonio (@antonio) ha accedido correctamente al Aula Virtual 27.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Aula Virtual",
+    "topicName": null,
+    "subtopicName": null,
+    "fileName": null,
+    "date": "2026-11-24",
+    "timestamp": "25/11/2026, 0:05:52",
+    "read": false
+  },
+  {
     "id": 1795561316532,
     "type": "ABRIR_ARCHIVO",
     "title": "Contenido abierto: Cohesión y sintaxis 25_11",
