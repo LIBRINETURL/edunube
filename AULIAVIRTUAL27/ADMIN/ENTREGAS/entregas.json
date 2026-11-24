@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795540296568,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Lengua",
+    "exerciseTitle": "Consulta de Material",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ARCHIVO",
+      "detalle": "Antonio (@antonio) ha abierto \"Cohesión y sintaxis 25_11\" (Cohesión y sintaxis 25_11.pdf) en el curso Lengua.",
+      "timestamp": "24/11/2026, 18:11:36"
+    },
+    "date": "24/11/2026, 18:11:36"
+  },
+  {
     "id": 1795539642067,
     "studentId": 1795461671135,
     "studentName": "Antonio",
