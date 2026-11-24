@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 24/11/2026, 17:40:38]
+[Registro de sesiÃÂÃÂ³n: 24/11/2026, 17:40:38]
+  - ID de SesiÃÂÃÂ³n: 732
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Not-A.Brand v99, Google Chrome v157, Chromium v157
+    - Dimensiones de Pantalla: 1600x900
+    - BaterÃÂÃÂ­a: 100% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [24/11/2026, 17:40:38] SesiÃÂÃÂ³n iniciada. ID: 732 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 24/11/2026, 17:40:50]
   - ID de SesiÃÂ³n: 732
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃÂ­a: 100% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [24/11/2026, 17:40:38] SesiÃÂ³n iniciada. ID: 732 (Usuario: Usuario AnÃÂ³nimo)
+    - [24/11/2026, 17:40:50] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/estudiantes.json"
 --------------------------------------------------
-[Registro de sesiÃ³n: 24/11/2026, 17:40:50]
+[Registro de sesiÃ³n: 24/11/2026, 17:41:02]
   - ID de SesiÃ³n: 732
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,10 @@
     - Dimensiones de Pantalla: 1600x900
     - BaterÃ­a: 100% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [24/11/2026, 17:40:50] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/estudiantes.json"
+    - [24/11/2026, 17:41:02] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/lecturas_notificaciones.json"
+    - [24/11/2026, 17:41:02] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/mensajes.json"
 --------------------------------------------------
-[Registro de sesión: 24/11/2026, 17:41:02]
+[Registro de sesión: 24/11/2026, 17:41:15]
   - ID de Sesión: 732
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -33,6 +46,5 @@
     - Dimensiones de Pantalla: 1600x900
     - Batería: 100% (Cargando: Sí)
   - Acciones Realizadas:
-    - [24/11/2026, 17:41:02] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/lecturas_notificaciones.json"
-    - [24/11/2026, 17:41:02] Copiar enlace de archivo: "AULIAVIRTUAL27/ESTUDIANTES/mensajes.json"
+    - [24/11/2026, 17:41:15] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTIFICACIONES/notificaciones.json"
 --------------------------------------------------
