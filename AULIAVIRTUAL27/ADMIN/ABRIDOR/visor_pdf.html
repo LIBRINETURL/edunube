@@ -1,7 +1,154 @@
 <!DOCTYPE html>
 <html lang="es">
-<head><meta charset="UTF-8"><style>body,html{margin:0;padding:0;height:100%;overflow:hidden;background:#1e293b;user-select:none;}iframe{width:100%;height:100%;border:0;}</style></head>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{FILE_NAME}}</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background-color: #f1f5f9;
+      color: #0f172a;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+
+    .viewer-wrapper {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    .topbar {
+      height: 52px;
+      padding: 0 20px;
+      background-color: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+
+    .doc-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .badge-pdf {
+      background-color: #eff6ff;
+      color: #0f6cbf;
+      border: 1px solid #bfdbfe;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 6px;
+      letter-spacing: 0.04em;
+      flex-shrink: 0;
+    }
+
+    .doc-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: #1e293b;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .readonly-pill {
+      font-size: 11px;
+      font-weight: 600;
+      color: #64748b;
+      background-color: #f8fafc;
+      border: 1px solid #e2e8f0;
+      padding: 4px 10px;
+      border-radius: 999px;
+      flex-shrink: 0;
+    }
+
+    .pdf-stage {
+      flex: 1;
+      padding: 16px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f1f5f9;
+      overflow: hidden;
+    }
+
+    .pdf-frame-card {
+      width: 100%;
+      max-width: 1050px;
+      height: 100%;
+      background: #ffffff;
+      border-radius: 12px;
+      border: 1px solid #cbd5e1;
+      box-shadow: 0 4px 16px rgba(15, 23, 42, 0.06);
+      overflow: hidden;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
+    }
+
+    @media (max-width: 640px) {
+      .pdf-stage {
+        padding: 0;
+      }
+      .pdf-frame-card {
+        border-radius: 0;
+        border: 0;
+      }
+      .readonly-pill {
+        display: none;
+      }
+    }
+  </style>
+</head>
 <body oncontextmenu="return false;">
-  <iframe src="{{FILE_DATA_URL}}#toolbar=0&navpanes=0&scrollbar=1"></iframe>
+  <div class="viewer-wrapper">
+    <header class="topbar">
+      <div class="doc-info">
+        <span class="badge-pdf">PDF</span>
+        <span class="doc-title" title="{{FILE_NAME}}">{{FILE_NAME}}</span>
+      </div>
+      <span class="readonly-pill">Solo lectura</span>
+    </header>
+
+    <main class="pdf-stage">
+      <div class="pdf-frame-card">
+        <iframe
+          src="{{FILE_DATA_URL}}#toolbar=0&navpanes=0&scrollbar=1&view=FitH"
+          title="{{FILE_NAME}}">
+        </iframe>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // Bloquea atajos comunes de guardar o imprimir
+    document.addEventListener('keydown', function (e) {
+      if ((e.ctrlKey || e.metaKey) && ['s', 'p', 'u'].includes(e.key.toLowerCase())) {
+        e.preventDefault();
+      }
+    });
+  </script>
 </body>
 </html>
