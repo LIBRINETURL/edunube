@@ -1,60 +1,17 @@
 [
   {
-    "id": 101,
-    "name": "Programación y Desarrollo",
-    "category": "1º Trimestre • Informática",
-    "colorHex": "#0f6cbf",
+    "id": 1795567443178,
+    "name": "FILOSOFIA",
+    "category": "1ºTRIMESTRE",
+    "colorHex": "#a3a19e",
     "inactive": false,
     "topics": [
       {
-        "id": 1001,
-        "title": "Tema 1: Estructuras de control",
-        "description": "Condicionales, bucles y control de flujo.",
-        "contents": [],
-        "subtopics": [
-          {
-            "id": 2001,
-            "title": "Subtema 1.1: Condicionales if / switch",
-            "description": "Ejercicios prácticos de bifurcación.",
-            "contents": []
-          },
-          {
-            "id": 2002,
-            "title": "Subtema 1.2: Bucles for y while",
-            "description": "Iteraciones y optimización.",
-            "contents": []
-          }
-        ]
-      },
-      {
-        "id": 1002,
-        "title": "Tema 2: Funciones y modularidad",
-        "description": "Diseño limpio y reutilización de código.",
+        "id": 1795567473914,
+        "title": "TOMAS DE AQUINO",
+        "description": "",
         "contents": [],
         "subtopics": []
-      }
-    ]
-  },
-  {
-    "id": 102,
-    "name": "Francés: Grammaire",
-    "category": "Idiomas • Nivel B1",
-    "colorHex": "#0284c7",
-    "inactive": false,
-    "topics": [
-      {
-        "id": 1003,
-        "title": "Unité 1: Le passé composé",
-        "description": "Uso de auxiliares avoir y être.",
-        "contents": [],
-        "subtopics": [
-          {
-            "id": 2003,
-            "title": "Subtema 1.1: Participios irregulares",
-            "description": "Lista de verbos frecuentes.",
-            "contents": []
-          }
-        ]
       }
     ]
   }
