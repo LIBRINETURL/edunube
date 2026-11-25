@@ -1,5 +1,25 @@
 [
   {
+    "id": 1795568815549,
+    "type": "sesion",
+    "action": "ACCESO_AULA",
+    "category": "INICIO_SESION",
+    "isLogin": true,
+    "isFileOpen": false,
+    "title": "Inicio de sesión: Antonio (@antonio)",
+    "body": "El alumno Antonio (@antonio) ha accedido correctamente al Aula Virtual 27.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": null,
+    "topicName": null,
+    "subtopicName": null,
+    "fileName": null,
+    "date": "2026-11-25",
+    "timestamp": "25/11/2026, 2:06:54",
+    "read": false
+  },
+  {
     "id": 1795568749134,
     "type": "archivo",
     "action": "ABRIR_ARCHIVO",
