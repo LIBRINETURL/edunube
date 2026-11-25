@@ -1,5 +1,25 @@
 [
   {
+    "id": 1795567598590,
+    "type": "archivo",
+    "action": "ABRIR_ARCHIVO",
+    "category": "APERTURA_ARCHIVO",
+    "isLogin": false,
+    "isFileOpen": true,
+    "title": "Archivo abierto: Glosario Aquinate (FILOSOFIA)",
+    "body": "Antonio (@antonio) ha abierto \"Glosario Aquinate\" (Glosario Aquinate.pdf) en FILOSOFIA → TOMAS DE AQUINO.",
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "FILOSOFIA",
+    "topicName": "TOMAS DE AQUINO",
+    "subtopicName": null,
+    "fileName": "Glosario Aquinate",
+    "date": "2026-11-25",
+    "timestamp": "25/11/2026, 1:46:38",
+    "read": false
+  },
+  {
     "id": 1795567589038,
     "type": "sesion",
     "action": "ACCESO_AULA",
