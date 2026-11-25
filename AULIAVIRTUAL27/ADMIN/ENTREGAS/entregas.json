@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795602614522,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "FILOSOFIA",
+    "exerciseTitle": "Consulta de Material",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ARCHIVO",
+      "detalle": "Antonio (@antonio) ha abierto \"Glosario Aquinate\" (Glosario Aquinate.pdf) en el curso FILOSOFIA.",
+      "timestamp": "25/11/2026, 11:30:14"
+    },
+    "date": "25/11/2026, 11:30:14"
+  },
+  {
     "id": 1795602596315,
     "studentId": 1795461671135,
     "studentName": "Antonio",
