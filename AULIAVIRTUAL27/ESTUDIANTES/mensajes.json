@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": 301,
+    "title": "Bienvenida al curso 2026/27",
+    "body": "Hola @carlosmendoza y @elenanavarro, bienvenidos al entorno virtual.",
+    "mentions": [
+      "carlosmendoza",
+      "elenanavarro"
+    ],
+    "attachments": [],
+    "date": "2026-11-23"
+  }
+]
