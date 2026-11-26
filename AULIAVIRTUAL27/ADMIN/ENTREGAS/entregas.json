@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795727610721,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "FILOSOFIA",
+    "exerciseTitle": "Consulta de Material",
+    "message": "Antonio (@antonio) ha abierto \"Captura de pantalla 2026-05-10 234731.png\" (Captura de pantalla 2026-05-10 234731.png) en el curso FILOSOFIA.",
+    "timestamp": "26/11/2026, 22:13:30",
+    "date": "26/11/2026, 22:13:30"
+  },
+  {
     "id": 1795727583750,
     "type": "login",
     "handle": "antonio",
