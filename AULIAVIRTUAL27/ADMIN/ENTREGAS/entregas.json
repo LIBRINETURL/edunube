@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795712229224,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "FILOSOFIA",
+    "exerciseTitle": "Consulta de Material",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ARCHIVO",
+      "detalle": "Antonio (@antonio) ha abierto \"Texto a comentar\" (Texto a comentar.pdf) en el curso FILOSOFIA.",
+      "timestamp": "26/11/2026, 17:57:09"
+    },
+    "date": "26/11/2026, 17:57:09"
+  },
+  {
     "id": 1795712199935,
     "studentId": 1795461671135,
     "studentName": "Antonio",
