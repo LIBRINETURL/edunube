@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795727583750,
+    "type": "login",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Inicio de Sesión",
+    "message": "Antonio (@antonio) ha iniciado sesión en el Aula Virtual.",
+    "timestamp": "26/11/2026, 22:13:03",
+    "date": "26/11/2026, 22:13:03"
+  },
+  {
     "id": 1795727245946,
     "studentId": 1795461671135,
     "studentName": "Antonio",
