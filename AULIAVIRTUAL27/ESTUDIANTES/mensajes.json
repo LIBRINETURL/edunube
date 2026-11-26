@@ -1,5 +1,24 @@
 [
   {
+    "id": 1795727965646,
+    "title": "Deberes lengua 27/11/26 (prueba de sistema)",
+    "body": "Hola @todos los deberes para el viernes 27/11/26 son los adjuntados",
+    "mentions": [
+      "yasmine",
+      "ja",
+      "antonio"
+    ],
+    "attachments": [
+      {
+        "diskFileId": 1795727909780,
+        "name": "Repaso examen para viernes 27_11.pdf",
+        "ext": "pdf",
+        "cloudPath": "AULIAVIRTUAL27/DISCO/Lengua_1_trimestre/Cohesion/Deberes_del_271126/1795727909780_Repaso_examen_para_viernes_27_11.pdf"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  {
     "id": 1795727046678,
     "title": "MATERIAL DE PRUEBA",
     "body": "Hola @antonio",
