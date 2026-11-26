@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795724834761,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Apertura de Archivo Adjunto",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ADJUNTO",
+      "detalle": "Antonio (@antonio) ha abierto el archivo adjunto \"descarga (1).jpg\".",
+      "timestamp": "26/11/2026, 21:27:14"
+    },
+    "date": "26/11/2026, 21:27:14"
+  },
+  {
     "id": 1795724828730,
     "studentId": 1795461671135,
     "studentName": "Antonio",
