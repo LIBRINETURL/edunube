@@ -43,25 +43,21 @@
     }
     button:hover { background: #334155; }
     
-    /* Contenedor con scroll habilitado para subir y bajar */
+    /* Contenedor sin barras, preparado para arrastrar */
     .canvas-container {
       flex: 1;
-      overflow: auto; /* Permite scroll vertical y horizontal sin bloqueos */
+      overflow: hidden;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 40px;
       background-image: radial-gradient(#1e293b 1.2px, transparent 1.2px);
       background-size: 22px 22px;
       position: relative;
+      cursor: grab;
+      touch-action: none;
     }
-    
-    .img-wrapper {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-width: 100%;
-      min-height: 100%;
+    .canvas-container:active {
+      cursor: grabbing;
     }
 
     img {
@@ -69,7 +65,7 @@
       max-height: 85vh;
       object-fit: contain;
       transform-origin: center center;
-      transition: transform 0.1s ease;
+      transition: transform 0.05s ease-out;
       box-shadow: 0 15px 35px rgba(0,0,0,0.5);
       border-radius: 4px;
       pointer-events: none;
@@ -89,22 +85,24 @@
   </div>
 
   <div class="canvas-container" id="container">
-    <div class="img-wrapper">
-      <img id="preview-img" alt="{{FILE_NAME}}" draggable="false">
-    </div>
+    <img id="preview-img" alt="{{FILE_NAME}}" draggable="false">
   </div>
 
   <script id="raw-data" type="text/plain">{{FILE_DATA_URL}}</script>
 
   <script>
     let scale = 1, rotation = 0;
+    let panX = 0, panY = 0;
+    let isDragging = false, startX = 0, startY = 0;
+
     const img = document.getElementById('preview-img');
+    const container = document.getElementById('container');
     const dataUrl = document.getElementById('raw-data').textContent.trim();
     
     if (dataUrl) img.src = dataUrl;
 
     function update() {
-      img.style.transform = `scale(${scale}) rotate(${rotation}deg)`;
+      img.style.transform = `translate(${panX}px, ${panY}px) scale(${scale}) rotate(${rotation}deg)`;
     }
     
     function zoom(d) {
@@ -120,6 +118,8 @@
     function resetView() {
       scale = 1;
       rotation = 0;
+      panX = 0;
+      panY = 0;
       update();
     }
     
@@ -127,6 +127,30 @@
       if (!document.fullscreenElement) document.documentElement.requestFullscreen();
       else document.exitFullscreen();
     }
+
+    // Funciones de arrastre con ratón o táctil (Drag to Pan)
+    container.addEventListener('pointerdown', (e) => {
+      isDragging = true;
+      startX = e.clientX - panX;
+      startY = e.clientY - panY;
+      container.setPointerCapture(e.pointerId);
+    });
+
+    container.addEventListener('pointermove', (e) => {
+      if (!isDragging) return;
+      panX = e.clientX - startX;
+      panY = e.clientY - startY;
+      update();
+    });
+
+    container.addEventListener('pointerup', (e) => {
+      isDragging = false;
+      try { container.releasePointerCapture(e.pointerId); } catch(err) {}
+    });
+
+    container.addEventListener('pointercancel', () => {
+      isDragging = false;
+    });
   </script>
 </body>
 </html>
