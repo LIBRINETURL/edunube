@@ -1,223 +1,238 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{FILE_NAME}}</title>
-    <!-- Importamos PDF.js desde CDN -->
-    <script src="https://cloudflare.com"></script>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            user-select: none; /* Evita seleccionar texto */
-            -webkit-user-select: none;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{FILE_NAME}}</title>
+  <!-- Importamos PDF.js desde CDN -->
+  <script src="https://cloudflare.com"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-        body {
-            background-color: #2b2b2b;
-            color: #ffffff;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
-            overflow: hidden;
-        }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #1e1e1e;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow: hidden;
+      /* Evita selección de texto y menú contextual básico */
+      user-select: none;
+      -webkit-user-select: none;
+    }
 
-        /* Barra superior personalizada sin botones de descarga */
-        header {
-            background-color: #1e1e1e;
-            padding: 12px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.4);
-            z-index: 10;
-        }
+    /* Barra superior de controles */
+    header {
+      background-color: #2d2d2d;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #3d3d3d;
+      z-index: 10;
+    }
 
-        .file-title {
-            font-size: 15px;
-            font-weight: 500;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            max-width: 40%;
-        }
+    .file-title {
+      font-size: 14px;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 40%;
+    }
 
-        .controls {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
 
-        button {
-            background-color: #3a3a3a;
-            color: white;
-            border: 1px solid #555;
-            padding: 6px 12px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 13px;
-            transition: background 0.2s;
-        }
+    button {
+      background-color: #3d3d3d;
+      color: #ffffff;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: background-color 0.2s;
+    }
 
-        button:hover {
-            background-color: #505050;
-        }
+    button:hover:not(:disabled) {
+      background-color: #505050;
+    }
 
-        button:disabled {
-            opacity: 0.4;
-            cursor: not-allowed;
-        }
+    button:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
 
-        #page-info {
-            font-size: 13px;
-            min-width: 90px;
-            text-align: center;
-        }
+    .page-info, .zoom-info {
+      font-size: 13px;
+      min-width: 60px;
+      text-align: center;
+    }
 
-        /* Contenedor del lienzo (Canvas) */
-        #viewer-container {
-            flex: 1;
-            overflow: auto;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            padding: 20px;
-        }
+    /* Contenedor del documento */
+    #viewer-container {
+      flex: 1;
+      overflow: auto;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 20px;
+    }
 
-        canvas {
-            box-shadow: 0 4px 15px rgba(0,0,0,0.6);
-            max-width: 100%;
-            height: auto;
-        }
+    canvas {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+      background-color: #ffffff;
+      max-width: 100%;
+      height: auto;
+    }
 
-        /* Ocultar todo si el usuario intenta imprimir la página (Ctrl+P) */
-        @media print {
-            body {
-                display: none !important;
-            }
-        }
-    </style>
+    #loader {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 15px;
+      color: #cccccc;
+    }
+  </style>
 </head>
-<body oncontextmenu="return false;"> <!-- Bloquea el menú contextual (clic derecho) -->
+<!-- Bloqueamos clic derecho en todo el documento -->
+<body oncontextmenu="return false;">
 
-    <header>
-        <div class="file-title" title="{{FILE_NAME}}">{{FILE_NAME}}</div>
-        
-        <div class="controls">
-            <button id="prev-page">Anterior</button>
-            <span id="page-info">Página <span id="page-num">0</span> / <span id="page-count">0</span></span>
-            <button id="next-page">Siguiente</button>
-            <button id="zoom-out">-</button>
-            <button id="zoom-in">+</button>
-        </div>
-    </header>
-
-    <div id="viewer-container">
-        <canvas id="pdf-render"></canvas>
+  <header>
+    <div class="file-title" title="{{FILE_NAME}}">{{FILE_NAME}}</div>
+    
+    <div class="controls">
+      <button id="prev-page" disabled>Anterior</button>
+      <span class="page-info"><span id="page-num">0</span> / <span id="page-count">0</span></span>
+      <button id="next-page" disabled>Siguiente</button>
+      
+      <span style="color: #555;">|</span>
+      
+      <button id="zoom-out">-</button>
+      <span class="zoom-info" id="zoom-level">100%</span>
+      <button id="zoom-in">+</button>
     </div>
+  </header>
 
-    <script>
-        // Variables inyectadas por tu backend / plantilla
-        const fileDataUrl = "{{FILE_DATA_URL}}";
-        const fileName = "{{FILE_NAME}}";
+  <div id="viewer-container">
+    <div id="loader">Cargando documento...</div>
+    <canvas id="pdf-render" style="display: none;"></canvas>
+  </div>
 
-        // Configuración del Worker de PDF.js
-        const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cloudflare.com';
+  <script>
+    // Configuración del worker de PDF.js
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cloudflare.com';
 
-        let pdfDoc = null,
-            pageNum = 1,
-            pageIsRendering = false,
-            pageNumIsPending = null,
-            scale = 1.3; // Zoom inicial
+    // Inyección de la variable de tu app
+    const url = "{{FILE_DATA_URL}}";
 
-        const canvas = document.getElementById('pdf-render'),
-              ctx = canvas.getContext('2d');
+    let pdfDoc = null,
+        pageNum = 1,
+        pageIsRendering = false,
+        pageNumIsPending = null,
+        scale = 1.2;
 
-        // Función para renderizar la página
-        const renderPage = num => {
-            pageIsRendering = true;
+    const canvas = document.getElementById('pdf-render'),
+          ctx = canvas.getContext('2d'),
+          loader = document.getElementById('loader');
 
-            pdfDoc.getPage(num).then(page => {
-                const viewport = page.getViewport({ scale });
-                canvas.height = viewport.height;
-                canvas.width = viewport.width;
+    // Renderizar página
+    const renderPage = num => {
+      pageIsRendering = true;
 
-                const renderCtx = {
-                    canvasContext: ctx,
-                    viewport: viewport
-                };
+      pdfDoc.getPage(num).then(page => {
+        const viewport = page.getViewport({ scale });
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
 
-                page.render(renderCtx).promise.then(() => {
-                    pageIsRendering = false;
-
-                    if (pageNumIsPending !== null) {
-                        renderPage(pageNumIsPending);
-                        pageNumIsPending = null;
-                    }
-                });
-
-                // Actualizar contador de páginas y botones
-                document.getElementById('page-num').textContent = num;
-                document.getElementById('prev-page').disabled = (num <= 1);
-                document.getElementById('next-page').disabled = (num >= pdfDoc.numPages);
-            });
+        const renderCtx = {
+          canvasContext: ctx,
+          viewport: viewport
         };
 
-        // Cola de renderizado si el usuario cambia rápido de página
-        const queueRenderPage = num => {
-            if (pageIsRendering) {
-                pageNumIsPending = num;
-            } else {
-                renderPage(num);
-            }
-        };
-
-        // Controles de navegación y zoom
-        document.getElementById('prev-page').addEventListener('click', () => {
-            if (pageNum <= 1) return;
-            pageNum--;
-            queueRenderPage(pageNum);
+        page.render(renderCtx).promise.then(() => {
+          pageIsRendering = false;
+          if (pageNumIsPending !== null) {
+            renderPage(pageNumIsPending);
+            pageNumIsPending = null;
+          }
         });
 
-        document.getElementById('next-page').addEventListener('click', () => {
-            if (pageNum >= pdfDoc.numPages) return;
-            pageNum++;
-            queueRenderPage(pageNum);
-        });
+        document.getElementById('page-num').textContent = num;
+        updateButtons();
+      });
+    };
 
-        document.getElementById('zoom-in').addEventListener('click', () => {
-            if (scale >= 3.0) return;
-            scale += 0.25;
-            queueRenderPage(pageNum);
-        });
+    // Cola de renderizado si el usuario cambia rápido de página
+    const queueRenderPage = num => {
+      if (pageIsRendering) {
+        pageNumIsPending = num;
+      } else {
+        renderPage(num);
+      }
+    };
 
-        document.getElementById('zoom-out').addEventListener('click', () => {
-            if (scale <= 0.5) return;
-            scale -= 0.25;
-            queueRenderPage(pageNum);
-        });
+    // Actualizar estado de botones
+    const updateButtons = () => {
+      document.getElementById('prev-page').disabled = (pageNum <= 1);
+      document.getElementById('next-page').disabled = (pageNum >= pdfDoc.numPages);
+      document.getElementById('zoom-level').textContent = `${Math.round((scale / 1.2) * 100)}%`;
+    };
 
-        // Bloquear atajos de teclado para guardar (Ctrl+S) o imprimir (Ctrl+P)
-        document.addEventListener('keydown', (e) => {
-            if ((e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'p' || e.key === 'S' || e.key === 'P')) {
-                e.preventDefault();
-            }
-        });
+    // Eventos de navegación
+    document.getElementById('prev-page').addEventListener('click', () => {
+      if (pageNum <= 1) return;
+      pageNum--;
+      queueRenderPage(pageNum);
+    });
 
-        // Cargar el documento desde {{FILE_DATA_URL}}
-        pdfjsLib.getDocument(fileDataUrl).promise.then(pdfDoc_ => {
-            pdfDoc = pdfDoc_;
-            document.getElementById('page-count').textContent = pdfDoc.numPages;
-            renderPage(pageNum);
-        }).catch(err => {
-            console.error('Error al cargar el PDF:', err);
-            document.getElementById('viewer-container').innerHTML = 
-                `<p style="color: #ff6b6b; margin-top: 20px;">No se pudo cargar el documento: ${fileName}</p>`;
-        });
-    </script>
+    document.getElementById('next-page').addEventListener('click', () => {
+      if (pageNum >= pdfDoc.numPages) return;
+      pageNum++;
+      queueRenderPage(pageNum);
+    });
+
+    // Eventos de Zoom
+    document.getElementById('zoom-in').addEventListener('click', () => {
+      if (scale >= 3.0) return;
+      scale += 0.2;
+      queueRenderPage(pageNum);
+    });
+
+    document.getElementById('zoom-out').addEventListener('click', () => {
+      if (scale <= 0.6) return;
+      scale -= 0.2;
+      queueRenderPage(pageNum);
+    });
+
+    // Bloquear atajos de teclado comunes (Ctrl+S, Ctrl+P)
+    document.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'p')) {
+        e.preventDefault();
+      }
+    });
+
+    // Cargar el documento PDF
+    pdfjsLib.getDocument(url).promise.then(pdfDoc_ => {
+      pdfDoc = pdfDoc_;
+      document.getElementById('page-count').textContent = pdfDoc.numPages;
+      loader.style.display = 'none';
+      canvas.style.display = 'block';
+      renderPage(pageNum);
+    }).catch(err => {
+      loader.textContent = 'Error al cargar el documento.';
+      console.error(err);
+    });
+  </script>
 </body>
 </html>
