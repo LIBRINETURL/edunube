@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{FILE_NAME}}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #0b1120;
+      color: #f8fafc;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      user-select: none;
+    }
+    .toolbar {
+      background: #111827;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid #334155;
+      gap: 10px;
+      z-index: 10;
+    }
+    .file-name {
+      font-size: 13px; font-weight: 600; overflow: hidden;
+      text-overflow: ellipsis; white-space: nowrap; max-width: 50%; color: #e2e8f0;
+    }
+    .controls { display: flex; align-items: center; gap: 6px; }
+    button {
+      background: #1e293b; color: #f8fafc; border: 1px solid #334155;
+      padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 600; cursor: pointer;
+    }
+    button:hover { background: #334155; }
+    .canvas {
+      flex: 1; display: flex; align-items: center; justify-content: center;
+      overflow: auto; padding: 24px; background-image: radial-gradient(#1e293b 1.2px, transparent 1.2px); background-size: 22px 22px;
+    }
+    img {
+      max-width: 100%; max-height: 100%; object-fit: contain;
+      transition: transform 0.15s ease; box-shadow: 0 15px 35px rgba(0,0,0,0.5);
+      border-radius: 4px; pointer-events: none;
+    }
+  </style>
+</head>
+<body oncontextmenu="return false;">
+  <div class="toolbar">
+    <span class="file-name">🖼️ {{FILE_NAME}}</span>
+    <div class="controls">
+      <button onclick="zoom(-0.25)">➖</button>
+      <button onclick="resetView()">100%</button>
+      <button onclick="zoom(0.25)">➕</button>
+      <button onclick="rotateImg()">↻ Rotar</button>
+      <button onclick="toggleFS()">⛶</button>
+    </div>
+  </div>
+
+  <div class="canvas">
+    <img id="preview-img" alt="{{FILE_NAME}}" draggable="false">
+  </div>
+
+  <script id="raw-data" type="text/plain">{{FILE_DATA_URL}}</script>
+
+  <script>
+    let scale = 1, rotation = 0;
+    const img = document.getElementById('preview-img');
+    const dataUrl = document.getElementById('raw-data').textContent.trim();
+    if (dataUrl) img.src = dataUrl;
+
+    function update() { img.style.transform = `scale(${scale}) rotate(${rotation}deg)`; }
+    function zoom(d) { scale = Math.max(0.2, Math.min(4, scale + d)); update(); }
+    function rotateImg() { rotation = (rotation + 90) % 360; update(); }
+    function resetView() { scale = 1; rotation = 0; update(); }
+    function toggleFS() { if (!document.fullscreenElement) document.documentElement.requestFullscreen(); else document.exitFullscreen(); }
+  </script>
+</body>
+</html>
