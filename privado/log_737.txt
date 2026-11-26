@@ -1,5 +1,17 @@
 
-[Registro de sesiÃÂ³n: 26/11/2026, 17:31:14]
+[Registro de sesiÃÂÃÂ³n: 26/11/2026, 17:31:14]
+  - ID de SesiÃÂÃÂ³n: 737
+  - Apodo: Usuario AnÃÂÃÂ³nimo
+  - IP: 89.32.84.63
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v158, Not.A/Brand v24, Google Chrome v158
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃÂÃÂ­a: 0% (Cargando: SÃÂÃÂ­)
+  - Acciones Realizadas:
+    - [26/11/2026, 17:31:14] SesiÃÂÃÂ³n iniciada. ID: 737 (Usuario: Usuario AnÃÂÃÂ³nimo)
+--------------------------------------------------
+[Registro de sesiÃÂ³n: 26/11/2026, 17:31:31]
   - ID de SesiÃÂ³n: 737
   - Apodo: Usuario AnÃÂ³nimo
   - IP: 89.32.84.63
@@ -9,9 +21,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃÂ­a: 0% (Cargando: SÃÂ­)
   - Acciones Realizadas:
-    - [26/11/2026, 17:31:14] SesiÃÂ³n iniciada. ID: 737 (Usuario: Usuario AnÃÂ³nimo)
+    - [26/11/2026, 17:31:31] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTIFICACIONES/actividad_alumnos.json"
 --------------------------------------------------
-[Registro de sesiÃ³n: 26/11/2026, 17:31:31]
+[Registro de sesiÃ³n: 26/11/2026, 17:31:41]
   - ID de SesiÃ³n: 737
   - Apodo: Usuario AnÃ³nimo
   - IP: 89.32.84.63
@@ -21,9 +33,9 @@
     - Dimensiones de Pantalla: 1280x720
     - BaterÃ­a: 0% (Cargando: SÃ­)
   - Acciones Realizadas:
-    - [26/11/2026, 17:31:31] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTIFICACIONES/actividad_alumnos.json"
+    - [26/11/2026, 17:31:41] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTIFICACIONES/notificaciones.json"
 --------------------------------------------------
-[Registro de sesión: 26/11/2026, 17:31:41]
+[Registro de sesión: 26/11/2026, 17:31:51]
   - ID de Sesión: 737
   - Apodo: Usuario Anónimo
   - IP: 89.32.84.63
@@ -33,5 +45,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [26/11/2026, 17:31:41] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTIFICACIONES/notificaciones.json"
+    - [26/11/2026, 17:31:51] Copiar enlace de archivo: "AULIAVIRTUAL27/ADMIN/NOTS/notificaciones.json"
 --------------------------------------------------
