@@ -1,25 +1,36 @@
 [
   {
-    "id": 1795728437262,
+    "id": 1795728438430,
     "type": "activity",
     "handle": "antonio",
     "studentName": "Antonio",
     "courseName": "Sistema General",
     "exerciseTitle": "Apertura de Archivo Adjunto",
     "message": "Antonio (@antonio) ha abierto el archivo adjunto \"El_gran_capitán_(Museo_del_Prado).jpg\".",
-    "timestamp": "26/11/2026, 22:27:17",
-    "date": "26/11/2026, 22:27:17"
+    "timestamp": "26/11/2026, 22:27:18",
+    "date": "26/11/2026, 22:27:18"
   },
   {
-    "id": 1795728434598,
+    "id": 1795728436159,
     "type": "activity",
     "handle": "antonio",
     "studentName": "Antonio",
     "courseName": "Sistema General",
     "exerciseTitle": "Apertura de Archivo Adjunto",
     "message": "Antonio (@antonio) ha abierto el archivo adjunto \"El_gran_capitán_(Museo_del_Prado).jpg\".",
-    "timestamp": "26/11/2026, 22:27:14",
-    "date": "26/11/2026, 22:27:14"
+    "timestamp": "26/11/2026, 22:27:16",
+    "date": "26/11/2026, 22:27:16"
+  },
+  {
+    "id": 1795728433643,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Apertura de Archivo Adjunto",
+    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"El_gran_capitán_(Museo_del_Prado).jpg\".",
+    "timestamp": "26/11/2026, 22:27:13",
+    "date": "26/11/2026, 22:27:13"
   },
   {
     "id": 1795727610721,
