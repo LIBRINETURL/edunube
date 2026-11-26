@@ -5,139 +5,115 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{FILE_NAME}}</title>
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      user-select: none; /* Evita selección de texto/imagen */
-      -webkit-user-select: none;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background-color: #121212;
-      color: #f1f1f1;
       font-family: system-ui, -apple-system, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      height: 100vh;
       display: flex;
       flex-direction: column;
-      height: 100vh;
       overflow: hidden;
+      user-select: none;
     }
-
-    /* Barra superior */
-    header {
-      background-color: #1e1e1e;
-      padding: 12px 20px;
+    .toolbar {
+      background: #1e293b;
+      padding: 10px 16px;
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      border-bottom: 1px solid #333;
+      justify-content: space-between;
+      border-bottom: 1px solid #334155;
+      gap: 10px;
       z-index: 10;
     }
-
-    .file-title {
-      font-size: 15px;
-      font-weight: 500;
-      white-space: nowrap;
+    .file-name {
+      font-size: 13px;
+      font-weight: 600;
       overflow: hidden;
       text-overflow: ellipsis;
-      max-width: 60%;
+      white-space: nowrap;
+      max-width: 50%;
     }
-
-    /* Controles de zoom */
     .controls {
       display: flex;
-      gap: 8px;
+      align-items: center;
+      gap: 6px;
     }
-
     button {
-      background-color: #2d2d2d;
-      color: #fff;
-      border: 1px solid #444;
-      padding: 6px 12px;
-      border-radius: 6px;
+      background: #334155;
+      color: #f8fafc;
+      border: none;
+      padding: 6px 11px;
+      border-radius: 7px;
+      font-size: 12px;
+      font-weight: 600;
       cursor: pointer;
-      font-size: 14px;
-      transition: background 0.2s;
     }
-
-    button:hover {
-      background-color: #3d3d3d;
-    }
-
-    /* Área de visualización */
-    .viewer-container {
+    button:hover { background: #475569; }
+    .canvas {
       flex: 1;
       display: flex;
-      justify-content: center;
       align-items: center;
+      justify-content: center;
       overflow: auto;
-      position: relative;
       padding: 20px;
+      background-image: radial-gradient(#334155 1px, transparent 1px);
+      background-size: 20px 20px;
     }
-
-    /* Capa transparente para bloquear arrastre e interacción directa con la imagen */
-    .shield {
-      position: relative;
-      display: inline-block;
-    }
-
-    .shield::after {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: transparent;
-      z-index: 5;
-    }
-
     img {
       max-width: 100%;
-      max-height: 82vh;
+      max-height: 100%;
       object-fit: contain;
       transition: transform 0.2s ease;
-      pointer-events: none; /* Impide arrastrar la imagen */
+      box-shadow: 0 10px 25px rgba(0,0,0,0.5);
       border-radius: 4px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+      pointer-events: none;
     }
   </style>
 </head>
-<body oncontextmenu="return false;"> <!-- Bloquea menú contextual (clic derecho) -->
-
-  <header>
-    <div class="file-title" title="{{FILE_NAME}}">{{FILE_NAME}}</div>
+<body oncontextmenu="return false;">
+  <div class="toolbar">
+    <span class="file-name">🖼️ {{FILE_NAME}}</span>
     <div class="controls">
-      <button onclick="cambiarZoom(-0.2)">➖ Alejar</button>
-      <button onclick="resetZoom()">100%</button>
-      <button onclick="cambiarZoom(0.2)">➕ Acercar</button>
+      <button onclick="zoom(-0.2)">➖</button>
+      <button onclick="resetView()">100%</button>
+      <button onclick="zoom(0.2)">➕</button>
+      <button onclick="rotate()">↻ Rotar</button>
     </div>
-  </header>
+  </div>
 
-  <main class="viewer-container">
-    <div class="shield">
-      <img id="imagenVisor" src="{{FILE_DATA_URL}}" alt="{{FILE_NAME}}" draggable="false">
-    </div>
-  </main>
+  <div class="canvas">
+    <img id="preview-img" alt="{{FILE_NAME}}" draggable="false">
+  </div>
+
+  <script id="raw-data" type="text/plain">{{FILE_DATA_URL}}</script>
 
   <script>
-    let escala = 1;
-    const img = document.getElementById('imagenVisor');
+    let scale = 1;
+    let rotation = 0;
+    const img = document.getElementById('preview-img');
+    const dataUrl = document.getElementById('raw-data').textContent.trim();
 
-    function cambiarZoom(delta) {
-      escala = Math.min(Math.max(0.4, escala + delta), 3); // Límite entre 40% y 300%
-      img.style.transform = `scale(${escala})`;
+    if (dataUrl) {
+      img.src = dataUrl;
     }
 
-    function resetZoom() {
-      escala = 1;
-      img.style.transform = 'scale(1)';
+    function updateTransform() {
+      img.style.transform = `scale(${scale}) rotate(${rotation}deg)`;
     }
-
-    // Bloquea atajos comunes de guardado (Ctrl+S / Cmd+S)
-    document.addEventListener('keydown', function(e) {
-      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 's') {
-        e.preventDefault();
-      }
-    });
+    function zoom(delta) {
+      scale = Math.max(0.2, Math.min(4, scale + delta));
+      updateTransform();
+    }
+    function rotate() {
+      rotation = (rotation + 90) % 360;
+      updateTransform();
+    }
+    function resetView() {
+      scale = 1;
+      rotation = 0;
+      updateTransform();
+    }
   </script>
-
 </body>
 </html>
