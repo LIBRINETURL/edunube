@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795727150122,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "FILOSOFIA",
+    "exerciseTitle": "Consulta de Material",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "VER_ARCHIVO",
+      "detalle": "Antonio (@antonio) ha abierto \"Captura de pantalla 2026-05-10 234731.png\" (Captura de pantalla 2026-05-10 234731.png) en el curso FILOSOFIA.",
+      "timestamp": "26/11/2026, 22:05:50"
+    },
+    "date": "26/11/2026, 22:05:50"
+  },
+  {
     "id": 1795727141207,
     "studentId": 1795461671135,
     "studentName": "Antonio",
