@@ -1,7 +1,143 @@
 <!DOCTYPE html>
 <html lang="es">
-<head><meta charset="UTF-8"><style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#0f172a;user-select:none;}img{max-width:95vw;max-height:95vh;pointer-events:none;border-radius:8px;box-shadow:0 10px 25px rgba(0,0,0,.5);}</style></head>
-<body oncontextmenu="return false;">
-  <img src="{{FILE_DATA_URL}}" alt="{{FILE_NAME}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{FILE_NAME}}</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      user-select: none; /* Evita selección de texto/imagen */
+      -webkit-user-select: none;
+    }
+
+    body {
+      background-color: #121212;
+      color: #f1f1f1;
+      font-family: system-ui, -apple-system, sans-serif;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* Barra superior */
+    header {
+      background-color: #1e1e1e;
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #333;
+      z-index: 10;
+    }
+
+    .file-title {
+      font-size: 15px;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 60%;
+    }
+
+    /* Controles de zoom */
+    .controls {
+      display: flex;
+      gap: 8px;
+    }
+
+    button {
+      background-color: #2d2d2d;
+      color: #fff;
+      border: 1px solid #444;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background 0.2s;
+    }
+
+    button:hover {
+      background-color: #3d3d3d;
+    }
+
+    /* Área de visualización */
+    .viewer-container {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: auto;
+      position: relative;
+      padding: 20px;
+    }
+
+    /* Capa transparente para bloquear arrastre e interacción directa con la imagen */
+    .shield {
+      position: relative;
+      display: inline-block;
+    }
+
+    .shield::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: transparent;
+      z-index: 5;
+    }
+
+    img {
+      max-width: 100%;
+      max-height: 82vh;
+      object-fit: contain;
+      transition: transform 0.2s ease;
+      pointer-events: none; /* Impide arrastrar la imagen */
+      border-radius: 4px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    }
+  </style>
+</head>
+<body oncontextmenu="return false;"> <!-- Bloquea menú contextual (clic derecho) -->
+
+  <header>
+    <div class="file-title" title="{{FILE_NAME}}">{{FILE_NAME}}</div>
+    <div class="controls">
+      <button onclick="cambiarZoom(-0.2)">➖ Alejar</button>
+      <button onclick="resetZoom()">100%</button>
+      <button onclick="cambiarZoom(0.2)">➕ Acercar</button>
+    </div>
+  </header>
+
+  <main class="viewer-container">
+    <div class="shield">
+      <img id="imagenVisor" src="{{FILE_DATA_URL}}" alt="{{FILE_NAME}}" draggable="false">
+    </div>
+  </main>
+
+  <script>
+    let escala = 1;
+    const img = document.getElementById('imagenVisor');
+
+    function cambiarZoom(delta) {
+      escala = Math.min(Math.max(0.4, escala + delta), 3); // Límite entre 40% y 300%
+      img.style.transform = `scale(${escala})`;
+    }
+
+    function resetZoom() {
+      escala = 1;
+      img.style.transform = 'scale(1)';
+    }
+
+    // Bloquea atajos comunes de guardado (Ctrl+S / Cmd+S)
+    document.addEventListener('keydown', function(e) {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 's') {
+        e.preventDefault();
+      }
+    });
+  </script>
+
 </body>
 </html>
