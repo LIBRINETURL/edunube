@@ -1,49 +1,5 @@
 [
   {
-    "id": 1795731194719,
-    "type": "activity",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Apertura de Archivo Adjunto",
-    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"Repaso examen para viernes 27_11.pdf\".",
-    "timestamp": "26/11/2026, 23:13:14",
-    "date": "26/11/2026, 23:13:14"
-  },
-  {
-    "id": 1795731191878,
-    "type": "activity",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Apertura de Archivo Adjunto",
-    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"El_gran_capitán_(Museo_del_Prado).jpg\".",
-    "timestamp": "26/11/2026, 23:13:11",
-    "date": "26/11/2026, 23:13:11"
-  },
-  {
-    "id": 1795731131120,
-    "type": "activity",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Apertura de Archivo Adjunto",
-    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"Repaso examen para viernes 27_11.pdf\".",
-    "timestamp": "26/11/2026, 23:12:11",
-    "date": "26/11/2026, 23:12:11"
-  },
-  {
-    "id": 1795731128149,
-    "type": "login",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Inicio de Sesión",
-    "message": "Antonio (@antonio) ha iniciado sesión en el Aula Virtual.",
-    "timestamp": "26/11/2026, 23:12:08",
-    "date": "26/11/2026, 23:12:08"
-  },
-  {
     "id": 1795729504302,
     "type": "activity",
     "handle": "antonio",
