@@ -1,5 +1,21 @@
 [
   {
+    "id": 1795724823037,
+    "studentId": 1795461671135,
+    "studentName": "Antonio",
+    "studentHandle": "@antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Inicio de Sesión",
+    "score": "N/A",
+    "maxScore": "N/A",
+    "answers": {
+      "tipoActividad": "ACCESO_APP",
+      "detalle": "Antonio (@antonio) ha iniciado sesión en el Aula Virtual.",
+      "timestamp": "26/11/2026, 21:27:03"
+    },
+    "date": "26/11/2026, 21:27:03"
+  },
+  {
     "id": 1795712229224,
     "studentId": 1795461671135,
     "studentName": "Antonio",
