@@ -1,5 +1,17 @@
 
-[Registro de sesión: 27/11/2026, 0:09:26]
+[Registro de sesiÃ³n: 27/11/2026, 0:09:26]
+  - ID de SesiÃ³n: 739
+  - Apodo: Usuario AnÃ³nimo
+  - IP: 85.86.57.224
+  - Dispositivo:
+    - Sistema Operativo: Windows
+    - Navegador: Chromium v158, Not.A/Brand v24, Google Chrome v158
+    - Dimensiones de Pantalla: 1280x720
+    - BaterÃ­a: 0% (Cargando: SÃ­)
+  - Acciones Realizadas:
+    - [27/11/2026, 0:09:26] SesiÃ³n iniciada. ID: 739 (Usuario: Usuario AnÃ³nimo)
+--------------------------------------------------
+[Registro de sesión: 27/11/2026, 0:09:42]
   - ID de Sesión: 739
   - Apodo: Usuario Anónimo
   - IP: 85.86.57.224
@@ -9,5 +21,5 @@
     - Dimensiones de Pantalla: 1280x720
     - Batería: 0% (Cargando: Sí)
   - Acciones Realizadas:
-    - [27/11/2026, 0:09:26] Sesión iniciada. ID: 739 (Usuario: Usuario Anónimo)
+    - [27/11/2026, 0:09:42] Eliminar archivo: "AULIAVIRTUAL27/ADMIN/ENTREGAS/entregas.json"
 --------------------------------------------------
