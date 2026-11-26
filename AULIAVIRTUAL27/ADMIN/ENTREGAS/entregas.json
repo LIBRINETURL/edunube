@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795729003288,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Apertura de Archivo Adjunto",
+    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"El_gran_capitán_(Museo_del_Prado).jpg\".",
+    "timestamp": "26/11/2026, 22:36:43",
+    "date": "26/11/2026, 22:36:43"
+  },
+  {
     "id": 1795728994842,
     "type": "activity",
     "handle": "antonio",
