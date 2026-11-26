@@ -4,11 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{FILE_NAME}}</title>
+  <!-- Incluimos PDF.js y su worker desde CDN oficial -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  </script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: system-ui, -apple-system, sans-serif;
-      background: #1e293b;
+      background: #0f172a;
       color: #f8fafc;
       height: 100vh;
       display: flex;
@@ -16,13 +21,14 @@
       overflow: hidden;
     }
     .toolbar {
-      background: #0f172a;
+      background: #1e293b;
       padding: 10px 16px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       border-bottom: 1px solid #334155;
       gap: 12px;
+      z-index: 10;
     }
     .file-title {
       font-size: 13px;
@@ -30,68 +36,112 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      max-width: 35%;
     }
-    .btn-download {
-      background: #0f6cbf;
-      color: white;
-      text-decoration: none;
-      padding: 6px 14px;
-      border-radius: 8px;
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    button, a.btn {
+      background: #334155;
+      color: #f8fafc;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 7px;
       font-size: 12px;
       font-weight: 600;
-      white-space: nowrap;
       cursor: pointer;
-      border: none;
+      text-decoration: none;
     }
-    .btn-download:hover { background: #0a4f8a; }
-    #pdf-container {
+    button:hover, a.btn:hover { background: #475569; }
+    button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-primary { background: #0f6cbf; }
+    .btn-primary:hover { background: #0a4f8a; }
+    .viewer-container {
       flex: 1;
-      width: 100%;
-      height: 100%;
-      border: none;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      overflow: auto;
+      padding: 24px;
+      background-image: radial-gradient(#334155 1px, transparent 1px);
+      background-size: 20px 20px;
     }
-    .error-box {
-      padding: 2rem;
-      text-align: center;
+    canvas {
+      box-shadow: 0 15px 35px rgba(0,0,0,0.5);
+      border-radius: 4px;
+      background: white;
+      max-width: 100%;
+    }
+    .loading {
       margin: auto;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
     }
   </style>
 </head>
 <body>
   <div class="toolbar">
     <span class="file-title">📄 {{FILE_NAME}}</span>
-    <a id="download-link" class="btn-download" download="{{FILE_NAME}}">⬇ Descargar PDF</a>
+    <div class="controls">
+      <button id="prev-page" onclick="onPrevPage()">◀ Anterior</button>
+      <span style="font-size: 12px; font-weight: 600;" id="page-info">Pág: - / -</span>
+      <button id="next-page" onclick="onNextPage()">Siguiente ▶</button>
+      <button onclick="zoomOut()">➖</button>
+      <button onclick="zoomIn()">➕</button>
+      <a id="download-btn" class="btn btn-primary" download="{{FILE_NAME}}">⬇ Descargar</a>
+    </div>
   </div>
-  <iframe id="pdf-container"></iframe>
 
-  <!-- Guardamos el DataURL de forma segura sin romper comillas de JS -->
+  <div class="viewer-container" id="viewer-container">
+    <div id="loading-msg" class="loading">Cargando motor PDF.js...</div>
+    <canvas id="pdf-canvas"></canvas>
+  </div>
+
+  <!-- Contenido en Base64 inyectado por el servidor de datos -->
   <script id="raw-data" type="text/plain">{{FILE_DATA_URL}}</script>
 
   <script>
-    (function() {
-      try {
-        const dataUrl = document.getElementById('raw-data').textContent.trim();
-        if (!dataUrl || !dataUrl.includes(',')) {
-          throw new Error("El archivo PDF está vacío o corrupto.");
-        }
+    let pdfDoc = null;
+    let pageNum = 1;
+    let pageRendering = false;
+    let pageNumPending = null;
+    let scale = 1.2;
+    const canvas = document.getElementById('pdf-canvas');
+    const ctx = canvas.getContext('2d');
 
-        const base64 = dataUrl.split(',')[1];
-        const binaryString = atob(base64);
-        const len = binaryString.length;
-        const bytes = new Uint8Array(len);
-        for (let i = 0; i < len; i++) {
-          bytes[i] = binaryString.charCodeAt(i);
-        }
-
-        const blob = new Blob([bytes], { type: 'application/pdf' });
-        const blobUrl = URL.createObjectURL(blob);
-
-        document.getElementById('pdf-container').src = blobUrl;
-        document.getElementById('download-link').href = blobUrl;
-      } catch (err) {
-        document.body.innerHTML = `<div class="error-box"><h3>No se pudo renderizar el PDF</h3><p style="margin-top:8px;color:#94a3b8;font-size:14px;">${err.message}</p></div>`;
+    const dataUrl = document.getElementById('raw-data').textContent.trim();
+    
+    if (dataUrl && dataUrl.includes(',')) {
+      // Convertir Base64 a Uint8Array de forma limpia
+      const base64 = dataUrl.split(',')[1];
+      const binaryString = atob(base64);
+      const len = binaryString.length;
+      const bytes = new Uint8Array(len);
+      for (let i = 0; i < len; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
       }
-    })();
-  </script>
-</body>
-</html>
+
+      // Enlace directo de respaldo para descarga
+      const blob = new Blob([bytes], { type: 'application/pdf' });
+      document.getElementById('download-btn').href = URL.createObjectURL(blob);
+
+      // Cargar con PDF.js
+      pdfjsLib.getDocument({ data: bytes }).promise.then(function(pdfDoc_) {
+        pdfDoc = pdfDoc_;
+        document.getElementById('loading-msg').style.display = 'none';
+        document.getElementById('page-info').textContent = `Pág: 1 / ${pdfDoc.numPages}`;
+        renderPage(pageNum);
+      }).catch(err => {
+        document.getElementById('loading-msg').innerHTML = `<span style="color:#f43f5e;">Error al decodificar PDF: ${err.message}</span>`;
+      });
+    } else {
+      document.getElementById('loading-msg').innerHTML = `<span style="color:#f43f5e;">Archivo PDF vacío o no disponible.</span>`;
+    }
+
+    function renderPage(num) {
+      pageRendering = true;
+      pdfDoc.getPage(num).then(function(page) {
+        const viewport = page.getView
