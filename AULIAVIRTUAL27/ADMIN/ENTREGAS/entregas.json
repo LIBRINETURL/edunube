@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795730966998,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "LENGUA",
+    "exerciseTitle": "Consulta de Material",
+    "message": "Antonio (@antonio) ha abierto \"Repaso examen para viernes 27_11.pdf\" (Repaso examen para viernes 27_11.pdf) en el curso LENGUA.",
+    "timestamp": "26/11/2026, 23:09:26",
+    "date": "26/11/2026, 23:09:26"
+  },
+  {
     "id": 1795730958002,
     "type": "activity",
     "handle": "antonio",
