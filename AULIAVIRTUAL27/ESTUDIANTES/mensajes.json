@@ -1,5 +1,22 @@
 [
   {
+    "id": 1795727046678,
+    "title": "MATERIAL DE PRUEBA",
+    "body": "Hola @antonio",
+    "mentions": [
+      "antonio"
+    ],
+    "attachments": [
+      {
+        "diskFileId": 1795726993046,
+        "name": "Captura de pantalla 2026-05-10 234731.png",
+        "ext": "png",
+        "cloudPath": "AULIAVIRTUAL27/DISCO/prueba/1795726993046_Captura_de_pantalla_2026-05-10_234731.png"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  {
     "id": 1795724749406,
     "title": "MATERIAL",
     "body": "Hola @antonio te adjunto esta pancarta",
