@@ -1,5 +1,24 @@
 [
   {
+    "id": 1795724749406,
+    "title": "MATERIAL",
+    "body": "Hola @antonio te adjunto esta pancarta",
+    "mentions": [
+      "antonio"
+    ],
+    "attachments": [
+      {
+        "name": "707234c4-1af0-45c4-b69e-5504498f765c.jpg",
+        "cloudPath": "AULIAVIRTUAL27/ESTUDIANTES/ADJUNTOS/1795724717224_707234c4-1af0-45c4-b69e-5504498f765cjpg"
+      },
+      {
+        "name": "descarga (1).jpg",
+        "cloudPath": "AULIAVIRTUAL27/ESTUDIANTES/ADJUNTOS/1795724741866_descarga_1jpg"
+      }
+    ],
+    "date": "2026-11-26"
+  },
+  {
     "id": 301,
     "title": "Bienvenida al curso 2026/27",
     "body": "Hola @carlosmendoza y @elenanavarro, bienvenidos al entorno virtual.",
