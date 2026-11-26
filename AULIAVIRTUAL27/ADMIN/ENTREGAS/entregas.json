@@ -1,27 +1,5 @@
 [
   {
-    "id": 1795731517138,
-    "type": "activity",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Apertura de Archivo Adjunto",
-    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"707234c4-1af0-45c4-b69e-5504498f765c.jpg\".",
-    "timestamp": "26/11/2026, 23:18:37",
-    "date": "26/11/2026, 23:18:37"
-  },
-  {
-    "id": 1795731512812,
-    "type": "login",
-    "handle": "antonio",
-    "studentName": "Antonio",
-    "courseName": "Sistema General",
-    "exerciseTitle": "Inicio de Sesión",
-    "message": "Antonio (@antonio) ha iniciado sesión en el Aula Virtual.",
-    "timestamp": "26/11/2026, 23:18:32",
-    "date": "26/11/2026, 23:18:32"
-  },
-  {
     "id": 1795731396402,
     "type": "activity",
     "handle": "antonio",
