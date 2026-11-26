@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795731328920,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Apertura de Archivo Adjunto",
+    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"Repaso examen para viernes 27_11.pdf\".",
+    "timestamp": "26/11/2026, 23:15:28",
+    "date": "26/11/2026, 23:15:28"
+  },
+  {
     "id": 1795731326566,
     "type": "login",
     "handle": "antonio",
