@@ -1,126 +1,225 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Visor: {{FILE_NAME}}</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-    body {
-      font-family: system-ui, -apple-system, sans-serif;
-      background-color: #1e1e1e;
-      color: #ffffff;
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
-      overflow: hidden;
-      /* Evita selección de texto en la interfaz */
-      user-select: none; 
-    }
-    header {
-      background-color: #2d2d2d;
-      padding: 12px 20px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      border-bottom: 1px solid #404040;
-    }
-    .file-title {
-      font-size: 16px;
-      font-weight: 600;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-    .badge {
-      background-color: #d9534f;
-      font-size: 12px;
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-weight: bold;
-    }
-    #viewer-container {
-      flex: 1;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      width: 100%;
-      height: 100%;
-    }
-    iframe, embed, img {
-      width: 100%;
-      height: 100%;
-      border: none;
-      object-fit: contain;
-    }
-    /* Capa invisible sobre imágenes para dificultar arrastrar/guardar */
-    .shield {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: 10;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor: {{FILE_NAME}}</title>
+    <!-- Librería PDF.js para renderizar PDFs directamente en HTML/Canvas sin iframe -->
+    <script src="https://cloudflare.com"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+            user-select: none;
+        }
+        header {
+            background-color: #2d2d2d;
+            padding: 12px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #404040;
+            z-index: 20;
+        }
+        .file-title {
+            font-size: 16px;
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .badge {
+            background-color: #d9534f;
+            font-size: 12px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        #viewer-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+            width: 100%;
+            height: 100%;
+            overflow-y: auto;
+            padding: 20px;
+            gap: 16px;
+        }
+        /* Estilos para imágenes */
+        #viewer-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            margin: auto;
+            pointer-events: none;
+        }
+        /* Estilos para páginas PDF renderizadas */
+        #viewer-container canvas {
+            max-width: 100%;
+            height: auto;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            background-color: #ffffff;
+            pointer-events: none;
+        }
+        /* Estilos para contenido HTML o texto plano */
+        .html-content {
+            background-color: #ffffff;
+            color: #111111;
+            width: 100%;
+            max-width: 900px;
+            padding: 32px;
+            border-radius: 6px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            overflow-x: auto;
+            user-select: none;
+        }
+        .text-content {
+            background-color: #252526;
+            color: #d4d4d4;
+            width: 100%;
+            max-width: 900px;
+            padding: 24px;
+            border-radius: 6px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            word-break: break-word;
+            user-select: none;
+        }
+        /* Capa transparente general para dificultar interacción directa */
+        .shield {
+            position: fixed;
+            top: 49px; /* Debajo del header */
+            left: 0;
+            width: 100%;
+            height: calc(100% - 49px);
+            z-index: 10;
+            pointer-events: none; /* Permite hacer scroll en el contenedor */
+        }
+    </style>
 </head>
-<!-- Bloquea el clic derecho en todo el documento -->
 <body oncontextmenu="return false;">
+    <header>
+        <div class="file-title">📄 {{FILE_NAME}}</div>
+        <span class="badge">Solo lectura</span>
+    </header>
+    
+    <main id="viewer-container">
+        <!-- El contenido se decodifica y renderiza directamente en el DOM -->
+    </main>
+    <div class="shield"></div>
 
-  <header>
-    <div class="file-title">📄 {{FILE_NAME}}</div>
-    <span class="badge">Solo lectura</span>
-  </header>
+    <script>
+        const fileDataUrl = "{{FILE_DATA_URL}}";
+        const fileName = "{{FILE_NAME}}";
+        const container = document.getElementById("viewer-container");
 
-  <main id="viewer-container">
-    <!-- El contenido se inyecta dinámicamente mediante JavaScript -->
-  </main>
+        // Configurar worker de PDF.js
+        if (window.pdfjsLib) {
+            pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cloudflare.com';
+        }
 
-  <script>
-    const fileDataUrl = "{{FILE_DATA_URL}}";
-    const fileName = "{{FILE_NAME}}";
-    const container = document.getElementById("viewer-container");
+        // Función para decodificar Data URL (Base64 o texto URL-encoded)
+        function decodeDataUrl(dataUrl) {
+            const commaIndex = dataUrl.indexOf(",");
+            if (commaIndex === -1) return dataUrl;
+            
+            const meta = dataUrl.substring(0, commaIndex);
+            const rawData = dataUrl.substring(commaIndex + 1);
+            
+            if (meta.includes(";base64")) {
+                // Decodificación segura de UTF-8 desde Base64
+                const binaryString = atob(rawData);
+                const bytes = new Uint8Array(binaryString.length);
+                for (let i = 0; i < binaryString.length; i++) {
+                    bytes[i] = binaryString.charCodeAt(i);
+                }
+                return new TextDecoder("utf-8").decode(bytes);
+            } else {
+                return decodeURIComponent(rawData);
+            }
+        }
 
-    // Detectar si es imagen o documento (PDF, texto, etc.)
-    const isImage = fileDataUrl.startsWith("data:image/") || /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(fileName);
+        async function renderFile() {
+            const isImage = fileDataUrl.startsWith("data:image/") || /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(fileName);
+            const isPdf = fileDataUrl.startsWith("data:application/pdf") || /\.pdf$/i.test(fileName);
+            const isHtml = fileDataUrl.startsWith("data:text/html") || /\.(html|htm)$/i.test(fileName);
 
-    if (isImage) {
-      const img = document.createElement("img");
-      img.src = fileDataUrl;
-      img.alt = fileName;
-      img.draggable = false;
+            if (isImage) {
+                const img = document.createElement("img");
+                img.src = fileDataUrl;
+                img.alt = fileName;
+                img.draggable = false;
+                container.appendChild(img);
 
-      // Escudo transparente para evitar guardar imagen
-      const shield = document.createElement("div");
-      shield.className = "shield";
+            } else if (isPdf) {
+                try {
+                    const loadingTask = pdfjsLib.getDocument(fileDataUrl);
+                    const pdf = await loadingTask.promise;
 
-      container.appendChild(img);
-      container.appendChild(shield);
-    } else {
-      // Para PDF: añade #toolbar=0 para ocultar botones de descarga e impresión
-      const cleanUrl = fileDataUrl.includes("#") 
-        ? `${fileDataUrl}&toolbar=0&navpanes=0` 
-        : `${fileDataUrl}#toolbar=0&navpanes=0`;
+                    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                        const page = await pdf.getPage(pageNum);
+                        const scale = 1.5;
+                        const viewport = page.getViewport({ scale });
 
-      const iframe = document.createElement("iframe");
-      iframe.src = cleanUrl;
-      // Restringe permisos dentro del iframe
-      iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
-      container.appendChild(iframe);
-    }
+                        const canvas = document.createElement("canvas");
+                        const context = canvas.getContext("2d");
+                        canvas.height = viewport.height;
+                        canvas.width = viewport.width;
 
-    // Bloquear atajos de teclado comunes (Ctrl+S, Ctrl+P, Ctrl+U)
-    document.addEventListener("keydown", function(e) {
-      if ((e.ctrlKey || e.metaKey) && ["s", "p", "u", "c"].includes(e.key.toLowerCase())) {
-        e.preventDefault();
-      }
-    });
-  </script>
+                        await page.render({ canvasContext: context, viewport }).promise;
+                        container.appendChild(canvas);
+                    }
+                } catch (err) {
+                    container.innerHTML = `<p style="color:#ff6b6b;">Error al procesar el PDF: ${err.message}</p>`;
+                }
 
+            } else if (isHtml) {
+                const decodedHtml = decodeDataUrl(fileDataUrl);
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(decodedHtml, "text/html");
+
+                const wrapper = document.createElement("div");
+                wrapper.className = "html-content";
+
+                // Extraer estilos del HTML original si existen y encapsularlos
+                doc.querySelectorAll("style").forEach(styleTag => {
+                    wrapper.appendChild(styleTag.cloneNode(true));
+                });
+
+                // Inyectar solo el contenido visible del body
+                wrapper.innerHTML += doc.body ? doc.body.innerHTML : decodedHtml;
+                container.appendChild(wrapper);
+
+            } else {
+                // Cualquier otro archivo de texto (TXT, JSON, CSV, XML, MD, etc.)
+                const decodedText = decodeDataUrl(fileDataUrl);
+                const pre = document.createElement("pre");
+                pre.className = "text-content";
+                pre.textContent = decodedText;
+                container.appendChild(pre);
+            }
+        }
+
+        renderFile();
+
+        // Bloquear atajos de teclado comunes (Ctrl+S, Ctrl+P, Ctrl+U, Ctrl+C)
+        document.addEventListener("keydown", function(e) {
+            if ((e.ctrlKey || e.metaKey) && ["s", "p", "u", "c"].includes(e.key.toLowerCase())) {
+                e.preventDefault();
+            }
+        });
+    </script>
 </body>
 </html>
