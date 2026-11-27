@@ -1,4 +1,17 @@
 {
-  "folders": [],
+  "folders": [
+    {
+      "id": 1795801916082,
+      "name": "Ingles",
+      "parentId": null,
+      "createdAt": "2026-11-27"
+    },
+    {
+      "id": 1795801923033,
+      "name": "REPASO EXAMEN",
+      "parentId": 1795801916082,
+      "createdAt": "2026-11-27"
+    }
+  ],
   "files": []
 }
