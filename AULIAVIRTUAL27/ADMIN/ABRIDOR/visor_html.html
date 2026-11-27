@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visor: {{FILE_NAME}}</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background-color: #1e1e1e;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow: hidden;
+      /* Evita selección de texto en la interfaz */
+      user-select: none; 
+    }
+    header {
+      background-color: #2d2d2d;
+      padding: 12px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #404040;
+    }
+    .file-title {
+      font-size: 16px;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .badge {
+      background-color: #d9534f;
+      font-size: 12px;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    #viewer-container {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    iframe, embed, img {
+      width: 100%;
+      height: 100%;
+      border: none;
+      object-fit: contain;
+    }
+    /* Capa invisible sobre imágenes para dificultar arrastrar/guardar */
+    .shield {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 10;
+    }
+  </style>
+</head>
+<!-- Bloquea el clic derecho en todo el documento -->
+<body oncontextmenu="return false;">
+
+  <header>
+    <div class="file-title">📄 {{FILE_NAME}}</div>
+    <span class="badge">Solo lectura</span>
+  </header>
+
+  <main id="viewer-container">
+    <!-- El contenido se inyecta dinámicamente mediante JavaScript -->
+  </main>
+
+  <script>
+    const fileDataUrl = "{{FILE_DATA_URL}}";
+    const fileName = "{{FILE_NAME}}";
+    const container = document.getElementById("viewer-container");
+
+    // Detectar si es imagen o documento (PDF, texto, etc.)
+    const isImage = fileDataUrl.startsWith("data:image/") || /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(fileName);
+
+    if (isImage) {
+      const img = document.createElement("img");
+      img.src = fileDataUrl;
+      img.alt = fileName;
+      img.draggable = false;
+
+      // Escudo transparente para evitar guardar imagen
+      const shield = document.createElement("div");
+      shield.className = "shield";
+
+      container.appendChild(img);
+      container.appendChild(shield);
+    } else {
+      // Para PDF: añade #toolbar=0 para ocultar botones de descarga e impresión
+      const cleanUrl = fileDataUrl.includes("#") 
+        ? `${fileDataUrl}&toolbar=0&navpanes=0` 
+        : `${fileDataUrl}#toolbar=0&navpanes=0`;
+
+      const iframe = document.createElement("iframe");
+      iframe.src = cleanUrl;
+      // Restringe permisos dentro del iframe
+      iframe.setAttribute("sandbox", "allow-scripts allow-same-origin");
+      container.appendChild(iframe);
+    }
+
+    // Bloquear atajos de teclado comunes (Ctrl+S, Ctrl+P, Ctrl+U)
+    document.addEventListener("keydown", function(e) {
+      if ((e.ctrlKey || e.metaKey) && ["s", "p", "u", "c"].includes(e.key.toLowerCase())) {
+        e.preventDefault();
+      }
+    });
+  </script>
+
+</body>
+</html>
