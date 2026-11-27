@@ -1,66 +1,13 @@
 [
   {
-    "id": 1795740967957,
-    "title": "ASD",
-    "body": "@antonio DEBERES",
+    "id": 301,
+    "title": "Bienvenida al curso 2026/27",
+    "body": "Hola @carlosmendoza y @elenanavarro, bienvenidos al entorno virtual.",
     "mentions": [
-      "antonio"
-    ],
-    "attachments": [
-      {
-        "diskFileId": 1795740867437,
-        "name": "Captura de pantalla 2026-11-27 015340.png",
-        "ext": "png",
-        "cloudPath": "AULIAVIRTUAL27/DISCO/Capturas_subidas/1795740867437_Captura_de_pantalla_2026-11-27_015340.png"
-      }
-    ],
-    "date": "2026-11-27"
-  },
-  {
-    "id": 1795740931346,
-    "title": "Deberes de fisica 27/11/26",
-    "body": "Hola @ja mañana tienes de deberes de física el 6.",
-    "mentions": [
-      "ja"
-    ],
-    "attachments": [
-      {
-        "diskFileId": 1795740867437,
-        "name": "Captura de pantalla 2026-11-27 015340.png",
-        "ext": "png",
-        "cloudPath": "AULIAVIRTUAL27/DISCO/Capturas_subidas/1795740867437_Captura_de_pantalla_2026-11-27_015340.png"
-      }
-    ],
-    "date": "2026-11-27"
-  },
-  {
-    "id": 1795740695546,
-    "title": "ads",
-    "body": "@antonio",
-    "mentions": [
-      "antonio"
+      "carlosmendoza",
+      "elenanavarro"
     ],
     "attachments": [],
-    "date": "2026-11-27"
-  },
-  {
-    "id": 1795734918484,
-    "title": "AULIA 3.0",
-    "body": "Bienvenido a AULIA 3.0 @JA.Disfruta de esta nueva etapa de aulia .Se te sera muy sencillo acustumbrarte a la nueva aulia .Tu plan de pago actual es free . Un saludo euipo de aulia.",
-    "mentions": [
-      "ja"
-    ],
-    "attachments": [],
-    "date": "2026-11-26"
-  },
-  {
-    "id": 1795732476900,
-    "title": "Nuevo usuario",
-    "body": "Bienvenido , @ja .Ha sido añadido a nuestro nuevo sistema de aulia . Puede que haya recibido mensajes de prueba de sistema anteriores por favor ignóralos.Como vera en su interfaz tiene varias partes  calendario vera sus eventos pulse el dia del evento y le aparecera toda la informacion , ademas de cursos donde vera los cursos donde esta inscrito , ademas de notificaciones para que una notificacion le deje de molestar puede pulsar sobre ella o en ver todas , recuerde que todos los cambios de aulia , subidas o cosas importantes le llegaran por ahi . Tambien queremos notificarle que las notificaciones de nuestro sistema son automatizadas y no se pueden desactivar simplemente ingnorelas . Actualmente aulia virtual usa un sistema fremium , es decir , usted esta en la version gratuita con unas funciones que recibira entre ellas sera la interfaz estandar y acceso a actualizaciones de contenido . Es decir usted tendra acceso a la misma cantidad de informacion que los usuarios premium la diferencia esta en la interfaz (modo oscuro , temas de apps , y pantalla inicial con widgets inteligentes potenciados por nuestra IA clippy o no poseer anuncion en un futuro  ).Un saludo el equipo de aulia",
-    "mentions": [
-      "ja"
-    ],
-    "attachments": [],
-    "date": "2026-11-26"
+    "date": "2026-11-23"
   }
 ]
