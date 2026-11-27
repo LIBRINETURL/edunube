@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795741671975,
+    "type": "activity",
+    "handle": "antonio",
+    "studentName": "Antonio",
+    "courseName": "Sistema General",
+    "exerciseTitle": "Apertura de Archivo Adjunto",
+    "message": "Antonio (@antonio) ha abierto el archivo adjunto \"Captura de pantalla 2026-11-27 015340.png\".",
+    "timestamp": "27/11/2026, 2:07:51",
+    "date": "27/11/2026, 2:07:51"
+  },
+  {
     "id": 1795741669133,
     "type": "login",
     "handle": "antonio",
